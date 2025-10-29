@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.30">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Phân tích chu: chu_lang_nghiem_version_2.pdf</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="analysis_chln_files/libs/clipboard/clipboard.min.js"></script>
+<script src="analysis_chln_files/libs/quarto-html/quarto.js" type="module"></script>
+<script src="analysis_chln_files/libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="analysis_chln_files/libs/quarto-html/popper.min.js"></script>
+<script src="analysis_chln_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="analysis_chln_files/libs/quarto-html/anchor.min.js"></script>
+<link href="analysis_chln_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="analysis_chln_files/libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="analysis_chln_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="analysis_chln_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="analysis_chln_files/libs/bootstrap/bootstrap-81267100e462c21b3d6c0d5bf76a3417.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="analysis_chln_files/libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+<script src="analysis_chln_files/libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+<link href="analysis_chln_files/libs/wordcloud2-0.0.1/wordcloud.css" rel="stylesheet">
+<script src="analysis_chln_files/libs/wordcloud2-0.0.1/wordcloud2-all.js"></script>
+<script src="analysis_chln_files/libs/wordcloud2-0.0.1/hover.js"></script>
+<script src="analysis_chln_files/libs/wordcloud2-binding-0.2.1/wordcloud2.js"></script>
+
+
+</head>
+
+<body class="quarto-light">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#mục-tiêu" id="toc-mục-tiêu" class="nav-link active" data-scroll-target="#mục-tiêu">Mục tiêu</a></li>
+  <li><a href="#đặt-đường-dẫn-file-pdf-chỉnh-nếu-cần" id="toc-đặt-đường-dẫn-file-pdf-chỉnh-nếu-cần" class="nav-link" data-scroll-target="#đặt-đường-dẫn-file-pdf-chỉnh-nếu-cần">1. Đặt đường dẫn file PDF (chỉnh nếu cần)</a></li>
+  <li><a href="#trích-text-từ-pdf-pdf_text-fallback-ocr-nếu-trống" id="toc-trích-text-từ-pdf-pdf_text-fallback-ocr-nếu-trống" class="nav-link" data-scroll-target="#trích-text-từ-pdf-pdf_text-fallback-ocr-nếu-trống">2. Trích text từ PDF (pdf_text), fallback OCR nếu trống</a></li>
+  <li><a href="#tạo-dataframe-dòngđoạn" id="toc-tạo-dataframe-dòngđoạn" class="nav-link" data-scroll-target="#tạo-dataframe-dòngđoạn">3. Tạo dataframe dòng/đoạn</a></li>
+  <li><a href="#stopwords-tiếng-việt-nạp-file-nếu-có-ngược-lại-dùng-danh-sách-cơ-bản" id="toc-stopwords-tiếng-việt-nạp-file-nếu-có-ngược-lại-dùng-danh-sách-cơ-bản" class="nav-link" data-scroll-target="#stopwords-tiếng-việt-nạp-file-nếu-có-ngược-lại-dùng-danh-sách-cơ-bản">4. Stopwords tiếng Việt — nạp file nếu có, ngược lại dùng danh sách cơ bản</a></li>
+  <li><a href="#tokenization-lọc-stopwords" id="toc-tokenization-lọc-stopwords" class="nav-link" data-scroll-target="#tokenization-lọc-stopwords">5. Tokenization &amp; lọc stopwords</a></li>
+  <li><a href="#tần-suất-từ-biểu-đồ-top-20" id="toc-tần-suất-từ-biểu-đồ-top-20" class="nav-link" data-scroll-target="#tần-suất-từ-biểu-đồ-top-20">6. Tần suất từ &amp; biểu đồ top 20</a></li>
+  <li><a href="#wordcloud" id="toc-wordcloud" class="nav-link" data-scroll-target="#wordcloud">7. Wordcloud</a></li>
+  <li><a href="#n-grams-bigram-lọc-stopwords-hai-bên" id="toc-n-grams-bigram-lọc-stopwords-hai-bên" class="nav-link" data-scroll-target="#n-grams-bigram-lọc-stopwords-hai-bên">8. N-grams (bigram) — lọc stopwords hai bên</a></li>
+  <li><a href="#tuỳ-chọn-pos-lemma-với-udpipe" id="toc-tuỳ-chọn-pos-lemma-với-udpipe" class="nav-link" data-scroll-target="#tuỳ-chọn-pos-lemma-với-udpipe">9. (Tuỳ chọn) POS / Lemma với udpipe</a></li>
+  <li><a href="#lưu-kết-quả-tần-suất" id="toc-lưu-kết-quả-tần-suất" class="nav-link" data-scroll-target="#lưu-kết-quả-tần-suất">10. Lưu kết quả tần suất</a></li>
+  <li><a href="#ghi-chú-quan-trọng" id="toc-ghi-chú-quan-trọng" class="nav-link" data-scroll-target="#ghi-chú-quan-trọng">Ghi chú quan trọng</a></li>
+  </ul>
+</nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Phân tích chu: chu_lang_nghiem_version_2.pdf</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="mục-tiêu" class="level2">
+<h2 class="anchored" data-anchor-id="mục-tiêu">Mục tiêu</h2>
+<p>Tự động đọc <code>pdf_books/chu_lang_nghiem_version_2.pdf</code>, trích xuất văn bản (pdf_text hoặc OCR nếu cần), tiền xử lý tiếng Việt và thực hiện một số phân tích cơ bản: tần suất từ, bigrams, wordcloud, và (tuỳ) POS/lemma bằng udpipe.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Cài/gọi gói (bỏ phần install khi đã cài)</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="sc">!</span><span class="fu">requireNamespace</span>(<span class="st">"pacman"</span>, <span class="at">quietly =</span> <span class="cn">TRUE</span>)) <span class="fu">install.packages</span>(<span class="st">"pacman"</span>)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>pacman<span class="sc">::</span><span class="fu">p_load</span>(pdftools, magick, tesseract, stringi, tidyverse, tidytext, ggplot2, wordcloud2, udpipe, readr, quanteda)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+The downloaded binary packages are in
+    /var/folders/_2/mynsp27d76xdxwx3f_dsp0fc0000gn/T//Rtmp9aAMar/downloaded_packages</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+The downloaded binary packages are in
+    /var/folders/_2/mynsp27d76xdxwx3f_dsp0fc0000gn/T//Rtmp9aAMar/downloaded_packages</code></pre>
+</div>
+</div>
+</section>
+<section id="đặt-đường-dẫn-file-pdf-chỉnh-nếu-cần" class="level2">
+<h2 class="anchored" data-anchor-id="đặt-đường-dẫn-file-pdf-chỉnh-nếu-cần">1. Đặt đường dẫn file PDF (chỉnh nếu cần)</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>pdf_path <span class="ot">&lt;-</span> <span class="st">"pdf_books/chu_lang_nghiem_version_2.pdf"</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="sc">!</span><span class="fu">file.exists</span>(pdf_path)) <span class="fu">stop</span>(<span class="st">"Không tìm thấy file PDF tại: "</span>, pdf_path)</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>pdf_path</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] "pdf_books/chu_lang_nghiem_version_2.pdf"</code></pre>
+</div>
+</div>
+</section>
+<section id="trích-text-từ-pdf-pdf_text-fallback-ocr-nếu-trống" class="level2">
+<h2 class="anchored" data-anchor-id="trích-text-từ-pdf-pdf_text-fallback-ocr-nếu-trống">2. Trích text từ PDF (pdf_text), fallback OCR nếu trống</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># 1) Thử trích bằng pdftools</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>pages_text <span class="ot">&lt;-</span> pdftools<span class="sc">::</span><span class="fu">pdf_text</span>(pdf_path)</span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Kiểm tra xem có nội dung chữ hay chỉ ảnh</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>text_all <span class="ot">&lt;-</span> <span class="fu">paste</span>(pages_text, <span class="at">collapse =</span> <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>)</span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>text_trim <span class="ot">&lt;-</span> stringi<span class="sc">::</span><span class="fu">stri_trim_both</span>(text_all)</span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">nchar</span>(text_trim) <span class="sc">&lt;</span> <span class="dv">30</span>) {</span>
+<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">message</span>(<span class="st">"pdf_text trả về rất ít ký tự — có thể PDF scan (ảnh). Chạy OCR bằng tesseract..."</span>)</span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>  <span class="co"># OCR bằng magick + tesseract: cần cài tesseract binary trước</span></span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Nếu muốn giới hạn số trang, có thể dùng pdftools::pdf_convert hoặc image_read</span></span>
+<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>  img_list <span class="ot">&lt;-</span> magick<span class="sc">::</span><span class="fu">image_read</span>(pdf_path)</span>
+<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a>  ocr_pages <span class="ot">&lt;-</span> <span class="fu">sapply</span>(img_list, <span class="cf">function</span>(img) tesseract<span class="sc">::</span><span class="fu">ocr</span>(img, <span class="at">engine =</span> tesseract<span class="sc">::</span><span class="fu">tesseract</span>(<span class="st">"vie"</span>)))</span>
+<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>  text_all <span class="ot">&lt;-</span> <span class="fu">paste</span>(ocr_pages, <span class="at">collapse =</span> <span class="st">"</span><span class="sc">\n</span><span class="st">"</span>)</span>
+<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">message</span>(<span class="st">"Đã trích text bằng pdftools."</span>)</span>
+<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Chuẩn hóa Unicode</span></span>
+<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>text_all <span class="ot">&lt;-</span> stringi<span class="sc">::</span><span class="fu">stri_trans_nfkc</span>(text_all)</span>
+<span id="cb6-19"><a href="#cb6-19" aria-hidden="true" tabindex="-1"></a><span class="co"># Lưu bản text thô để kiểm tra</span></span>
+<span id="cb6-20"><a href="#cb6-20" aria-hidden="true" tabindex="-1"></a>readr<span class="sc">::</span><span class="fu">write_file</span>(text_all, <span class="st">"data/chu_lang_nghiem_raw.txt"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-error">
+<pre><code>Error in open.connection(file, "wb"): cannot open the connection</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"Đã lưu text thô vào data/chu_lang_nghiem_raw.txt</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Đã lưu text thô vào data/chu_lang_nghiem_raw.txt</code></pre>
+</div>
+</div>
+</section>
+<section id="tạo-dataframe-dòngđoạn" class="level2">
+<h2 class="anchored" data-anchor-id="tạo-dataframe-dòngđoạn">3. Tạo dataframe dòng/đoạn</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>df_lines <span class="ot">&lt;-</span> <span class="fu">tibble</span>(<span class="at">line =</span> <span class="fu">unlist</span>(<span class="fu">strsplit</span>(text_all, <span class="st">"</span><span class="sc">\\</span><span class="st">n+"</span>))) <span class="sc">%&gt;%</span></span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">line =</span> stringi<span class="sc">::</span><span class="fu">stri_trim_both</span>(line)) <span class="sc">%&gt;%</span></span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(line <span class="sc">!=</span> <span class="st">""</span>)</span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a><span class="fu">glimpse</span>(df_lines, <span class="at">width =</span> <span class="dv">60</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Rows: 482
+Columns: 1
+$ line &lt;chr&gt; "‭ĐẠO TRÀNG LIÊN HOA‬", "‭ HÚ‬", "C", "‭LĂNG …</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Nếu PDF có nhiều header/footer lặp, cần bổ sung lọc thủ công</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="stopwords-tiếng-việt-nạp-file-nếu-có-ngược-lại-dùng-danh-sách-cơ-bản" class="level2">
+<h2 class="anchored" data-anchor-id="stopwords-tiếng-việt-nạp-file-nếu-có-ngược-lại-dùng-danh-sách-cơ-bản">4. Stopwords tiếng Việt — nạp file nếu có, ngược lại dùng danh sách cơ bản</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>stopfile <span class="ot">&lt;-</span> <span class="st">"data/vn_stopwords.txt"</span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">file.exists</span>(stopfile)) {</span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>  vn_stop <span class="ot">&lt;-</span> readr<span class="sc">::</span><span class="fu">read_lines</span>(stopfile) <span class="sc">%&gt;%</span> <span class="fu">str_trim</span>() <span class="sc">%&gt;%</span> <span class="fu">tolower</span>() <span class="sc">%&gt;%</span> <span class="fu">unique</span>()</span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">message</span>(<span class="st">"Đã nạp stopwords từ "</span>, stopfile)</span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">message</span>(<span class="st">"Không tìm thấy data/vn_stopwords.txt — dùng danh sách stopwords cơ bản (gợi ý cải thiện)."</span>)</span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a>  vn_stop <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"và"</span>,<span class="st">"là"</span>,<span class="st">"của"</span>,<span class="st">"có"</span>,<span class="st">"cho"</span>,<span class="st">"với"</span>,<span class="st">"trong"</span>,<span class="st">"một"</span>,<span class="st">"như"</span>,<span class="st">"được"</span>,<span class="st">"tâm"</span>,<span class="st">"ta"</span>,<span class="st">"con"</span>,<span class="st">"chú"</span>,<span class="st">"phật"</span>,<span class="st">"bồ"</span>,<span class="st">"từ"</span>,<span class="st">"người"</span>) <span class="co"># mở rộng theo nhu cầu</span></span>
+<span id="cb13-8"><a href="#cb13-8" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb13-9"><a href="#cb13-9" aria-hidden="true" tabindex="-1"></a><span class="fu">length</span>(vn_stop)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 18</code></pre>
+</div>
+</div>
+</section>
+<section id="tokenization-lọc-stopwords" class="level2">
+<h2 class="anchored" data-anchor-id="tokenization-lọc-stopwords">5. Tokenization &amp; lọc stopwords</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>tokens <span class="ot">&lt;-</span> df_lines <span class="sc">%&gt;%</span></span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">text =</span> line) <span class="sc">%&gt;%</span></span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">unnest_tokens</span>(word, text, <span class="at">token =</span> <span class="st">"words"</span>) <span class="sc">%&gt;%</span> <span class="co"># tidytext tokenization cơ bản (space-based) phù hợp tiếng Việt</span></span>
+<span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">word =</span> <span class="fu">str_to_lower</span>(word),</span>
+<span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a>         <span class="at">word =</span> <span class="fu">str_replace_all</span>(word, <span class="st">"[0-9</span><span class="sc">\\</span><span class="st">p{Punct}]+"</span>, <span class="st">""</span>)) <span class="sc">%&gt;%</span></span>
+<span id="cb15-6"><a href="#cb15-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="fu">str_detect</span>(word, <span class="st">"[[:alpha:]]"</span>)) <span class="sc">%&gt;%</span></span>
+<span id="cb15-7"><a href="#cb15-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="fu">nchar</span>(word) <span class="sc">&gt;</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span>  <span class="co"># loại ký tự 1 chữ cái</span></span>
+<span id="cb15-8"><a href="#cb15-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="sc">!</span>word <span class="sc">%in%</span> vn_stop)</span>
+<span id="cb15-9"><a href="#cb15-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb15-10"><a href="#cb15-10" aria-hidden="true" tabindex="-1"></a>tokens <span class="sc">%&gt;%</span> <span class="fu">count</span>(word, <span class="at">sort =</span> <span class="cn">TRUE</span>) <span class="sc">%&gt;%</span> <span class="fu">slice_head</span>(<span class="at">n =</span> <span class="dv">10</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 10 × 2
+   word      n
+   &lt;chr&gt; &lt;int&gt;
+ 1 ra      234
+ 2 bà      109
+ 3 ha      103
+ 4 đà       86
+ 5 đa       82
+ 6 dạ       79
+ 7 rị       78
+ 8 yết      72
+ 9 xà       58
+10 ca       50</code></pre>
+</div>
+</div>
+</section>
+<section id="tần-suất-từ-biểu-đồ-top-20" class="level2">
+<h2 class="anchored" data-anchor-id="tần-suất-từ-biểu-đồ-top-20">6. Tần suất từ &amp; biểu đồ top 20</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>freq <span class="ot">&lt;-</span> tokens <span class="sc">%&gt;%</span> <span class="fu">count</span>(word, <span class="at">sort =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a>top20 <span class="ot">&lt;-</span> freq <span class="sc">%&gt;%</span> <span class="fu">slice_max</span>(n, <span class="at">n =</span> <span class="dv">20</span>)</span>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a>top20 <span class="sc">%&gt;%</span></span>
+<span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="fu">reorder</span>(word, n), n)) <span class="sc">+</span></span>
+<span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_col</span>(<span class="at">fill =</span> <span class="st">"steelblue"</span>) <span class="sc">+</span></span>
+<span id="cb17-6"><a href="#cb17-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">coord_flip</span>() <span class="sc">+</span></span>
+<span id="cb17-7"><a href="#cb17-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">x =</span> <span class="st">"Từ"</span>, <span class="at">y =</span> <span class="st">"Tần suất"</span>, <span class="at">title =</span> <span class="st">"Top 20 từ (sau lọc stopwords)"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="analysis_chln_files/figure-html/unnamed-chunk-6-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="wordcloud" class="level2">
+<h2 class="anchored" data-anchor-id="wordcloud">7. Wordcloud</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a>wdata <span class="ot">&lt;-</span> freq <span class="sc">%&gt;%</span> <span class="fu">slice_max</span>(n, <span class="at">n =</span> <span class="dv">200</span>)</span>
+<span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a><span class="co"># Nếu chạy trong trình duyệt/HTML, wordcloud2 hiển thị tốt</span></span>
+<span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">nrow</span>(wdata) <span class="sc">&gt;</span> <span class="dv">0</span>) {</span>
+<span id="cb18-4"><a href="#cb18-4" aria-hidden="true" tabindex="-1"></a>  wordcloud2<span class="sc">::</span><span class="fu">wordcloud2</span>(wdata)</span>
+<span id="cb18-5"><a href="#cb18-5" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb18-6"><a href="#cb18-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">message</span>(<span class="st">"Không có dữ liệu để vẽ wordcloud."</span>)</span>
+<span id="cb18-7"><a href="#cb18-7" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="wordcloud2 html-widget html-fill-item" id="htmlwidget-923ef454a73106d44c9b" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-923ef454a73106d44c9b">{"x":{"word":["ra","bà","ha","đà","đa","dạ","rị","yết","xà","ca","tát","ma","na","đế","già","da","phấn","tỳ","di","mô","lô","nam","đát","ba","ni","kê","tất","tệ","xá","lam","tam","du","bạt","nẩm","đô","bác","hất","noa","sân","sắc","tra","câu","tha","giá","hội‬","đệ","địa","đảm","mạ","duệ","lăng","bát","bệ","hồng","sam","trà","xoa","chất","kỳ","nể","đột","miệu","nghiêm","tỷ","bàn","hổ","lặc","thập","bạc","dược","hê","thị","tri","tỏa","bổ","bộ","kiền","mạt","nhã","sa","t‭","đề","băng","bột","giả","kiết","lê","lệ","nẫm","thất","thố","tô","để","ấn","am","chế","mật","mục","ngũ","nhất","phạt","sắt","thi","ung","xa","đàm","đác","đơn","độ","bá","bí","cụ","da‬","dà","dương","hoa","kiềm","la","mâu","mẫu","nan","nê","nữ","phạm","ra‬","sát","thuế","thệ","trì","trượng","trụ","tứ","ung‬","đàn","đằng","đốt","antonio","book","bàn‬","cưu","distribution","diễn","dã","for","free","gia","hán","hắc","hắt","is","khê","kiếm","kiến","lao","lien","liên","ly","lật","l‭","nghiêm‬","nhị","nỏa","phạp","phệ","san","sô","sư","s‭","this","thiện","thương","tràng","tây","tư","tần","át","đam","đà‬","đạo","đạt","đỏa","ột","admin","anh","ao","a‬‭na‬‭lệ","be","biều","biện","buddhist","by‬","bán","bạt‬‭xà‬‭ra‬‭bán‬‭ni‬‭phấn","bế","bệ‬‭ra‬‭bạt‬‭xà‬‭ra‬‭đà‬‭rị","bố","bổn","ca‬","chiêm","chiết","chước","chỉ","chủ","cách","daotranglienhoacom‬","dl","download","dr","dõng","dẫn","dụ","email","excalibur","giá‬","half","hoa‬","https","hô","hú‬","hường","hộ","it","iả","khuất","không","khổ","kinh","lang","letter","liểm","lân","lược","lần","lễ","lộ","mang","miệc","mm","mê","mạn","mộ","na‬","nhân","not","nại","nảnh","nẩm‬","nễ","phiến","pháp","phòng","phược","phạm‬","phả","phật‬","phổ","pl","quật","rinted","sold","strictly","sám","sáp","sất","sử","tel","temple‬","tha‬","thoa","thu","thác","thát","thích","thù","thọ","to","trạch","trỉ","trụy","tx","tát‬","tý","tăng","tạng","tố","tống","tỳ‬‭xá‬‭đề","usa‬","version","vien","văn","vỏng","website‬‭https","wwwdaotranglienhoacom","wwwdaotranglienhoacom‬","xã","yên","ách","án","đinh","điều","điểm","điệc","điệp","đản","đầu","đế‬","đốn"],"freq":[234,109,103,86,82,79,78,72,58,50,49,48,46,46,44,43,43,43,38,35,34,32,30,28,27,23,22,22,22,21,21,19,18,18,18,17,17,17,17,17,17,16,16,15,15,15,15,14,13,12,12,11,11,11,11,11,11,10,10,10,10,9,9,9,8,8,8,8,7,7,7,7,7,7,6,6,6,6,6,6,6,6,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"fontFamily":"Segoe UI","fontWeight":"bold","color":"random-dark","minSize":0,"weightFactor":0.7692307692307693,"backgroundColor":"white","gridSize":0,"minRotation":-0.7853981633974483,"maxRotation":0.7853981633974483,"shuffle":true,"rotateRatio":0.4,"shape":"circle","ellipticity":0.65,"figBase64":null,"hover":null},"evals":[],"jsHooks":{"render":[{"code":"function(el,x){\n                        console.log(123);\n                        if(!iii){\n                          window.location.reload();\n                          iii = False;\n\n                        }\n  }","data":null}]}}</script>
+</div>
+</div>
+</section>
+<section id="n-grams-bigram-lọc-stopwords-hai-bên" class="level2">
+<h2 class="anchored" data-anchor-id="n-grams-bigram-lọc-stopwords-hai-bên">8. N-grams (bigram) — lọc stopwords hai bên</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a>bigrams <span class="ot">&lt;-</span> <span class="fu">tibble</span>(<span class="at">text =</span> text_all) <span class="sc">%&gt;%</span></span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">unnest_tokens</span>(bigram, text, <span class="at">token =</span> <span class="st">"ngrams"</span>, <span class="at">n =</span> <span class="dv">2</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb19-3"><a href="#cb19-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">separate</span>(bigram, <span class="at">into =</span> <span class="fu">c</span>(<span class="st">"w1"</span>,<span class="st">"w2"</span>), <span class="at">sep =</span> <span class="st">" "</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb19-4"><a href="#cb19-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="sc">!</span>w1 <span class="sc">%in%</span> vn_stop, <span class="sc">!</span>w2 <span class="sc">%in%</span> vn_stop) <span class="sc">%&gt;%</span></span>
+<span id="cb19-5"><a href="#cb19-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">unite</span>(bigram, w1, w2, <span class="at">sep =</span> <span class="st">" "</span>)</span>
+<span id="cb19-6"><a href="#cb19-6" aria-hidden="true" tabindex="-1"></a>bigram_freq <span class="ot">&lt;-</span> bigrams <span class="sc">%&gt;%</span> <span class="fu">count</span>(bigram, <span class="at">sort =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb19-7"><a href="#cb19-7" aria-hidden="true" tabindex="-1"></a>bigram_freq <span class="sc">%&gt;%</span> <span class="fu">slice_max</span>(n, <span class="at">n =</span> <span class="dv">20</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 24 × 2
+   bigram      n
+   &lt;chr&gt;   &lt;int&gt;
+ 1 ra ha      52
+ 2 yết ra     51
+ 3 nam mô     32
+ 4 đà dạ      31
+ 5 dạ di      30
+ 6 tỳ đà      21
+ 7 ma ha      20
+ 8 tát bà     20
+ 9 tệ phấn    19
+10 đà ra      19
+# ℹ 14 more rows</code></pre>
+</div>
+</div>
+</section>
+<section id="tuỳ-chọn-pos-lemma-với-udpipe" class="level2">
+<h2 class="anchored" data-anchor-id="tuỳ-chọn-pos-lemma-với-udpipe">9. (Tuỳ chọn) POS / Lemma với udpipe</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb21"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Kiểm tra mô hình udpipe (bạn cần tải mô hình tiếng Việt trước và đặt tại data/vn-ud.udpipe)</span></span>
+<span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a>model_file <span class="ot">&lt;-</span> <span class="st">"data/vn-ud.udpipe"</span></span>
+<span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (<span class="fu">file.exists</span>(model_file)) {</span>
+<span id="cb21-4"><a href="#cb21-4" aria-hidden="true" tabindex="-1"></a>  ud <span class="ot">&lt;-</span> <span class="fu">udpipe_load_model</span>(model_file)</span>
+<span id="cb21-5"><a href="#cb21-5" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Dùng từng đoạn hoặc toàn bộ</span></span>
+<span id="cb21-6"><a href="#cb21-6" aria-hidden="true" tabindex="-1"></a>  ann <span class="ot">&lt;-</span> <span class="fu">udpipe_annotate</span>(ud, <span class="at">x =</span> df_lines<span class="sc">$</span>line) <span class="sc">%&gt;%</span> <span class="fu">as_tibble</span>()</span>
+<span id="cb21-7"><a href="#cb21-7" aria-hidden="true" tabindex="-1"></a>  ann <span class="sc">%&gt;%</span> <span class="fu">count</span>(lemma, <span class="at">sort =</span> <span class="cn">TRUE</span>) <span class="sc">%&gt;%</span> <span class="fu">slice_max</span>(n, <span class="at">n =</span> <span class="dv">20</span>)</span>
+<span id="cb21-8"><a href="#cb21-8" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb21-9"><a href="#cb21-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">message</span>(<span class="st">"Không tìm thấy mô hình udpipe tiếng Việt tại data/vn-ud.udpipe — bỏ qua POS/lemma."</span>)</span>
+<span id="cb21-10"><a href="#cb21-10" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="lưu-kết-quả-tần-suất" class="level2">
+<h2 class="anchored" data-anchor-id="lưu-kết-quả-tần-suất">10. Lưu kết quả tần suất</h2>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a>readr<span class="sc">::</span><span class="fu">write_csv</span>(freq, <span class="st">"outputs/word_frequency.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-error">
+<pre><code>Error: Cannot open file for writing:
+* 'outputs/word_frequency.csv'</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a>readr<span class="sc">::</span><span class="fu">write_csv</span>(bigram_freq, <span class="st">"outputs/bigram_frequency.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-error">
+<pre><code>Error: Cannot open file for writing:
+* 'outputs/bigram_frequency.csv'</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a><span class="fu">cat</span>(<span class="st">"Đã lưu outputs/word_frequency.csv và outputs/bigram_frequency.csv</span><span class="sc">\n</span><span class="st">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Đã lưu outputs/word_frequency.csv và outputs/bigram_frequency.csv</code></pre>
+</div>
+</div>
+</section>
+<section id="ghi-chú-quan-trọng" class="level2">
+<h2 class="anchored" data-anchor-id="ghi-chú-quan-trọng">Ghi chú quan trọng</h2>
+<ul>
+<li>Nếu PDF là bản scan (ảnh), cần cài tesseract binary và mô hình tiếng Việt:
+<ul>
+<li>Trên macOS: <code>brew install tesseract tesseract-lang</code> (hoặc chỉ <code>brew install tesseract</code> và tải gói ngôn ngữ)</li>
+<li>Trong R: pacman::p_load(tesseract); tesseract::tesseract_download(“vie”) (tuỳ hệ)</li>
+</ul></li>
+<li>Cần chuẩn hoá/chuẩn bị danh sách stopwords tiếng Việt tốt hơn để loại các từ như “chú”, “phật” tuỳ bạn có muốn giữ hay loại.</li>
+<li>Nếu PDF có bố cục phức tạp (cột, chú thích, chữ Hán xen kẽ), kết quả token hóa cần kiểm tra thủ công.</li>
+</ul>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
