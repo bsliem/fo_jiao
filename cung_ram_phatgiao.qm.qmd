@@ -1,0 +1,184 @@
+---
+title: "Nghi thức cúng Rằm (Phiên bản Phật giáo – Địa Tạng – Quán Âm)"
+format:
+  html:
+    theme: cosmo
+    toc: false
+lang: vi
+editor: visual
+date: ""            # ẩn ngày ở đầu trang
+date-format: "dd/MM/yyyy"
+params:
+  thang_am: "Chín"
+  nam_am: "Ất Tỵ"
+  ten_tin_chu: "Đỗ Thanh Liêm"
+  dia_chi_1: "22/6 Huỳnh Đình Hai, Phường Bình Thạnh, TP.HCM"
+  label_dia_chi_2: "Phòng khám làm việc"
+  dia_chi_2: "Đông Y Thùy Dương, 167 Đông Minh, Phường Dĩ An, Bình Dương"
+  huong_linh: ""
+  cau_an_cho: "Toàn gia quyến và chúng hữu tình"
+---
+
+# 🕯️ NGHI THỨC CÚNG RẰM – PHẬT GIÁO (TÂM ĐỊA TẠNG & QUÁN ÂM)
+
+**Tín chủ:** {{< meta params.ten_tin_chu >}}  
+**Địa chỉ:**
+- Nhà chính: {{< meta params.dia_chi_1 >}}  
+- {{< meta params.label_dia_chi_2 >}}: {{< meta params.dia_chi_2 >}}
+
+**Ngày dương:** <span id="ngay-duong"></span>  
+**Rằm tháng:** {{< meta params.thang_am >}} âm lịch, năm **{{< meta params.nam_am >}}**
+
+<div class="print-bar">
+  <button onclick="window.print()">🖨️ In nghi thức</button>
+</div>
+
+---
+
+## 🙏 Quy y – Phát nguyện
+
+> Nam mô Bổn Sư Thích Ca Mâu Ni Phật (3 lần)  
+> Nam mô Quán Thế Âm Bồ Tát (3 lần)  
+> Nam mô Địa Tạng Vương Bồ Tát (3 lần)
+
+Con, **{{< meta params.ten_tin_chu >}}**, chí tâm quy y Tam Bảo,  
+phát nguyện tu tập **từ – bi – hỷ – xả**, rộng tu phước huệ,  
+mang công đức hôm nay **hồi hướng** cho **{{< meta params.cau_an_cho >}}**  
+và tất cả chúng sanh **đồng lìa khổ, được an**.
+
+::: callout-note
+### 🪶 Quán niệm vô thường
+> Hơi thở này là sự sống, thân này vô thường.  
+> Từng phút giây đều là nhân duyên quý báu để gieo thiện pháp.  
+> Quán niệm như thế, tâm tự nhiên tịnh, nguyện cứu độ muôn loài.
+:::
+
+---
+
+## 🏠 Cúng Hộ Pháp – Thổ Địa
+
+> Nam mô Hộ Pháp Chư Tôn Bồ Tát (1 lần)
+
+Kính bạch chư vị Hộ pháp, Bản xứ Thổ địa, Long mạch tôn thần.  
+Hôm nay ngày rằm tháng **{{< meta params.thang_am >}}** năm **{{< meta params.nam_am >}}** âm lịch,  
+tại **{{< meta params.dia_chi_1 >}}** và **{{< meta params.dia_chi_2 >}}**,  
+chúng con dâng hương hoa trà quả, **tạ ơn hộ trì**,  
+nguyện sống **chánh niệm – tinh tấn – làm việc thiện**,  
+xin chứng minh lòng thành, cho chúng con **thân tâm an lạc**,  
+**biết tu sửa, biết khiêm nhường**.
+
+> Nam mô A Di Đà Phật (3 lần)
+
+---
+
+## 👨‍👩‍👧‍👦 Cúng Tổ tiên – Cửu huyền Thất tổ
+
+> Nam mô A Di Đà Phật (3 lần)
+
+Kính lạy **Cửu huyền Thất tổ, Tổ tiên nội ngoại họ Đỗ**, chư vị hương linh.  
+Hôm nay con cháu **nhớ ân sinh thành dưỡng dục**,  
+dâng lễ **thanh tịnh**: hương, hoa, trà, quả, cơm chay,  
+nguyện **noi gương hiếu hạnh – sống lương thiện – siêng làm phước**.
+
+Nếu trong năm có điều **thiếu sót, lầm lỗi**, xin được **sám hối**,  
+nguyện **chuyển hóa** để gia đình **an hòa**, con cháu **tinh tấn**.
+
+> Nam mô Quán Thế Âm Bồ Tát (3 lần)  
+> Nam mô Địa Tạng Vương Bồ Tát (3 lần)
+
+---
+
+## 🕊️ Cầu an – Cầu siêu
+
+### Cầu an
+Nguyện cho **{{< meta params.cau_an_cho >}}**  
+được **thân khỏe – tâm an – trí sáng – duyên lành tăng trưởng**,  
+biết **tu học chính pháp**, hành thiện, giúp đời,  
+gặp **thiện tri thức**, sống **trong chánh niệm và từ bi**.
+
+### Cầu siêu *(nếu có hương linh cần xướng tên)*  
+{{< meta params.huong_linh >}}  
+Nguyện nhờ công đức này, các hương linh **xả chấp, tiêu oan**,  
+**thoát mê đồ, sanh Tịnh độ**,  
+**sớm gặp Phật, nghe pháp, phát Bồ-đề tâm.**
+
+> Nam mô Quán Thế Âm Bồ Tát (3 lần)  
+> Nam mô Địa Tạng Vương Bồ Tát (3 lần)
+
+---
+
+## ⛰️ Tâm Địa Tạng – Phát nguyện rộng lớn
+
+> “Địa ngục vị không, thệ bất thành Phật;  
+> Chúng sanh độ tận, phương chứng Bồ-đề.”
+
+Con học theo **Địa Tạng Bồ Tát**:  
+- **Không oán, không bỏ, không lui sụt** trước khổ nạn của mình và người.  
+- **Gieo nhân lành mỗi ngày:** hiếu kính cha mẹ, giúp đỡ bệnh khổ, nói lời ái ngữ, hộ trì Phật pháp.  
+- **Hồi hướng** công đức không chấp thủ, nguyện khắp pháp giới **đồng an lạc**.
+
+> Nam mô Quán Thế Âm Bồ Tát (3 lần)  
+> Nam mô Địa Tạng Vương Bồ Tát (3 lần)
+
+---
+
+## 🌸 Lễ vật – Tâm niệm
+
+| Lễ vật thanh tịnh | Ý nghĩa hành trì |
+|---|---|
+| Hương, hoa, nước, đèn | Biểu trưng **giới – định – tuệ**, sáng sạch |
+| Trà, trái cây, xôi chè chay | Nuôi dưỡng **tâm từ**, tránh sát hại |
+| Bài kệ – lời nguyện | **Quán niệm vô thường**, phát tâm rộng lớn |
+
+---
+
+## 🧘‍♂️ Kệ quán vô thường
+
+> Thân như bọt nước sớm còn chiều tan,  
+> Một hơi thở khẽ, vạn duyên rỡ ràng.  
+> Biết vô thường đến, tâm liền chánh niệm,  
+> Nguyện độ muôn loài, đồng về bờ an.
+
+> Nam mô Quán Thế Âm Bồ Tát (3 lần)
+
+---
+
+## 📿 Hồi hướng công đức
+
+> Nguyện đem công đức này,  
+> Hướng về khắp tất cả;  
+> Đệ tử và chúng sanh,  
+> Đồng trọn thành Phật đạo.
+
+> Nam mô Bổn Sư Thích Ca Mâu Ni Phật (3 lần)  
+> Nam mô Quán Thế Âm Bồ Tát (3 lần)  
+> Nam mô Địa Tạng Vương Bồ Tát (3 lần)
+
+---
+
+<style>
+.print-bar { margin: 1rem 0 .5rem 0; }
+.print-bar button {
+  padding:.6rem 1rem; border:1px solid #ccc; border-radius:.5rem;
+  background:white; cursor:pointer; font-size:.95rem;
+}
+@media print {
+  .print-bar, nav, .navbar, .toc, .sidebar { display:none !important; }
+  body { font-size:12pt; line-height:1.6; }
+  h1,h2 { page-break-after: avoid; }
+  blockquote { margin-left:0; padding-left:.8rem; border-left:3px solid #aaa; }
+  table { width:100%; border-collapse:collapse; }
+  table th, table td { border:1px solid #ddd; padding:.4rem .5rem; }
+}
+</style>
+
+<script>
+(function () {
+  var d = new Date();
+  var dd = String(d.getDate()).padStart(2,'0');
+  var mm = String(d.getMonth()+1).padStart(2,'0');
+  var yyyy = d.getFullYear();
+  var el = document.getElementById('ngay-duong');
+  if (el) el.textContent = dd + '/' + mm + '/' + yyyy;
+})();
+</script>
