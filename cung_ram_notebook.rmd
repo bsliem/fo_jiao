@@ -1,14 +1,14 @@
 ---
 title: "Văn khấn cúng Rằm"
 output:
-  html_notebook:
+  word_document:
     toc: false
-    theme: cosmo
   html_document:
     toc: false
     df_print: paged
-  word_document:
+  html_notebook:
     toc: false
+    theme: cosmo
 lang: vi
 editor_options:
   chunk_output_type: inline
