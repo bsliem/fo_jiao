@@ -1,4 +1,4 @@
-## 🧭 **Bảng phím tắt hữu ích trong chế độ `less` (terminal RStudio hoặc macOS)**
+-pefind 🧭 **Bảng phím tắt hữu ích trong chế độ `less` (terminal RStudio hoặc macOS)**
 
 | Mục đích                                      | Phím tắt             | Ghi chú                                       |
 | --------------------------------------------- | -------------------- | --------------------------------------------- |
@@ -22,3 +22,9 @@
 | **Chế độ xem dài, không ngắt dòng**           | `-S`                 | Toggle chế độ “no wrap” (hữu ích cho log dài) |
 | **Bật/tắt highlight tìm kiếm**                | `ESC + u`            | Nếu highlight gây rối mắt                     |
 | **Refresh nội dung (nếu file đang cập nhật)** | `r` hoặc `R`         |                                               |
+
+## ✅ Đúng cú pháp:
+
+```
+find . -type f \( -name "*.qmd" -o -name "*.html" \)
+```

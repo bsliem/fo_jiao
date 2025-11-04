@@ -16,94 +16,95 @@ params:
 
 # 🕯️ LỄ CÚNG RẰM THÁNG {{< meta params.thang_am >}} ÂM LỊCH
 
-**Tín chủ:** {{< meta params.ten_tin_chu >}}  
-**Địa chỉ:**  
-- Nhà chính: {{< meta params.dia_chi_1 >}}  
+**Tín chủ:** {{< meta params.ten_tin_chu >}}\
+**Địa chỉ:**\
+- Nhà chính: {{< meta params.dia_chi_1 >}}\
 - Phòng khám làm việc: {{< meta params.dia_chi_2 >}}
 
-**Ngày dương:** <span id="ngay-duong"></span>  
+**Ngày dương:** \
 **Ngày rằm tháng:** {{< meta params.thang_am >}} âm lịch, năm {{< meta params.nam_am >}}
 
----
+------------------------------------------------------------------------
 
 ## 🏠 Khấn Thổ Công – Thần linh
 
 > Nam mô A Di Đà Phật! (3 lần)
 
-Kính lạy Hoàng Thiên Hậu Thổ chư vị Tôn thần,  
-Kính lạy Ngài Đông Trù Tư Mệnh Táo Phủ Thần Quân,  
-Ngài Bản cảnh Thành Hoàng, Ngài Bản xứ Thổ Địa,  
+Kính lạy Hoàng Thiên Hậu Thổ chư vị Tôn thần,\
+Kính lạy Ngài Đông Trù Tư Mệnh Táo Phủ Thần Quân,\
+Ngài Bản cảnh Thành Hoàng, Ngài Bản xứ Thổ Địa,\
 Ngài Tiền hậu địa chủ tài thần, Ngũ phương ngũ thổ, Long Mạch tôn thần.
 
-Hôm nay là **ngày rằm tháng {{< meta params.thang_am >}} năm {{< meta params.nam_am >}} âm lịch**,  
-Tín chủ con là **{{< meta params.ten_tin_chu >}}**,  
-Ngụ tại **{{< meta params.dia_chi_1 >}}** và **{{< meta params.dia_chi_2 >}}**.
+Hôm nay là **ngày rằm tháng** {{< meta params.thang_am >}} **năm** {{< meta params.nam_am >}} **âm lịch**,\
+Tín chủ con là {{< meta params.ten_tin_chu >}},\
+Ngụ tại {{< meta params.dia_chi_1 >}} và {{< meta params.dia_chi_2 >}}.
 
-Thành tâm sắm lễ, hương hoa trà quả, thắp nén tâm hương kính dâng.  
+Thành tâm sắm lễ, hương hoa trà quả, thắp nén tâm hương kính dâng.\
 Cúi xin chư vị Tôn thần giáng lâm trước án, chứng giám lòng thành.
 
-Tín chủ con kính cáo:  
+Tín chủ con kính cáo:\
 Tạ ơn chư vị đã hộ trì cho gia đạo an khang, mưa thuận gió hòa, làm ăn thuận lợi, tai ương tiêu trừ.
 
-Nay nhân tiết giữa mùa thu, âm dương giao hòa,  
-Chúng con thành tâm dâng lễ, nguyện cầu:  
-- Quốc thái dân an,  
-- Gia đạo bình an,  
+Nay nhân tiết giữa mùa thu, âm dương giao hòa,\
+Chúng con thành tâm dâng lễ, nguyện cầu:\
+- Quốc thái dân an,\
+- Gia đạo bình an,\
 - Mọi việc hanh thông, cát tường như ý.
 
 Chúng con lễ bạc tâm thành, cúi xin chư vị Tôn thần giáng phó chứng minh, độ trì bảo hộ.
 
 > Nam mô A Di Đà Phật! (3 lần)
 
----
+------------------------------------------------------------------------
 
 ## 👨‍👩‍👧‍👦 Khấn Gia tiên
 
 > Nam mô A Di Đà Phật! (3 lần)
 
-Kính lạy Tổ tiên nội ngoại họ **Đỗ**,  
+Kính lạy Tổ tiên nội ngoại họ **Đỗ**,\
 Cửu huyền Thất tổ, chư vị hương linh, tiên linh hiển thánh.
 
-Hôm nay là **ngày rằm tháng {{< meta params.thang_am >}} năm {{< meta params.nam_am >}} âm lịch**,  
-Tín chủ con là **{{< meta params.ten_tin_chu >}}**,  
-Ngụ tại hai nơi ở trên,  
-Thành tâm sắm sửa hương hoa, lễ vật dâng cúng,  
+Hôm nay là **ngày rằm tháng** {{< meta params.thang_am >}} **năm** {{< meta params.nam_am >}} **âm lịch**,\
+Tín chủ con là {{< meta params.ten_tin_chu >}},\
+Ngụ tại hai nơi ở trên,\
+Thành tâm sắm sửa hương hoa, lễ vật dâng cúng,\
 Tưởng nhớ công đức sinh thành, dưỡng dục của tiên tổ.
 
-Cúi xin Tổ tiên chứng giám lòng thành, phù hộ độ trì cho con cháu:  
-- Thân tâm an lạc,  
-- Mưu sự tốt lành,  
-- Gia đạo thuận hòa,  
+Cúi xin Tổ tiên chứng giám lòng thành, phù hộ độ trì cho con cháu:\
+- Thân tâm an lạc,\
+- Mưu sự tốt lành,\
+- Gia đạo thuận hòa,\
 - Phúc lộc viên mãn.
 
-Nếu trong năm qua có điều lầm lỗi, thiếu sót,  
-Kính xin Tổ tiên, chư vị linh thần xá tội, chứng tâm, phù hộ cho toàn gia tai qua nạn khỏi,  
+Nếu trong năm qua có điều lầm lỗi, thiếu sót,\
+Kính xin Tổ tiên, chư vị linh thần xá tội, chứng tâm, phù hộ cho toàn gia tai qua nạn khỏi,\
 Duyên lành tăng trưởng, đạo tâm kiên cố.
 
 > Nam mô A Di Đà Phật! (3 lần)
 
----
+------------------------------------------------------------------------
 
 ## 🌸 Gợi ý lễ vật
 
-| Lễ vật | Ý nghĩa |
-|---|---|
-| Hương, hoa, đèn, nước, trầu cau | Thành tâm dâng cúng |
-| Xôi, chè, trái cây | Thanh tịnh, tươi mới |
-| Mâm cơm chay hoặc mặn | Tưởng nhớ tổ tiên |
-| Tâm niệm | Biết ơn, cầu an, hướng thiện |
+| Lễ vật                          | Ý nghĩa                      |
+|---------------------------------|------------------------------|
+| Hương, hoa, đèn, nước, trầu cau | Thành tâm dâng cúng          |
+| Xôi, chè, trái cây              | Thanh tịnh, tươi mới         |
+| Mâm cơm chay hoặc mặn           | Tưởng nhớ tổ tiên            |
+| Tâm niệm                        | Biết ơn, cầu an, hướng thiện |
 
----
+------------------------------------------------------------------------
 
 ## 🕊️ Hồi hướng
 
-> Nguyện đem công đức này  
-> Hướng về khắp tất cả  
-> Đệ tử và chúng sanh  
+> Nguyện đem công đức này\
+> Hướng về khắp tất cả\
+> Đệ tử và chúng sanh\
 > Đều trọn thành Phật đạo.
 
----
+------------------------------------------------------------------------
 
+```{=html}
 <script>
 (function () {
   var d = new Date();
@@ -114,3 +115,4 @@ Duyên lành tăng trưởng, đạo tâm kiên cố.
   if (el) el.textContent = dd + '/' + mm + '/' + yyyy;
 })();
 </script>
+```
