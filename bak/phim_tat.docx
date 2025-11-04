@@ -1,0 +1,24 @@
+## 🧭 **Bảng phím tắt hữu ích trong chế độ `less` (terminal RStudio hoặc macOS)**
+
+| Mục đích                                      | Phím tắt             | Ghi chú                                       |
+| --------------------------------------------- | -------------------- | --------------------------------------------- |
+| **Thoát khỏi less**                           | `q`                  | Quay lại prompt (rất quan trọng ✅)            |
+| **Dừng giữa chừng**                           | `Ctrl + C`           | Ngắt tạm (khi đang tải hoặc grep quá dài)     |
+| **Xuống 1 dòng**                              | `↓` hoặc `j`         | Cuộn xuống từng dòng                          |
+| **Lên 1 dòng**                                | `↑` hoặc `k`         | Cuộn lên từng dòng                            |
+| **Xuống 1 trang (màn hình)**                  | `Space` hoặc `f`     | Giống Page Down                               |
+| **Lên 1 trang**                               | `b`                  | Giống Page Up                                 |
+| **Xuống ½ trang**                             | `d`                  | (Down half page)                              |
+| **Lên ½ trang**                               | `u`                  | (Up half page)                                |
+| **Đến đầu file**                              | `g`                  | Jump to top                                   |
+| **Đến cuối file**                             | `G`                  | Jump to end                                   |
+| **Tìm chuỗi**                                 | `/từ_khóa` rồi Enter | Tìm kiếm xuống dưới                           |
+| **Tìm ngược lại (lên trên)**                  | `?từ_khóa`           | Tìm kiếm lên trên                             |
+| **Lặp lại tìm tiếp**                          | `n`                  | Tìm lần kế tiếp cùng hướng                    |
+| **Lặp lại tìm ngược hướng**                   | `N`                  | Ngược hướng với `n`                           |
+| **Hiển thị số dòng / vị trí**                 | `=`                  | Cho biết đang ở dòng nào, % bao nhiêu         |
+| **Chuyển về dòng đầu tiên**                   | `1G`                 | Giống `g`                                     |
+| **Chuyển về dòng thứ N**                      | `N + G` (vd: `50G`)  | Nhảy tới dòng số 50                           |
+| **Chế độ xem dài, không ngắt dòng**           | `-S`                 | Toggle chế độ “no wrap” (hữu ích cho log dài) |
+| **Bật/tắt highlight tìm kiếm**                | `ESC + u`            | Nếu highlight gây rối mắt                     |
+| **Refresh nội dung (nếu file đang cập nhật)** | `r` hoặc `R`         |                                               |
