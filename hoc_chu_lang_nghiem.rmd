@@ -1,0 +1,131 @@
+---
+title: "Học Chú Lăng Nghiêm – Phần 1"
+output:
+  html_document:
+    toc: false
+    df_print: paged
+  word_document:
+    toc: false
+  html_notebook:
+    toc: false
+    theme: cosmo
+lang: vi
+editor_options:
+  chunk_output_type: inline
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+🕯️ HỌC CHÚ LĂNG NGHIÊM – 24 CÂU ĐẦU
+
+Nam-mô tát đát tha
+
+南無薩怛他
+
+Nán mó sà dá tā
+
+Tô già đa da
+蘇伽多耶
+Sū jiā duō yé
+
+A ra ha đế
+阿羅訶帝
+Ā luó hē dì
+
+Tam-miệu tam bồ đà tỏa
+三藐三菩陀娑
+Sān miǎo sān pú tuó suō
+
+Tát đát tha
+薩怛他
+Sà dá tā
+
+Phật đà cu tri sắc ni sam
+佛陀拘致瑟尼三
+Fó tuó jū zhì sè ní sān
+
+Nam-mô tát bà
+南無薩婆
+Nán mó sà pó
+
+Bột đà bột địa
+勃陀勃地
+Bó tuó bó dì
+
+Tát đa bệ tệ
+薩多吠帝
+Sà duō wèi dì
+
+Nam-mô tát đa nẩm
+南無薩多楠
+Nán mó sà duō nán
+
+Tam-miệu tam bồ đà
+三藐三菩陀
+Sān miǎo sān pú tuó
+
+Cu tri nẩm
+拘致楠
+Jū zhì nán
+
+Ta xá ra bà ca
+多舍羅婆迦
+Duō shě luó pó jiā
+
+Tăng già nẩm
+僧伽楠
+Sēng qié nán
+
+Nam-mô lô kê A-La-Hán đa nẩm
+南無盧雞阿羅漢多楠
+Nán mó lú jī ā luó hàn duō nán
+
+Nam-mô tô lô đa ba na nẩm
+南無蘇盧多波那楠
+Nán mó sū lú duō bō nà nán
+
+Nam-mô ta yết rị đà dà di nẩm
+南無多羯利陀耶尼楠
+Nán mó duō jié lì tuó yé ní nán
+
+Nam-mô lô kê tam-miệu dà đa nẩm
+南無盧雞三藐陀多楠
+Nán mó lú jī sān miǎo tuó duō nán
+
+Tam-miệu dà ba ra
+三藐陀婆羅
+Sān miǎo tuó pó luó
+
+Ðể ba đa na nẩm
+底波多那楠
+Dǐ bō duō nà nán
+
+Nam-mô đề bà ly sắc nỏa
+南無提婆利索那
+Nán mó tí pó lì suǒ nuó
+
+Nam-mô tất đà da
+南無悉怛耶
+Nán mó xī dá yé
+
+Tỳ địa da
+毘地耶
+Pí dì yé
+
+Ðà ra ly sắc nỏa
+陀羅利索那
+Tuó luó lì suǒ nuó
+
+less
+Copy code
+
+---
+
+✅ **Gợi ý:**
+- Khi knit ra Word, bạn nên chọn font “**Times New Roman**” hoặc “**Songti SC**” để hiển thị tốt cả Latin, Hán tự và Pinyin.  
+- Nếu bạn muốn **tự động đánh số** và chia cột Hán–Pinyin–Việt (đẹp hơn cho học), tôi có thể tạo cho bạn bản `.Rmd` với **bảng 3 cột tự sinh từ data.frame** trong R. Bạn muốn tôi làm tiếp dạng đó không?
+
+
+
+
