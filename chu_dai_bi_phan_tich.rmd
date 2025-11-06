@@ -1,0 +1,141 @@
+---
+title: "Học Chú Đại Bi – Phân tích bằng R"
+output:
+  html_document:
+    toc: true
+    df_print: paged
+  word_document:
+    toc: false
+lang: vi
+editor_options:
+  chunk_output_type: inline
+---
+
+```{r}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(tidyverse)
+library(stringr)
+library(readr)
+
+
+```
+
+# Data
+
+```{r}
+chu_dai_bi <- tibble::tribble(
+~id, ~hanzi, ~pinyin, ~hanviet, ~nghia,
+
+1, "南無喝囉怛那哆囉夜耶",
+"na mo he luo da na duo luo ye ye",
+"Nam mô hắc ra đát na đa ra dạ da",
+"Kính lễ Đức Quán Thế Âm Bồ Tát có tâm Đại Bi vô lượng.",
+
+2, "南無阿唎耶",
+"na mo a li ye",
+"Nam mô a rị da",
+"Kính lễ bậc thanh tịnh vô cấu.",
+
+3, "婆盧羯帝 烁缽囉耶",
+"po lu jie di shuo bo luo ye",
+"Bà lô kiết đế thước bát ra da",
+"Kính lễ bậc giác ngộ, cứu khổ vô biên.",
+
+4, "菩提薩埵婆耶",
+"pu ti sa duo po ye",
+"Bồ đề tát đỏa bà da",
+"Bồ Tát phát tâm giác ngộ, cứu độ chúng sanh.",
+
+5, "摩訶薩埵婆耶",
+"mo he sa duo po ye",
+"Ma ha tát đỏa bà da",
+"Đại Bồ Tát, tâm bi rộng lớn.",
+
+6, "摩訶迦盧尼迦耶",
+"mo he jia lu ni jia ye",
+"Ma ha ca lô ni ca da",
+"Đại Bi Quán Thế Âm, cứu khổ chúng sanh.",
+
+7, "唵",
+"ong",
+"Án",
+"Âm khai chân ngôn.",
+
+8, "薩皤囉罰曳",
+"sa po luo fa yi",
+"Tát bà ra phạt duệ",
+"Triệu thỉnh từ bi gia hộ.",
+
+9, "數怛那怛寫",
+"shu da na da xia",
+"Số đát na đát tỏa",
+"Khai mở trí tuệ giải thoát.",
+
+10, "南無悉吉利埵 伊蒙阿唎耶",
+"na mo xi ji li duo yi meng a li ye",
+"Nam mô tất kiết lật đỏa y mông a rị da",
+"Kính lễ các hộ pháp thiện thần."
+)
+
+chu_dai_bi
+
+
+```
+
+```{r}
+write_csv(chu_dai_bi, "chu_dai_bi.csv")
+
+
+```
+
+# Phân tích 1
+
+```{r}
+chu_dai_bi_ext <- chu_dai_bi %>%
+mutate(
+n_hanzi   = nchar(hanzi),
+# CHỖ NÀY QUAN TRỌNG: dùng "\\S+" chứ không phải "\\S+"
+n_py_syll = str_count(pinyin, "\\S+"),
+n_hv_syll = str_count(hanviet, "\\S+")
+)
+
+chu_dai_bi_ext
+
+
+```
+
+# Thống kê tổng quát
+```{r}
+chu_dai_bi_ext %>%
+  summarise(
+    so_cau         = n(),
+    hanzi_tb       = mean(n_hanzi),
+    hanzi_min      = min(n_hanzi),
+    hanzi_max      = max(n_hanzi),
+    py_syll_tb     = mean(n_py_syll),
+    hv_syll_tb     = mean(n_hv_syll)
+  )
+
+freq_hv <- chu_dai_bi %>%
+  separate_rows(hanviet, sep = " ") %>%  # hoặc "\\s+"
+  count(âm_hv = hanviet, sort = TRUE)
+
+freq_hv
+
+
+```
+# Biểu đồ top 15 âm Hán-Việt xuất hiện nhiều nhất:
+```{r}
+freq_hv %>%
+slice_max(n, n = 15) %>%
+ggplot(aes(x = reorder(âm_hv, n), y = n)) +
+geom_col() +
+coord_flip() +
+labs(
+x = "Âm Hán-Việt",
+y = "Số lần xuất hiện",
+title = "Top 15 âm Hán-Việt xuất hiện nhiều nhất trong Chú Đại Bi"
+)
+
+```
+
