@@ -25,11 +25,15 @@ params:
 **Địa chỉ:** - Nhà chính: {{< meta params.dia_chi_1 >}}\
 - {{< meta params.label_dia_chi_2 >}}: {{< meta params.dia_chi_2 >}}
 
-**Ngày dương:** \
+**Ngày dương:**\
 **Rằm tháng:** {{< meta params.thang_am >}} âm lịch, năm {{< meta params.nam_am >}}
 
 ::: print-bar
-<button onclick="window.print()">🖨️ In nghi thức</button>
+<button onclick="window.print()">
+
+🖨️ In nghi thức
+
+</button>
 :::
 
 ------------------------------------------------------------------------
