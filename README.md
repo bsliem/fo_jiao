@@ -1,31 +1,143 @@
-# 🕉️ Nam mô tát đát tha – Bảng Phiên Âm, Hán tự, English, Nghĩa Việt
+**BẢY LỚP LAN CAN – BẢY LỚP LƯỚI – BẢY HÀNG CÂY** trong Cực Lạc, tương ứng **37 PHẨM TRỢ ĐẠO**.
 
-| Phiên âm | Hán tự | English meaning | Nghĩa tiếng Việt |
-|-----------|---------|-----------------|------------------|
-| Nam mô tát đát tha | 南無 薩怛他 | Homage to the Tathāgata | Quy mạng đấng Như Lai |
-| tô già da da | 蘇伽多耶 | Homage to the Sugata | Kính lễ bậc Thiện Thệ (đi đến nẻo lành) |
-| a ra ha đế | 阿羅訶帝 | Homage to the Arhat | Kính lễ bậc Ứng Cúng, đoạn tận phiền não |
-| tam miệu tam bổ đà tòa | 三藐三菩陀座 | Homage to the Samyak-saṃbuddha | Kính lễ bậc Chánh Đẳng Chánh Giác |
-| Tát đát tha Phật đà câu tri sắc ni sam | 薩怛他 佛陀 拘致 悉尼三 | Homage to all Buddhas in the three times | Kính lễ chư Phật khắp mười phương, ba đời |
-| Nam mô tát bà bột đà bột địa | 南無 薩婆 沒馱 沒地 | Homage to all Buddhas and Bodhisattvas | Kính lễ tất cả chư Phật, chư Bồ Tát |
-| tát đà bệ tệ | 薩怛鞞帝 | Homage to the noble saints | Kính lễ chư Thánh Hiền, A-la-hán |
-| Nam mô tát đa nắm | 南無 薩怛南 | Homage to the Tathāgata | Kính lễ Như Lai |
-| tam miệu tam bổ đà câu tri nắm | 三藐三菩陀 拘致南 | Homage to the perfectly enlightened of three times | Kính lễ đấng Chánh Đẳng Chánh Giác trong ba đời |
-| Ta xá ra bà ca tăng già nắm | 多舍羅婆迦僧伽南 | Homage to the Saṅgha | Kính lễ Tăng đoàn thanh tịnh |
-| Nam mô lô kê a la hán đa nắm | 南無 盧迦 阿羅漢 陀南 | Homage to the Arhats of the world | Kính lễ các vị La Hán trong thế giới |
-| Nam mô tô lô đa ba na nắm | 南無 蘇盧 多婆那南 | Homage to the Victorious One | Kính lễ bậc Chiến Thắng, vượt sanh tử |
-| Nam mô ta yết trị đà già di nắm | 南無 多羯致 陀伽知南 | Homage to the wise protector | Kính lễ bậc Trí Tuệ, hộ trì chúng sinh |
-| Nam mô lô kê tam miệu già đà nắm | 南無 盧迦 三藐 伽陀南 | Homage to all fully enlightened ones | Kính lễ chư Phật giác ngộ viên mãn |
-| Tam miệu già ba ra đế ba đà na nắm | 三藐伽 婆羅帝 婆陀南 | Homage to the Great Compassionate Ones | Kính lễ bậc Đại Từ Đại Bi |
-| Nam mô đế bà ly sắt nòa | 南無 提婆離瑟那 | Homage to the Devas and Protectors | Kính lễ chư Thiên, Hộ Pháp |
-| Nam mô tát đà da tỳ địa da | 南無 薩怛也 毗地也 | Homage to the Earth Deities | Kính lễ các vị Thần Địa Hộ Trì |
-| đà ra ly sắt nòa | 陀羅離瑟那 | Homage to the Guardian Spirits | Kính lễ chư thần hộ trì mười phương |
-| Xá ba noa yết ra ha | 娑婆訶 | *Svāhā* — So be it, may it be accomplished | Nguyện cho công đức này thành tựu viên mãn |
+------
 
----
+# 🟧 **Ý NGHĨA CHÍNH: “Bảy lớp” = 37 phẩm trợ đạo**
 
-### 🌸 Ghi chú
+Đức Phật dùng hình ảnh:
 
-- **Nam mô (南無)** = Quy mạng, kính lễ.  
-- **Tam miệu tam bồ đề** = *Sammya-sambodhi* → giác ngộ viên mãn.  
-- **Xá bà noa yết ra ha (Svāhā)** = Lời kết: “Nguyện cho thành tựu viên mãn.”
+- **Lan can (欄楯)** → Giới
+- **Lưới giăng (羅網)** → Định
+- **Hàng cây (行樹)** → Tuệ
+
+Ba yếu tố Giới–Định–Tuệ được **triển khai thành 7 nhóm**, tổng cộng 37 phẩm trợ đạo (三十七道品).
+
+------
+
+# 🟦 **1. The Four Applications of Mindfulness**
+
+**Tứ Niệm Xứ – 四念處**
+
+1. Quán thân bất tịnh
+2. Quán thọ là khổ
+3. Quán tâm vô thường
+4. Quán pháp vô ngã
+
+👉 Là nền tảng chánh niệm, thấy rõ sự thật của thân–tâm–pháp.
+
+------
+
+# 🟦 **2. The Four Right Efforts**
+
+**Tứ Chánh Cần – 四正勤**
+
+1. Chưa sinh ác → ngăn
+2. Đã sinh ác → trừ
+3. Chưa sinh thiện → khiến sinh
+4. Đã sinh thiện → khiến tăng trưởng
+
+👉 Nỗ lực đúng – không buông lung.
+
+------
+
+# 🟦 **3. The Four Bases of Supernatural Power**
+
+**Tứ Như Ý Túc – 四如意足**
+
+1. Dục như ý túc
+2. Tinh tấn như ý túc
+3. Niệm như ý túc
+4. Định như ý túc
+
+👉 Bốn nền tảng để phát sinh sức mạnh tâm linh và định lực.
+
+------
+
+# 🟦 **4. The Five Roots**
+
+**Ngũ Căn – 五根**
+
+1. Tín根
+2. Tấn根
+3. Niệm根
+4. Định根
+5. Tuệ根
+
+👉 Năm “cái rễ” giúp tu hành đứng vững.
+
+------
+
+# 🟦 **5. The Five Powers**
+
+**Ngũ Lực – 五力**
+
+1. Tín力
+2. Tấn力
+3. Niệm力
+4. Định力
+5. Tuệ力
+
+👉 Là “quả” của Ngũ Căn, khi rễ mạnh thì thành lực.
+
+------
+
+# 🟦 **6. The Seven Limbs of Enlightenment**
+
+**Thất Giác Chi – 七覺支**
+
+1. Niệm
+2. Trạch pháp
+3. Tinh tấn
+4. Hỷ
+5. Khinh an
+6. Định
+7. Xả
+
+👉 7 yếu tố giác ngộ.
+
+------
+
+# 🟦 **7. The Proper Eight-Fold Path**
+
+**Bát Chánh Đạo – 八正道**
+
+1. Chánh kiến
+2. Chánh tư duy
+3. Chánh ngữ
+4. Chánh nghiệp
+5. Chánh mạng
+6. Chánh tinh tấn
+7. Chánh niệm
+8. Chánh định
+
+👉 Là con đường thực hành toàn diện.
+
+------
+
+# 🟩 **TẠI SAO KINH A DI ĐÀ NÓI “BẢY LỚP”?**
+
+### ✔ Hòa Thượng Tuyên Hóa giải thích:
+
+- **Lan can = Giới**
+   Giới “hàng rào” ngăn ác, giữ tâm khỏi rơi vào lỗi nhỏ.
+   Những lỗi nhỏ không sửa → thành lỗi lớn.
+- **Lưới giăng = Định**
+   Lưới phủ khắp → tâm không bị ngoại cảnh lay động.
+   Khi thấy đồ ăn mà tâm dao động → thiếu định lực.
+- **Hàng cây = Tuệ**
+   Cây lớn, nhiều tán → tượng trưng trí tuệ che mát chúng sinh.
+
+👉 37 phẩm trợ đạo được gom thành **7 nhóm** → hiển lộ bằng **bảy lớp lan can, bảy lớp lưới, bảy hàng cây**.
+
+**Cực Lạc không phải trang trí đẹp, mà là hiển bày trí tuệ – định – giới ở mức hoàn hảo.**
+
+------
+
+# 🟨 **TÓM LẠI ĐOẠN NÀY**
+
+Trong Cực Lạc:
+
+- **7 lớp lan can** → Giới
+- **7 lớp lưới** → Định
+- **7 hàng cây** → Tuệ
+- **Số 7** = bảy nhóm của **37 phẩm trợ đạo**, nền tảng tu chứng của tất cả chư Phật.
