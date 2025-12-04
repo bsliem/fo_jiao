@@ -1,0 +1,598 @@
+---
+title: "大悲心陀羅尼（Chú Đại Bi）"
+format:
+html:
+theme: cosmo
+lang: zh
+---
+
+🕉️ 大悲心陀羅尼
+**千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經**
+
+
+
+1. 南無喝囉怛那哆囉夜耶
+*Ná mó ·hē luó dá nà ·duō luó yè yē*
+**Nam mô hắc ra đát na đa ra dạ da**
+*(Kính lễ Đức Quán Thế Âm Bồ Tát có tâm Đại Bi vô lượng.)*
+
+
+
+2. 南無阿唎耶
+*Ná mó ·ā lì yē*
+**Nam mô a rị da**
+*(Kính lễ bậc thanh tịnh vô cấu.)*
+
+
+
+3. 婆盧羯帝 烁缽囉耶
+*Pó lú jié dì · shuò bō luó yē*
+**Bà lô kiết đế thước bát ra da**
+*(Kính lễ bậc giác ngộ, cứu khổ vô biên.)*
+
+
+
+4. 菩提薩埵婆耶
+*Pú tí sà duǒ pó yē*
+**Bồ đề tát đỏa bà da**
+*(Bồ Tát phát tâm giác ngộ, cứu độ chúng sanh.)*
+
+
+
+5. 摩訶薩埵婆耶
+*Mó hē sà duǒ pó yē*
+**Ma ha tát đỏa bà da**
+*(Đại Bồ Tát, tâm bi rộng lớn.)*
+
+
+
+6. 摩訶迦盧尼迦耶
+*Mó hē jiā lú ní jiā yē*
+**Ma ha ca lô ni ca da**
+*(Đại Bi Quán Thế Âm, cứu khổ chúng sanh.)*
+
+
+
+7. 唵
+*Ōng*
+**Án**
+*(Âm khai chân ngôn.)*
+
+
+
+8. 薩皤囉罰曳
+*Sà pó luó fá yì*
+**Tát bà ra phạt duệ**
+*(Triệu thỉnh từ bi gia hộ.)*
+
+
+
+9. 數怛那怛寫
+*Shù dá nà dá xiǎ*
+**Số đát na đát tỏa**
+*(Khai mở trí tuệ giải thoát.)*
+
+
+
+10. 南無悉吉利埵 伊蒙阿唎耶
+*Ná mó xī jí lì duǒ · yī méng ā lì yē*
+**Nam mô tất kiết lật đỏa y mông a rị da**
+*(Kính lễ các hộ pháp thiện thần.)*
+
+
+
+11. 婆盧吉帝 室佛囉楞馱婆
+*Pó lú jí dì · shì fó luó léng tuó pó*
+**Bà lô kiết đế thất Phật ra lăng đà bà**
+*(Bảy Đức Phật gia trì chúng sanh.)*
+
+
+
+12. 南無那囉謹墀
+*Ná mó nā luó jǐn chí*
+**Nam mô na ra cẩn trì**
+*(Kính lễ Na La Cẩn Trì, trừ ác nghiệp.)*
+
+
+
+13. 醯唎摩訶皤哆沙咩
+*Xī lì mó hē pó duō shā miē*
+**Hê rị ma ha bàn đa sa mế**
+*(Tâm đại bi không ngăn ngại.)*
+
+
+
+14. 薩婆阿他豆輸朋
+*Sà pó ā tuō dòu shū péng*
+**Tát bà a tha đậu du bằng**
+*(Cứu tất cả chúng sanh khổ não.)*
+
+
+
+15. 阿逝孕
+*Ā shì yùn*
+**A thệ dựng**
+*(Nguyện lực bất thoái.)*
+
+
+
+16. 薩婆薩哆 那摩婆薩多 那摩婆伽
+*Sà pó sà duō · ná mó pó sà duō · ná mó pó qié*
+**Tát bà tát đa na ma bà tát đa na ma bà già**
+*(Tất cả chư Thánh đồng hộ niệm.)*
+
+
+
+17. 摩罰特豆
+*Mó fá tè dòu*
+**Ma phạt đạt đậu**
+*(Diệt khổ, tịch tịnh.)*
+
+
+
+18. 怛侄他
+*Dá zhí tuō*
+**Đát điệt tha**
+*(Tức thuyết chân ngôn.)*
+
+
+
+19. 唵 阿婆盧醯
+*Ōng ā pó lú xī*
+**Án a bà lô hê**
+*(Triệu thỉnh Đại Bi lực.)*
+
+
+
+20. 盧迦帝
+*Lú jiā dì*
+**Lô ca đế**
+*(Chư Phật mười phương.)*
+
+
+
+21. 迦羅帝
+*Jiā luó dì*
+**Ca ra đế**
+*(Bậc hộ pháp đại lực.)*
+
+
+
+22. 夷醯唎
+*Yí xī lì*
+**Di hê rị**
+*(Trí tuệ sáng suốt.)*
+
+
+
+23. 摩訶菩提薩埵
+*Mó hē pú tí sà duǒ*
+**Ma ha bồ đề tát đỏa**
+*(Đại Bồ Tát hộ trì chánh pháp.)*
+
+
+
+24. 薩婆薩婆
+*Sà pó sà pó*
+**Tát bà tát bà**
+*(Chư Phật Bồ Tát khắp mười phương.)*
+
+
+
+25. 摩囉摩囉
+*Mó luó mó luó*
+**Ma ra ma ra**
+*(Trừ ác nghiệp.)*
+
+
+
+26. 摩醯摩醯 唎驮孕
+*Mó xī mó xī ·lì tuó yùn*
+**Ma hê ma hê rị đà dựng**
+*(Gia trì từ bi trí tuệ.)*
+
+
+
+27. 俱盧俱盧 羯蒙
+*Jù lú jù lú · jié méng*
+**Cu lô cu lô kiết mông**
+*(Cứu khổ cứu nạn.)*
+
+
+
+28. 度盧度盧 罰闍耶帝
+*Dù lú dù lú · fá shé yē dì*
+**Độ lô độ lô phạt xà da đế**
+*(Phá chướng ngại.)*
+
+
+
+29. 摩訶罰闍耶帝
+*Mó hē fá shé yē dì*
+**Ma ha phạt xà da đế**
+*(Đại lực hàng ma.)*
+
+
+
+30. 陀囉陀囉
+*Tuó luó tuó luó*
+**Đà ra đà ra**
+*(Chuyển Pháp luân.)*
+
+
+
+31. 地唎尼
+*Dì lì ní*
+**Địa rị ni**
+*(Tịnh thân tâm.)*
+
+
+
+32. 室佛囉耶
+*Shì fó luó yē*
+**Thất Phật ra da**
+*(Bảy Phật gia trì.)*
+
+
+
+33. 遮囉遮囉
+*Zhē luó zhē luó*
+**Dá ra dá ra**
+*(Tiêu tai diệt chướng.)*
+
+
+
+34. 摩摩 罰摩囉
+*Mó mó · fá mó luó*
+**Mạ mạ phạt ma ra**
+*(Độ khắp chúng sanh.)*
+
+
+
+35. 穆帝隸
+*Mù dì lì*
+**Mục đế lệ**
+*(Trí tuệ sáng suốt.)*
+
+
+
+36. 伊醯伊醯
+*Yī xī yī xī*
+**Y hê di hê**
+*(Âm pháp vi diệu.)*
+
+
+
+37. 室那室那
+*Shì nā shì nā*
+**Thất na thất na**
+*(Không thoái chuyển.)*
+
+
+
+38. 阿囉嘇 佛囉舍利
+*Ā luó shēn · fó luó shě lì*
+**A ra sâm Phật ra xá lợi**
+*(Kính lễ xá lợi chư Phật.)*
+
+
+
+39. 罰娑罰嘇
+*Fá suō fá shēn*
+**Phạt sa phạt sâm**
+*(Ánh sáng trí tuệ.)*
+
+
+
+40. 佛囉舍耶
+*Fó luó shě yē*
+**Phật ra xá da**
+*(Cúng dường chư Phật.)*
+
+
+
+41. 呼盧呼盧摩囉
+*Hū lú hū lú mó luó*
+**Hô lô hô lô ma ra**
+*(Từ bi vận hành.)*
+
+
+
+42. 呼盧呼盧醯利
+*Hū lú hū lú xī lì*
+**Hô lô hô lô hê rị**
+*(Gia trì thanh tịnh.)*
+
+
+
+43. 娑囉娑囉
+*Suō luó suō luó*
+**Ta ra ta ra**
+*(Giải thoát, dẫn dắt.)*
+
+
+
+44. 悉唎悉唎
+*Xī lì xī lì*
+**Tất rị tất rị**
+*(Hộ trì chúng sinh.)*
+
+
+
+45. 蘇嚧蘇嚧
+*Sū lú sū lú*
+**Tô rô tô rô**
+*(Gột rửa nghiệp chướng.)*
+
+
+
+46. 菩提夜 菩提夜
+*Pú tí yè · pú tí yè*
+**Bồ đề dạ Bồ đề dạ**
+*(Giác ngộ sáng suốt.)*
+
+
+
+47. 菩陀夜 菩陀夜
+*Pú tuó yè · pú tuó yè*
+**Bồ đà dạ Bồ đà dạ**
+*(Thành tựu đạo quả.)*
+
+
+
+48. 彌帝利夜
+*Mí dì lì yè*
+**Di đế rị dạ**
+*(Tâm sáng, trí chiếu.)*
+
+
+
+49. 那囉謹墀
+*Nā luó jǐn chí*
+**Na ra cẩn trì**
+*(Hộ trì thiện căn.)*
+
+
+
+50. 地利瑟尼那
+*Dì lì sè ní nā*
+**Địa rị sắc ni na**
+*(An tịnh thân tâm.)*
+
+
+
+51. 婆耶摩那
+*Pó yé mó nā*
+**Ba dạ ma na**
+*(Từ bi vô lượng.)*
+
+
+
+52. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Thành tựu viên mãn.)*
+
+
+
+53. 悉陀夜
+*Xī tuó yè*
+**Tất đà dạ**
+*(Hoàn mãn công đức.)*
+
+
+
+54. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Viên mãn thiện pháp.)*
+
+
+
+55. 摩訶悉陀夜
+*Mó hē xī tuó yè*
+**Ma ha tất đà dạ**
+*(Đại thành tựu viên mãn.)*
+
+
+
+56. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Công đức viên mãn.)*
+
+
+
+57. 悉陀喻藝
+*Xī tuó yù yì*
+**Tất đà du nghệ**
+*(Tiêu trừ nghiệp chướng.)*
+
+
+
+58. 室皤囉耶
+*Shì pó luó yē*
+**Thất bàn ra dạ**
+*(An lạc giải thoát.)*
+
+
+
+59. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Thành tựu viên mãn.)*
+
+
+
+60. 那囉謹墀
+*Nā luó jǐn chí*
+**Na ra cẩn trì**
+*(Hộ pháp thiện thần.)*
+
+
+
+61. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Thành tựu viên mãn.)*
+
+
+
+62. 摩囉那囉
+*Mó luó nā luó*
+**Ma ra na ra**
+*(Trừ diệt ma chướng.)*
+
+
+
+63. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Viên mãn công đức.)*
+
+
+
+64. 悉囉僧 阿穆佉耶
+*Xī luó sēng · ā mù qié yē*
+**Tất ra tăng a mục khê da**
+*(Phá tan vô minh si mê.)*
+
+
+
+65. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Thành tựu viên mãn.)*
+
+
+
+66. 娑婆摩訶 阿悉陀夜
+*Sā pó mó hē · ā xī tuó yè*
+**Ta bà ma ha a tất đà dạ**
+*(Đại thành tựu viên mãn.)*
+
+
+
+67. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Công đức viên mãn.)*
+
+
+
+68. 者吉囉 阿悉陀夜
+*Zhě jí luó · ā xī tuó yè*
+**Giả kiết ra a tất đà dạ**
+*(Kết duyên chư Phật.)*
+
+
+
+69. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Thành tựu viên mãn.)*
+
+
+
+70. 波陀摩 羯悉陀夜
+*Bō tuó mó · jié xī tuó yè*
+**Ba đà ma yết tất đà dạ**
+*(Phước trí viên dung.)*
+
+
+
+71. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Viên mãn công đức.)*
+
+
+
+72. 那囉謹墀 皤伽囉耶
+*Nā luó jǐn chí · pó qié luó yē*
+**Na ra cẩn trì bàn đà ra dạ**
+*(Hộ trì lòng từ bi.)*
+
+
+
+73. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Thành tựu viên mãn.)*
+
+
+
+74. 摩婆利 勝羯囉夜
+*Mó pó lì · shèng jié luó yè*
+**Ma bà lị thắng yết ra dạ**
+*(Công đức thắng diệu.)*
+
+
+
+75. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Thành tựu viên mãn.)*
+
+
+
+76. 南無喝囉怛那哆囉夜耶
+*Ná mó ·hē luó dá nà ·duō luó yè yē*
+**Nam mô hắc ra đát na đa ra dạ da**
+*(Kính lễ Đại Bi Quán Thế Âm Bồ Tát.)*
+
+
+
+77. 南無阿利耶
+*Ná mó ·ā lì yē*
+**Nam mô a rị da**
+*(Kính lễ bậc thanh tịnh vô cấu.)*
+
+
+
+78. 婆嚧吉帝
+*Pó lú jí dì*
+**Bà lô kiết đế**
+*(Đấng đại trí giác ngộ.)*
+
+
+
+79. 烁皤囉夜
+*Shuò pó luó yè*
+**Thước bàng ra dạ**
+*(Đấng toàn giác.)*
+
+
+
+80. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Viên mãn thiện hạnh.)*
+
+
+
+81. 唵 悉殿都
+*Ōng xī diàn dū*
+**Án tất điện đô**
+*(Kết ấn chân ngôn.)*
+
+
+
+82. 曼多囉
+*Màn duō luó*
+**Mạn đa ra**
+*(Vòng hoa sen trí tuệ.)*
+
+
+
+83. 跋陀耶
+*Bá tuó yē*
+**Bạt đà dạ**
+*(Thành tựu tự tại.)*
+
+
+
+84. 娑婆訶
+*Sā pó hē*
+**Ta bà ha**
+*(Hoàn mãn viên mãn.)*
