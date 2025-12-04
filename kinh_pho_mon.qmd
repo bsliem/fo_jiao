@@ -1,4 +1,4 @@
----  
+---
 title: "Kinh phổ môn"  
 format:   
   html:   
@@ -8,244 +8,256 @@ execute:
   echo: true  
   warning: false  
   error: true  
----  
-# DÂNG HƯƠNG  
-Nguyện đem lòng thành kính   
-Gởi theo đám mây hương  
-Phảng phất khắp mười phương  
-Cúng dường ngôi Tam bảo   
-Thề trọn đời giữ đạo   
-Theo tự tánh làm   
-Cùng pháp giới chúng sanh  
-Cầu Phật từ gia hộ   
-Tâm Bồ đề kiên cố   
-Chí tu học vững bền   
-Xa bể khổ nguồn mê Chóng quay về bờ giác   
-Nam mô Hương Cúng Dường Bồ Tát ( 3 lần)  
-2.	BẠCH PHẬT   
-Hôm nay  đệ tử chúng con một dạ Chí thành phụng đối trước Tam Bảo.   
-Chí thành Trì tụng kinh chí Xưng niệm Hồng Danh   
-Nguyện hồi hướng công đức   
-Kỳ nguyện thế giới hoà bình   
-Chúng sinh an lạc.   
-Cửa thiền thanh tịnh đại chúng an hoà.   
-Tất cả chúng con nghiệp chướng tiêu trừ thanh tâm an tịnh, bệnh khổ tiêu tan.  
-Quyến thuộc bình an kiết tường như ý.  
-Tinh tấn tu học phúc tuệ trang nghiêm   
-Giới thệ châu viêm Bồ Đề hoà mãn.   
-Ngưỡng mong mong oai đức từ bi xót   
-Nam mô Hương cúng Dường Bồ Tát  
-Nam mô Chứng minh Sư Bồ Tát  
-Nam mô Thập phương thường trụ Tam Bảo Tát Đại Chứng Minh  
-  
-# XƯNG TÁN ĐỨC PHẬT   
-Đấng pháp vương vô thượng, ba cõi chẳng ai bằng.   
-Thầy dạy khắp trời người, cha lành chung bốn loại.   
-Quy y trọn một niệm, dứt sạch nghiệp ba kỳ.   
-Xưng dương cùng tán thán, ức kiếp không cùng tận.    
+---
 
-# QUÁN TƯỞNG   
-Phật, chúng sanh tánh thường rỗng lặng   
-Đạo cảm thông không thể nghĩ bàn   
-Lưới đế châu ví đạo tràng   
-Mười phương Phật bảo hào quang sáng ngời   
-Trước bảo tọa thân con ảnh hiện   
-Cúi đầu xin thệ nguyện quy y   
-(1 tiếng chuông, 1 xá)   
+# DÂNG HƯƠNG
 
-# ĐẢNH LỄ TAM BẢO  
-Chí tâm đảnh lễ: Tận hư không biến pháp giới quá, hiện, vị lai Thập phương chư Phật, Tôn Pháp, Hiền Thánh Tăng thường trụ Tam Bảo (1 lạy).   
-Chí tâm đảnh lễ: Ta-bà giáo chủ điều ngự Bổn sư Thích-ca Mâu-ni Phật, Đương lai hạ sinh Di-lặc tôn Phật, Đại trí Văn-thù Sư-lợi Bồ-tát, Đại hạnh Phổ Hiền Bồ-tát, Hộ pháp chư tôn Bồ-tát, Kỳ Viên hội thượng Phật Bồ-tát (1 lạy).   
-Chí tâm đảnh lễ: Tây Phương Cực Lạc thế giới Giáo chủ Đại từ Đại bi A-di-đà Phật,   
-Đại bi Quán Thế Âm Bồ-tát,   
-Đại lực Đại Thế Chí Bồ-tát,   
-Đại nguyện Địa Tạng Vương Bồ-tát,   
-Thanh tịnh Đại Hải Chúng Bồ-tát (1 lạy).  
+Nguyện đem lòng thành kính\
+Gởi theo đám mây hương\
+Phảng phất khắp mười phương\
+Cúng dường ngôi Tam bảo\
+Thề trọn đời giữ đạo\
+Theo tự tánh làm\
+Cùng pháp giới chúng sanh\
+Cầu Phật từ gia hộ\
+Tâm Bồ đề kiên cố\
+Chí tu học vững bền\
+Xa bể khổ nguồn mê Chóng quay về bờ giác\
+Nam mô Hương Cúng Dường Bồ Tát ( 3 lần)\
+2. BẠCH PHẬT\
+Hôm nay đệ tử chúng con một dạ Chí thành phụng đối trước Tam Bảo.\
+Chí thành Trì tụng kinh chí Xưng niệm Hồng Danh\
+Nguyện hồi hướng công đức\
+Kỳ nguyện thế giới hoà bình\
+Chúng sinh an lạc.\
+Cửa thiền thanh tịnh đại chúng an hoà.\
+Tất cả chúng con nghiệp chướng tiêu trừ thanh tâm an tịnh, bệnh khổ tiêu tan.\
+Quyến thuộc bình an kiết tường như ý.\
+Tinh tấn tu học phúc tuệ trang nghiêm\
+Giới thệ châu viêm Bồ Đề hoà mãn.\
+Ngưỡng mong mong oai đức từ bi xót\
+Nam mô Hương cúng Dường Bồ Tát\
+Nam mô Chứng minh Sư Bồ Tát\
+Nam mô Thập phương thường trụ Tam Bảo Tát Đại Chứng Minh
 
-# CHÚ ĐẠI BI  
-Nam-Mô Đại Bi hội thượng Phật, Bồ tát (3 lần)   
-Thiên thủ thiên nhãn, vô ngại đại bi tâm, đà la ni.   
-Nam-Mô hắc ra đát na, đa ra dạ da.   
-Nam-Mô a rị da, bà lô kiết đế, thước bát ra da. Bồ đề tát đỏa bà da. Ma ha tát đỏa bà da. Ma ha ca lô ni ca da.   
-Án tát bàn ra phạt duệ, số đát na đát tỏa. Nam-Mô tất kiết lật đỏa y mông, a rị da bà lô kiết đế, thất Phật   
-ra lăng đà bà. Nam-Mô na ra cẩn trì, hê rị ma ha bàn đà sa mế. Tát bà a tha đậu du bằng a thệ dựng, tát bà   
-tát đa, na ma bà dà, ma phạt đạt đậu, đát điệt tha. Án a bà lô hê lô ca đế, ca ra đế, di hê rị. Ma ha bồ đề   
-tát đỏa, tát bà tát bà, ma ra ma ra, ma hê ma hê rị đà dựng. Câu lô câu lô kiết mông. Độ lô độ lô phạt xà da đế,   
-ma ha phạt xa da đế. Đà ra đà ra địa ri ni, thất phật ra da. Giá ra giá ra.   
-Mạ mạ phạt ma ra, mục đế lệ. Y hê di hê,   
-thất na thất na, a ra sâm phật ra xá lợi, phạt sa phạt sâm. Phật ra xá da. Hô lô hô lô, ma ra hô lô hô lô hê rị. Ta ra ta ra, tất rị   
-tất rị, tô rô tô rô. Bồ đề dạ, bồ đề dạ, bồ đà dạ, bồ đà dạ. Di đế rị dạ. Na ra cẩn trì địa rị sắc   
-ni na. Ba dạ ma na, ta bà ha Tất đà dạ ta bà ha Ma ha tất đà dạ ta bà ha Tất đà du nghệ thất bàn ra da ta bà ha   
-Na ra cẩn trì ta bà ha ta bà ha. Tất đà dạ ta bà ha, Ma ha tất đà dạ ta bà ha. Tất đà du nghệ thất bàn ra da, ta bà ha.   
-Na ra cẩn trì, ta bà ha. Ma ra na ra ta bà ha. Tất ra tăng a mục khế da ta bà ha, ta bà ma ha a tất đà dạ ta bà ha. Giả kiết   
-ra a tất đà dạ ta bà ha. Ba đà ma yết tất đà dạ, ta bà ha. Na ra cẩn trì bàn đà ra dạ,   
-ta bà ha.   
-Ma bà lợi thắng kiết ra dạ, ta bà ha. Nam-Mô hắc ra đát na đa ra dạ da. Nam-Mô a rị da bà lô kiết đế, thước bàn ra dạ ta bà ha.   
-Án tất điện đô, mạn đa ra, bạt đà dạ, ta bà ha. ( 3 lần)   
-Nam mô Thập phương Thường trụ Tam bảo ( 3 lần)   
-  
-Trí tuệ bừng lên đóa biện tài,  
-Đứng yên trên sóng sạch trần ai,  
-Cam lộ chữa lành cơn khổ bệnh,  
-Hào quang quét sạch buổi nguy tai.  
-Liễu biếc phất bày muôn thế giới,  
-Sen hồng nở hé vạn lâu đài,  
-Cúi đầu ca ngợi dâng hương thỉnh,  
-Xin nguyện từ bi ứng hiện ngay.  
-Nam Mô Đại Bi Quán Thế Âm Bồ Tát.  
+# XƯNG TÁN ĐỨC PHẬT
 
-# KỆ KHAI KINH  12:02
-Phật pháp cao siêu rất nhiệm màu   
-Cơ duyên may được thọ trì  
-Xin nguyện đi vào biển tuệ  
-Tinh thông giáo nghĩa huyền vi.  
-Nam mô Pháp Hoa Hội Thượng Phật Bồ Tát ( 3 lần)   
+Đấng pháp vương vô thượng, ba cõi chẳng ai bằng.\
+Thầy dạy khắp trời người, cha lành chung bốn loại.\
+Quy y trọn một niệm, dứt sạch nghiệp ba kỳ.\
+Xưng dương cùng tán thán, ức kiếp không cùng tận.
 
-# KINH PHỔ MÔN  12:53
-Kinh Diệu Pháp Liên Hoa Phẩm Quán Thế Ân Bồ Tát Phổ Môn  
-Lúc bấy giờ, Ngài Vô Tận Ý Bồ-tát liền từ chỗ ngồi đứng dậy, trịch áo, bày vai hữu, chắp tay hướng Phật mà bạch rằng: “Thế Tôn! Ngài Quán Thế Âm Bồ- tát do nhơn duyên gì mà tên là Quán Thế Âm?”.   
-Phật bảo Ngài Vô Tận Ý Bồ-tát: “Thiện nam tử! Nếu có vô lượng trăm nghìn muôn ức chúng sanh chịu các khổ não,   
-nghe Quán Thế Âm Bồ-tát này, một lòng xưng danh. Quán Thế Âm Bồ-tát tức thời xem xét tiếng tăm kia, đều được giải thoát”. Nếu có người trì danh hiệu Quán Thế Âm Bồ-tát này, dầu vào trong lửa lớn, lửa chẳng cháy được, vì do sức uy thần của Bồ-tát này vậy.   
-Nếu bị nước lớn làm trôi, xưng danh hiệu Bồ-tát này liền được chỗ cạn.   
-Nếu có trăm nghìn muôn ức chúng sanh vì tìm vàng, bạc, lưu ly, xa cừ, mã não, san hô, hổ phách, trân châu, các thứ báu, vào trong biển lớn,   
-giả sử gió lớn thổi ghe thuyền của kia trôi tấp nơi nước Quỷ La-sát, trong ấy nếu có nhân đến một người xưng danh hiệu Quan Thế Âm Bồ-tát, thì các người đó đều dạng thoát khỏi nạn quỷ la-sát. Do nhơn duyên đó mà tên là   
-Quán Thế Âm.   
-Nếu có người sắp sẽ bị hại, xưng danh hiệu   
-Quán Thế Âm Bồ-tát, thì dao gậy của người cầm liền gãy từng khúc người ấy được thoát khỏi.   
-Nếu quỷ dạ-xoa cùng la-sát đầy trong cõi tam thiên đại thiên muốn đến hại người, nghe người xưng hiệu Quán Thế Âm Bồ-tát, thời các quỷ dữ đó còn không thể   
-dùng mắt dữ mà nhìn người, huống lại làm hại được. Dầu lại có người hoặc có tội, hoặc không tội, gông cùm, xiềng xích   
-trói buộc nơi thân, xưng danh hiệu Quán Thế Âm Bồtát, thảy đều đứt rã, liền được thoát khỏi.   
-Nếu kẻ oán tặc đầy trong cõi tam thiên đại thiên,   
-có một vị thương chủ dắt các người buôn đem theo nhiêu của báu, trải qua nơi đường hiểm trở , trong đó có một người xướng rằng: “Các thiện nam tử! Chớ nên sợ sệt, các ông nên phải một lòng xưng danh hiệu Quán Thế Âm Bồ-tát, vị Bồ-tát đó hay đem pháp vô úy thí cho chúng sanh, các ông nếu xưng danh hiệu, thời sẽ được thoát khỏi oán tặc này”.   
-Các người buôn nghe rồi, đều lên tiếng xưng rằng: “Nam-mô Quán Thế Âm Bồ-tát”. Vì xưng danh hiệu Bồ-tát nên liền được thoát khỏi.   
-Vô Tận Ý! Quán Thế Âm Đại Bồ-tát sức oai thần cao lớn như thế.   
-Nếu có chúng sanh nào nhiều lòng dâm dục, thường cung kính niệm Quán Thế Âm Bồ-tát, liền được ly dục.   
-Nếu người nhiều giận hờn, thường cung kính niệm Quán Thế Âm Bô-tát, liền được lìa lòng giận.   
-Nếu người nhiều ngu si,   
-thường cung kính niệm Quán Thế Âm Bồ-tát, liền được lìa ngu si. Vô Tận Ý! Quán Thế Âm Bồ-tát có những sức oai thần lớn, nhiều lợi ích như thế, cho nên chúng sanh thường phải một lòng tưởng nhớ” danh hiệu, thời sẽ được thoát khỏi oán tặc này”.   
-Nếu có người nữ, giả sử muốn cầu con trai, lễ lạy cúng dường Quán Thế Âm Bồ-tát, liền sanh con trai phước đức, trí huệ;   
-giả sử muốn cầu con gái, bèn sanh con gái có tướng xinh đẹp, trước đã trồng cội phước đức, mọi người đều kính mến.   
-Vô Tận Ý! Quán Thế Âm Bồ-tát có sức thần như thế.   
-Nếu có chúng sanh cung kính lễ lạy Quán Thế Âm Bồ-tát, thì phước đức chẳng luống mất.   
-Cho nên chúng sanh đều phải thọ trì danh hiệu Quán Thế Âm Bồ-tát.   
-Vô Tận Ý! Nếu có người thọ trì   
-danh tự của sáu mươi hai ức hằng hà sa Bồ- tát, lại trọn đời cúng dường đồ ăn uống, y phục, giường nằm, thuốc thang. Ý ông nghĩ sao?  
-Công đức của người thiện nam tử, thiện nữ nhơn đó có nhiều chăng? Vô Tận Ý thưa: “Bạch Thế Tôn!   
-Rất nhiều”. Phật nói: “Nếu lại có người thọ trì danh hiệu Quán Thế Âm Bồ-tát, nhẫn đến một thời lễ lạy cúng dường,   
-thì phước của hai người đó bằng nhau không khác, trong trăm nghìn muôn ức kiếp không thể cùng tận. Vô Tận Ý! Thọ trì danh hiệu Quán Âm Bồ-tát   
-được vô lượng vô biên phước đức lợi ích như thế”. Ngài Vô Tận Ý Bồ-tát bạch Phật rằng:   
-“Thế Tôn! Quán Thế Âm Bồ-tát dạo đi trong cõi Ta-bà như thế nào? Nói pháp cho chúng sanh như thế nào? Sức phương tiện việc đó thế nào?”. Phật bảo Vô Tận Ý Bồ-tát: Thiện nam tử!   
-Nếu có chúng sanh trong quốc độ nào đáng dùng thân Phật dạng độ thoát, thời Quán Thế Âm Bồ-tát liền hiện thân Phật mà vì đó nói pháp. Người đáng dùng thân Duyên giác mà được độ thoát liền hiện thân Duyên giác mà vì đó nói pháp.    
-Người đáng dùng thân Thanh văn được độ thoát, liền hiện thàn Thanh văn mà vì đó nói pháp. Người đáng dùng thân Phạm vương được độ thoát,   
-liền hiện thân Phạm vương mà vì đó nói pháp.   
-Người đáng dùng thân Đế Thích được độ thoát, liền hiện thân Đế Thích mà vì đó nói pháp. Người đáng dùng thân Tự Tại Thiên được độ thoát, liền hiện thân Tự Tại Thiên mà vì đó nói pháp.   
-Người đáng dùng thân Đại Tự Tại Thiên được độ thoát, liền hiện thân Đại Tự Tại Thiên mà vì đó nói pháp. Người đáng dùng thân Thiên Đại Tướng quân được độ thoát, liền hiện thân Thiên Đại Tướng quân mà vì đó nói pháp.   
-Người đáng dùng thân Tỳ-sa-môn được độ thoát, liền hiện thân Tỳ-sa-môn mà vì đó nói pháp.   
-Người đáng dùng thân tiểu vương được độ thoát, liền hiện thân tiểu vương mà vì đó nói pháp. Sách Bồ Tát Sách Phật giáo Tượng Quán Thế Âm Người đáng dùng thân trưởng giả được độ thoát, liền hiện thân trưởng giả mà vì đó nói pháp.   
-Người đáng dùng thân cư sĩ được độ thoát, liền hiện thân cư sĩ mà vì đó nói pháp. Người đáng dùng thân tể quan được độ thoát,   
-liền hiện thân tể quan mà vì đó nói pháp. Người đáng dùng thân bà-la-môn được độ thoát, liền hiện thân bà-la-môn   
-mà vì đó nói pháp. Người đáng dùng thân Tỳ-kheo, Tỳ-kheo-ni, ưu-bà-tắc, ưu-bà-di được độ thoát, liền hiện thân Tỳ-kheo,   
-Tỳ-kheo- ni, ưu-bàtắc, ưu-bà-di mà vì đó nói pháp. Người đáng dùng thân phụ nữ của trưởng giả, cư sĩ, tể quan, bà-la-môn được độ thoát, liền hiện thân phụ nữ mà vì đó nói pháp. Người đáng dùng thân đồng nam, đồng nữ được độ thoát, liền hiện thân đồng nam, đồng nữ mà vì đó nói pháp.   
-Người đáng dùng thân trời, rồng, dạ-xoa, càn-thát-bà, a-tu-la, ca-lầu-la, khẩn-na-la, ma-hầu-la-già,   
-nhơn cùng phi nhơn được độ thoát, liền đều hiện ra mà vì đó nói pháp. Người đáng dùng thân Chấp Kim Cang thần được độ thoát, liền hiện thân Chấp Kim Cang thần   
-mà vì đó nói pháp. Vô Tận Ý! Quán Thế Âm Bồ-tát đó thành tựu công đức như thế, dùng các thân hình, dạo đi trong các cõi nước   
-để độ thoát chúng sanh, cho nên các ông phải một lòng cúng dường Quán Thế Âm Bồ-tát. Quán Thế Âm Đại Bồ-tát đó ở trong chỗ nạn gấp sợ sệt   
-hay ban sự vô úy, cho nên cõi Ta-bà này đều gọi Ngài là vị “Thí Vô Úy”. Vô Tận Ý Bồ-tát bạch Phật:   
-“Thế Tôn! Con nay phải cúng dường Quán Thế Âm Bồ-tát”. Liền mở chuỗi ngọc bằng các châu báu nơi cổ, giá trị trăm nghìn lượng vàng, đem trao cho Ngài Quán Thế Âm mà nói rằng: “Xin Ngài nhận chuỗi trân bảo pháp thí này”. Khi ấy Quán Thế Âm Bồ-tát chẳng chịu nhận chuỗi.   
-Ngài Vô Tận Ý lại thưa cùng Quán Thế Âm Bồ-tát rằng: “Xin Ngài vì thương chúng tôi mà nhận chuỗi ngọc này”. Bấy giờ Phật bảo Quán Thế Âm Bồ- tát:   
-“Ông nên thương Vô Tận Ý Bồ-tát này và hàng tứ chúng, cùng trời, rồng, dạ-xoa, càn-thát-bà, a-tu-la, ca-lầu-la, khẩn-na- la, ma-hầu-la-già, nhơn và phi nhơn v.v... mà nhận chuỗi ngọc đó”. Tức thời Quán Thế Âm Bồ-tát thương hàng tứ chúng và trời, rồng, nhơn, và phi nhơn v.v... mà nhận chuỗi ngọc đó chia làm hai phần: Một phần dâng Đức Thích Ca   
-Mâu Ni Phật, một phần dâng tháp của phật Đa Bảo. Vô Tận Ý! Quán Thế Âm Bồ-tát có sức thần tự tại như thế,   
-dạo đi nơi cõi Ta-bà. Lúc đó, Ngài Vô Tận Ý Bồ-tát nói kệ hỏi Phật rằng:   
-Thế Tôn đủ tướng tốt, Con nay lại hỏi kia Phật tử nhơn duyên gì Tên là Quán Thế Âm? Đấng đầy đủ tướng tốt   
-Kệ đáp Vô Tận Ý:   
-Ông nghe hạnh Quán Âm Khéo ứng các nơi chỗ Thệ rộng sâu như biển Nhiều kiếp chẳng nghĩ bàn Hầu nhiều nghìn Đức Phật Phát   
-Phát nguyện thanh tịnh lớn. Ta vì ông lược nói Sách Bồ Tát Sách Phật giáo Ta vì ông lược nói Nghe tên cùng thấy thân Tâm niệm chẳng luống qua Hay diệt khổ các cõi.   
-Giả sử sanh lòng hại Xô rớt hầm lửa lớn Do sức niệm Quán Âm Hầm lửa biến thành ao. Hoặc trôi dạt biển lớn Các nạn quỷ, cá, rồng   
-Do sức niệm Quán Âm Sóng mòi chẳng chìm được. Hoặc ở chót Tu-di Bị người xô rớt xuống Do sức niệm Quán Âm Như mặt nhựt treo không Hoặc bị người dữ rượt Rớt xuống núi kim cang Do sức niệm Quán Âm Chẳng tổn đến mảy lông. Hoặc gặp oán tặc vây Đều cầm dao làm hại Do sức niệm Quán Âm   
-Đều liền sanh lòng lành. Hoặc bị khổ nạn vua Khi hành hình sắp chết Do sức niệm Quán Âm Dao liền gãy từng đoạn. Hoặc tù cấm, xiềng xích   
-Tay chân bị gông cùm Do sức niệm Quán Âm Tháo rã, được giải thoát Nguyền rủa, các thuốc độc Muốn hại đến thân đó Do sức niệm Quán Âm Tượng Quán Thế Âm   
-Trở hại nơi bổn nhơn. Hoặc gặp la-sát dữ Rồng độc, các loài quỷ Do sức niệm Quán Âm liền đều không dám hại. Hoặc thú dữ vây quanh Nanh vuốt nhọn đáng sợ Do sức niệm Quán Âm Vội vàng bỏ chạy thẳng. Rắn độc cùng bò cạp Hơi độc, khói lửa đốt   
-Do sức niệm Quán Âm Theo tiếng tự bỏ đi. Mây sấm nổ, sét đánh Tuôn giá, xối mưa lớn Do sức niệm Quán Âm Liền được tiêu tan cả.   
-Chúng sanh bị khổ ách Vô lượng khổ bức thân Quán Âm sức trí diệu Hay cứu khổ thế gian Đầy đủ sức thần thông Rộng tu trí phương tiện   
-Các cõi nước mười phương Không cõi nào chẳng hiện. Các loài trong đường dữ: Địa ngục, quỷ, súc sanh Sanh, già, bịnh, chết, khổ Lần đều khiến dứt hết.   
-Chơn quán thanh tịnh quán Trí huệ quán rộng lớn Bi quán và từ quán, Thường nguyện, thường chiêm ngưỡng Sáng thanh tịnh không nhơ   
-Tuệ nhựt phá các tối Hay tiêu tai khói lửa Khắp soi sáng thế gian. Lòng Bi răn như sấm Ý Từ diệu dường mây   
-Xối mưa pháp cam lồ Dứt trừ lửa phiền não Cãi kiện qua chỗ quan Trong quân trận sợ sệt Do sức niệm Quán Âm Cừu   
-Cựu oán đều lui tán. Diệu Âm, Quán Thế Âm Phạm âm, hải triều âm Tiếng hơn thế gian kia, Cho nên thường phải niệm.   
-Niệm niệm chớ sanh nghi Quán Âm bậc Tịnh Thánh Nơi khổ não nạn chết Hay vì làm nương cậy. Đủ tất cả công đức   
-Mắt lành trông chúng sanh Biển phước lớn không lường Cho nên phải đảnh lễ. Bấy giờ Ngài Trì Địa Bồ-tát liền từ chỗ ngồi đứng dậy đến trước bạch Phật rằng: “Thế Tôn! Nếu có chúng sanh nào nghe phẩm “Quán Thế Âm Bồ-tát Đạo Nghiệp Tự Tại,   
-Phổ Môn Thị Hiện sức Thần Thông” này, thì phải biết công đức người đó chẳng ít”. Lúc Phật nói phẩm “Phổ Môn” này,   
-trong chúng có tám muôn bốn nghìn chúng sanh đều phát tâm Vô thượng đẳng đẳng, Vô thượng Chánh đẳng Chánh giác.   
-NAM MÔ ĐẠI BI QUÁN THẾ ÂM BỒ TÁT (ba lần).   
+# QUÁN TƯỞNG
 
-# BỔ XUNG 
-(35:50)  
-1. Nam mô hiệu Viên Thông, danh Tự Tại,  
-Quán Âm Như Lai quảng phát hoằng thệ nguyện.   
-2. Nam mô nhứt niệm tâm vô quái ngại,  
-Quán Âm Như Lai thường cư Nam Hải nguyện.   
-3. Nam mô trụ Ta Bà, U Minh giới,  
-Quán Âm Như Lai tầm thinh cứu khổ nguyện.   
-4. Nam mô hàng tà ma trừ yêu quái,  
-Quán Âm Như Lai năng trừ nguy hiểm nguyện.   
-5. Nam mô thanh tịnh bình, thùy dương liễu  
-Quán Âm Như Lai cam lồ sái tâm nguyện.   
-6. Nam mô đại từ bi, năng hỷ xả,  
-Quán Âm Như Lai thường hành bình đẳng nguyện.   
-7. Nam mô trú dạ tuần vô tổn hoại,  
-Quán Âm Như Lai thệ diệt tam đồ nguyện.   
-8. Nam mô vọng Nam nham, cầu lễ bái,  
-Quán Âm Như Lai già tỏa giải thoát nguyện.   
-9. Nam mô tạo Pháp thuyền, du khổ hải  
-Quán Âm Như Lai độ tận chúng sanh nguyện.   
-10. Nam mô tiền tràng phan, hậu bảo cái  
-Quán Âm Như Lai tiếp dẫn Tây Phương nguyện.   
-11. Nam mô Vô Lượng Thọ Phật cảnh giới  
-Quán Âm Như Lai Di Ðà thọ ký nguyện.   
-12. Nam mô đoan nghiêm thân, vô tỷ trại  
-Quán Âm Như Lai quả tu thập nhị nguyện.   
-Đầu cành dương liễu vương cam lộ  
-Một giọt mười phương rưới cũng đầy  
-Bao nhiêu trần lụy tiêu tan hết  
-Đàn tràng thanh tịnh ở ngay đây.  
-Nam mô Bồ Tát Thanh Lương Địa   
-Trí tuệ bừng lên đóa biện tài  
-Đứng yên trên sóng sạch trần ai  
-Cam lộ chữa lành cơn khổ bệnh  
-Hào quang quét sạch buổi nguy tai  
-Liễu biếc phất bày muôn thế giới  
-Sen hồng nở hé vạn lâu đài  
-Cúi đầu ca ngợi dâng hương thỉnh  
-Xin nguyện từ bi ứng hiện ngay.  
-Nam mô Bồ Tát Quan Thế Âm   
-  
-# CHƠN NGÔN VIẾT:   
-Án, đa rị đa rị, đốt đa rị, đốt đốt đa rị sa ba hà. ( 3 lần)   
+Phật, chúng sanh tánh thường rỗng lặng\
+Đạo cảm thông không thể nghĩ bàn\
+Lưới đế châu ví đạo tràng\
+Mười phương Phật bảo hào quang sáng ngời\
+Trước bảo tọa thân con ảnh hiện\
+Cúi đầu xin thệ nguyện quy y\
+(1 tiếng chuông, 1 xá)
 
-# LỤC TỰ ĐẠI MINH CHƠN NGÔN   
-Án ma ni bát di hồng. (108 lần) (C)   
+# ĐẢNH LỄ TAM BẢO
 
-# HỒI HƯỚNG 
+Chí tâm đảnh lễ: Tận hư không biến pháp giới quá, hiện, vị lai Thập phương chư Phật, Tôn Pháp, Hiền Thánh Tăng thường trụ Tam Bảo (1 lạy).\
+Chí tâm đảnh lễ: Ta-bà giáo chủ điều ngự Bổn sư Thích-ca Mâu-ni Phật, Đương lai hạ sinh Di-lặc tôn Phật, Đại trí Văn-thù Sư-lợi Bồ-tát, Đại hạnh Phổ Hiền Bồ-tát, Hộ pháp chư tôn Bồ-tát, Kỳ Viên hội thượng Phật Bồ-tát (1 lạy).\
+Chí tâm đảnh lễ: Tây Phương Cực Lạc thế giới Giáo chủ Đại từ Đại bi A-di-đà Phật,\
+Đại bi Quán Thế Âm Bồ-tát,\
+Đại lực Đại Thế Chí Bồ-tát,\
+Đại nguyện Địa Tạng Vương Bồ-tát,\
+Thanh tịnh Đại Hải Chúng Bồ-tát (1 lạy).
 
-# XƯNG TÁN ĐỨC QUÁN THẾ ÂM   
-Phổ môn thị hiện Cứu khổ nhân sinh Sách Bồ Tát Thuyền từ lướt sóng Bốn biển điêu linh Trùng dương vọng tiếng hồn kinh Quán Ám ứng hiện chúng sinh thoát nàn. Nam-mô Thánh Quan Tự Tại Bồ- tát Ma-ha-tát. (3 lần).  
+# CHÚ ĐẠI BI
 
-  # MƯỜI HAI LỜI NGUYỆN CỦA BỒ TÁT QUÁN ÂM   
-Chí tâm đảnh lễ: Khi hành Bồ- tát, danh hiệu tôi Tự Tại Quán Âm, viên thông thanh tịnh căn trân, nơi nào đau khổ tầm thanh cứu liền. Nam-mô Quán Thế Âm Bồ-tát.  (Lạy 1 lạy) - Chí tâm đảnh lễ: Không nài gian khổ, quyết một lòng cứu độ chúng sanh, luôn luôn thị hiện biển Đông, vớt người chìm đắm khi dông gió nhiều. Nam-mô Quán Thế Ấm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Ta-bà ứng hiện, chốn u minh nhiều chuyện khổ đau, oan gia tương báo hại nhau, nghe tiếng than thở mau mau cứu liền. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Thanh trừ yêu ái, bao nhiêu loài ma quỷ gớm ghê, độ cho chúng hết u mê, dứt trừ nguy hiểm không hề nhiễu nhương. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Tay cầm dương liễu nước cam lồ rưới mát nhân thiên, chúng sanh điên đảo đảo điên, an vui mát mẻ ưu phiền tiêu tan. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Thường hành bình đẳng, lòng từ bi thương xót chúng sanh, hỷ xả tất cả lỗi lầm, không còn phân biệt sơ, thân, mọi loài. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Dứt ba đường dữ, chốn ngục hình ngạ quỷ ? súc sanh , cọp beo, thú dữ vây quanh, Quán Âm thị hiện chúng sanh thoát nàn. Nam-mô Quán Thế Âm Bồ-tát (Lạy 1 lạy) - Chí tâm đảnh lễ: Tội nhân bị trói, bị hành hình rồi lại khảo tra, thành tâm lễ bái thiết tha, Quán Âm phù hộ thoát ra nhẹ nhàng. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Làm thuyền cứu vớt, giúp cho người vượt khúc lênh đênh, bốn bề biển khổ chông chênh, Quán Âm độ hết an nhiên Niết-bàn. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Tây phương tiếp dẫn, vòng hoa thơm, kỹ nhạc, lọng tàn, tràng phang, bảo cái trang hoàng, Quán Âm cứu độ đưa đường về Tây. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Di Đà thọ ký, cảnh phương tuổi thọ khôn lường, chúng sanh muốn sống miên trường, Quán Âm nhớ niệm Tây phương mau về. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Tu hành tinh tấn, dù thân này tan nát cũng đành, thành tâm nỗ lực thực hành, mười hai câu nguyện độ h đờ đờ Sách Phật giáo Tượng Quán Thế Âm ồ sanh đời đời. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) .   
+Nam-Mô Đại Bi hội thượng Phật, Bồ tát (3 lần)\
+Thiên thủ thiên nhãn, vô ngại đại bi tâm, đà la ni.\
+Nam-Mô hắc ra đát na, đa ra dạ da.\
+Nam-Mô a rị da, bà lô kiết đế, thước bát ra da. Bồ đề tát đỏa bà da. Ma ha tát đỏa bà da. Ma ha ca lô ni ca da.\
+Án tát bàn ra phạt duệ, số đát na đát tỏa. Nam-Mô tất kiết lật đỏa y mông, a rị da bà lô kiết đế, thất Phật\
+ra lăng đà bà. Nam-Mô na ra cẩn trì, hê rị ma ha bàn đà sa mế. Tát bà a tha đậu du bằng a thệ dựng, tát bà\
+tát đa, na ma bà dà, ma phạt đạt đậu, đát điệt tha. Án a bà lô hê lô ca đế, ca ra đế, di hê rị. Ma ha bồ đề\
+tát đỏa, tát bà tát bà, ma ra ma ra, ma hê ma hê rị đà dựng. Câu lô câu lô kiết mông. Độ lô độ lô phạt xà da đế,\
+ma ha phạt xa da đế. Đà ra đà ra địa ri ni, thất phật ra da. Giá ra giá ra.\
+Mạ mạ phạt ma ra, mục đế lệ. Y hê di hê,\
+thất na thất na, a ra sâm phật ra xá lợi, phạt sa phạt sâm. Phật ra xá da. Hô lô hô lô, ma ra hô lô hô lô hê rị. Ta ra ta ra, tất rị\
+tất rị, tô rô tô rô. Bồ đề dạ, bồ đề dạ, bồ đà dạ, bồ đà dạ. Di đế rị dạ. Na ra cẩn trì địa rị sắc\
+ni na. Ba dạ ma na, ta bà ha Tất đà dạ ta bà ha Ma ha tất đà dạ ta bà ha Tất đà du nghệ thất bàn ra da ta bà ha\
+Na ra cẩn trì ta bà ha ta bà ha. Tất đà dạ ta bà ha, Ma ha tất đà dạ ta bà ha. Tất đà du nghệ thất bàn ra da, ta bà ha.\
+Na ra cẩn trì, ta bà ha. Ma ra na ra ta bà ha. Tất ra tăng a mục khế da ta bà ha, ta bà ma ha a tất đà dạ ta bà ha. Giả kiết\
+ra a tất đà dạ ta bà ha. Ba đà ma yết tất đà dạ, ta bà ha. Na ra cẩn trì bàn đà ra dạ,\
+ta bà ha.\
+Ma bà lợi thắng kiết ra dạ, ta bà ha. Nam-Mô hắc ra đát na đa ra dạ da. Nam-Mô a rị da bà lô kiết đế, thước bàn ra dạ ta bà ha.\
+Án tất điện đô, mạn đa ra, bạt đà dạ, ta bà ha. ( 3 lần)\
+Nam mô Thập phương Thường trụ Tam bảo ( 3 lần)
 
-# BÁT NHÃ TÂM KINHMA HA BÁT NHÃ BA LA MẬT ĐA TÂM KINH   
-Quán Tự Tại Bồ-tát hành thâm Bát- nhã Ba-la-mật-đa thời chiếu kiến ngũ uẩn giai không, độ nhất thiết khổ ách. Xá Lợi Tử! Sắc bất dị không, không bất dị sắc; sắc tức thị không, không tức thị sắc; thọ, tưởng, hành, thức diệc phục như thị. Xá Lợi Tử! Thị chư pháp không tướng, bất sanh bất diệt, bất cấu bất tịnh, bất tăng bất giảm. Thị cố không trung, vô sắc, vô thọ, tưởng, hành, thức; vô nhãn, nhĩ, tỉ, thiệt, thân, ý; vô sắc, thanh, hương, vị, xúc, pháp; vô nhãn giới, nãi chí vô ý thức giới, vô vô minh, diệc vô vô minh tận, nãi chí vô lão tử, diệc vô lão tử tận; vô Khổ, Tập, Diệt, Đạo; vô trí diệc vô đắc. Dĩ vô sở đắc cố, Bồ-đề tát đỏa y Bát-nhã Ba La Mật Đa cố tâm vô quái ngại, vô quái ngại cố, vô hữu khủng bố viễn ly điên đảo mộng tưởng, cứu cánh Niết-bàn. Tam thế chư Phật, y Bát-nhã Ba La mật đa cố đắc A Nậu Đa La tam miệu tam bồ đề. Cố tri Bát nhã Ba-la-mật-đa, thại Đại thần chú, thị Đại minh chú, thị Vô thượng chú, thị Vô đẳng đẳng chú, năng trừ nhứt thiết khổ, chơn thiệt bất hư. Cố thuyết Bát-nhã Ba-la-mật-đa chú tức thuyết chú viết: " Yết đế, yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha ( 3 lần)"   
-# VÃNG SANH TỊNH ĐỘ THẦN CHÚ   
-Nam mô a di đa bà dạ, đa tha dà đa dạ, đa diệt dạ tha. A di rị đô bà tỳ, a di rị đa tất đam bà tỳ, A di rị đa, tỳ ca lan đế. A di rị đa tỳ ca lan đa, dà di nị dà dà na. Chỉ đa ca lệ ta bà ha. (3 lần)   
-# XƯNG TÁN PHẬT A DI ĐÀ   
-Phật A Di Đà thân kim sắc, Tướng tốt chói sáng tự trang nghiêm Năm Tu-di uyển chuyển bạch hào Bốn biển lớn trong ngần mắt biếc Trong hào quang hóa vô số Phật Vô số Bồ-tát hiện ở trong Bốn mươi tám nguyện độ chúng sanh Chín phẩm sen vàng lên giải thoát Quy mạng lễ A Di Đà Phật Ở phương Tây thế giới an lành Con nay xin phát nguyện vãng sanh Cúi xin Đức Từ Bi tiếp độ. Nam mô Tây phương Cực Lạc thế giới Đại Từ Đại Bi A Di Đà Phật (c) Nam mô A Di Đà Phật ( 108 lần) Nam mô Quan Thế Âm Bồ-tát (108 lần) Nam mô Đại Thế Chí Bồ-tát ( 3 lần) Mam mô Địa Tạng Vương Bồ-tát ( 3 lần) Nam mô Thanh Tịnh Đại Hải Chúng Bồ tát ( 3 lần) Sách Bồ Tát Sách Phật giáo Tượng Quán Thế Âm 6. SÁM CẦU AN Con quỳ lạy Phật chứng minh, Hai hàng Phật tử tụng kinh cầu nguyền, Cầu cho tín chủ hiện tiền, Nội gia quyến thuộc bình yên điều hòa, Thọ trường hưởng phước nhàn ca, Phổ Môn kinh tụng trong nhà thảnh thơi. Quán Âm phò hộ vui chơi, Mười hai câu nguyện độ đời nên danh, Thiện nam tín nữ lòng thành, Ăn chay niệm Phật làm lành vái van. Quán Âm xem xét thế gian, Rước người chìm nổi, Mười phương phiêu trầm, Mau mau niệm Phật Quán Âm, Tai qua nạn khỏi định tâm sáng lòa, Đương cơn lửa cháy đốt ta, Niệm danh Bồ-tát hóa ra sen vàng. Gió giông đi biển chìm thuyền, Niệm danh Bồ-tát sóng tan hết liền. Tà ma quỷ báo khùng điên, Niệm danh Bồ-tát mạnh liền khôn ngoan. Vào rừng cọp rắn nghinh ngang, Niệm danh Bồ-tát nó càng chạy xa. Tội tù ngục tối khảo tra, Quán Âm tưởng niệm thả ra nhẹ nhàng. Bị trù, bị ếm mê man, Quán Âm niệm niệm vái van tịnh bình. Quán Âm thọ ký làm tin, Tùy duyên thuyết pháp độ mình hết mê. Nương theo Bồ-tát trở về,   
-TIÊU TAI CÁT TƯỜNG THẦN CHÚ   
-Nẵng mồ tam mãn đa, mẫu đà nẫm. A bát ra để, hạ đa xá ta nẵng nẩm. Đát điệt tha. Án, khê khê, khê hế, khê hế hồng hồng, nhập phạ ra, nhập phạ ra, bát ra nhập phạ ra, bát ra nhập phạ ra, để sắc sá, để sắc sá, sắc trí rị, sắc trí rị, ta phấn tra, ta phấn tra, phiến để ca thất rị duệ, ta phạ ha. ( 3 lần)  
-NGUYỆN AN LÀNH   
-Sách Bồ Tát Sách tụng kinh Nguyện ngày an lành, đêm an lành, Đêm ngày sáu thời thường an lành, Tất cả các thời đều an lành, Xin nguyện Từ Bi thường gia hộ. (3 lần) Nam-mô Tiêu Tai Giáng Cát Tường Bồ-tát. ( 3 lần)   
-HỒI HƯỚNG   
-Cầu an công đức vô biên Xin đem hồi hướng mọi miền gần xa Chúng sanh pháp giới bao la Đều về Cực Lạc Di Đà Tây Thiên. (C) Nguyện tiêu ba chướng não phiền Nguyện mở trí tuệ vô biên sáng ngời, Nguyện trừ tội chướng bao đời Hành theo Bồ-tát đời đời vị tha. (C) Nguyện sanh Tịnh Độ Di Đà Hoa sen chín phẩm là cha mẹ mình  
-PHỤC NGUYỆN   
-Nam-mô Thập phương thường trụ Tam bảo chứng minh, Nam-mô Bổn sư Thích Ca Mâu Ni Phật, Nam-mô Dược Sư Lưu Ly Quang Vương Phật, Nam-mô Đại Từ Đại Bi Tầm Thinh Cứu Khổ Cứu Nạn Quán Thế Âm Bồ-tát chứng minh, hôm nay, đệ tử chúng con một dạ chí thành trì tụng kinh chú, xưng tán hồng danh, cầu nguyện cho Phật tử (họ tên... pháp danh... địa chỉ...), hiện đời phiền não dứt sạch, nghiệp chướng tiêu tan, tật bệnh tiêu trừ, thân tâm thường lạc, gia đình hưng thịnh, quyến thuộc an hòa, pháp giới chúng sanh, trọn thành Phật đạo.  
-TAM TỰ QUY   
-Tự quy y Phật, xin nguyện chúng sanh, thể theo đạo cả, phát tâm vô thượng. (1 lạy) Tự quy y Pháp, xin nguyện chúng sanh, thấu rõ kinh tạng, trí tuệ như biển. (1 lạy) Tự quy y Tăng, xin nguyện chúng sanh, thống lý đại chúng, hết thảy vô ngại. (1 lạy).  Cách tụng niệm và ý nghĩa của Kinh Phổ Môn  
+Trí tuệ bừng lên đóa biện tài,\
+Đứng yên trên sóng sạch trần ai,\
+Cam lộ chữa lành cơn khổ bệnh,\
+Hào quang quét sạch buổi nguy tai.\
+Liễu biếc phất bày muôn thế giới,\
+Sen hồng nở hé vạn lâu đài,\
+Cúi đầu ca ngợi dâng hương thỉnh,\
+Xin nguyện từ bi ứng hiện ngay.\
+Nam Mô Đại Bi Quán Thế Âm Bồ Tát.
+
+# KỆ KHAI KINH 12:02
+
+Phật pháp cao siêu rất nhiệm màu\
+Cơ duyên may được thọ trì\
+Xin nguyện đi vào biển tuệ\
+Tinh thông giáo nghĩa huyền vi.\
+Nam mô Pháp Hoa Hội Thượng Phật Bồ Tát ( 3 lần)
+
+# KINH PHỔ MÔN 12:53
+
+Kinh Diệu Pháp Liên Hoa Phẩm Quán Thế Ân Bồ Tát Phổ Môn\
+Lúc bấy giờ, Ngài Vô Tận Ý Bồ-tát liền từ chỗ ngồi đứng dậy, trịch áo, bày vai hữu, chắp tay hướng Phật mà bạch rằng: “Thế Tôn! Ngài Quán Thế Âm Bồ- tát do nhơn duyên gì mà tên là Quán Thế Âm?”.\
+Phật bảo Ngài Vô Tận Ý Bồ-tát: “Thiện nam tử! Nếu có vô lượng trăm nghìn muôn ức chúng sanh chịu các khổ não,\
+nghe Quán Thế Âm Bồ-tát này, một lòng xưng danh. Quán Thế Âm Bồ-tát tức thời xem xét tiếng tăm kia, đều được giải thoát”. Nếu có người trì danh hiệu Quán Thế Âm Bồ-tát này, dầu vào trong lửa lớn, lửa chẳng cháy được, vì do sức uy thần của Bồ-tát này vậy.\
+Nếu bị nước lớn làm trôi, xưng danh hiệu Bồ-tát này liền được chỗ cạn.\
+Nếu có trăm nghìn muôn ức chúng sanh vì tìm vàng, bạc, lưu ly, xa cừ, mã não, san hô, hổ phách, trân châu, các thứ báu, vào trong biển lớn,\
+giả sử gió lớn thổi ghe thuyền của kia trôi tấp nơi nước Quỷ La-sát, trong ấy nếu có nhân đến một người xưng danh hiệu Quan Thế Âm Bồ-tát, thì các người đó đều dạng thoát khỏi nạn quỷ la-sát. Do nhơn duyên đó mà tên là\
+Quán Thế Âm.\
+Nếu lại có người sắp sẽ bị hại, xưng danh hiệu\
+Quán Thế Âm Bồ-tát, thì dao gậy của người cầm liền gãy từng khúc người ấy được thoát khỏi.\
+Nếu quỷ dạ-xoa cùng la-sát đầy trong cõi tam thiên đại thiên muốn đến hại người, nghe người xưng hiệu Quán Thế Âm Bồ-tát, thời các quỷ dữ đó còn không thể\
+dùng mắt dữ mà nhìn người, huống lại làm hại được. Dầu lại có người hoặc có tội, hoặc không tội, gông cùm, xiềng xích\
+trói buộc nơi thân, xưng danh hiệu Quán Thế Âm Bồtát, thảy đều đứt rã, liền được thoát khỏi.\
+Nếu kẻ oán tặc đầy trong cõi tam thiên đại thiên,\
+có một vị thương chủ dắt các người buôn đem theo nhiêu của báu, trải qua nơi đường hiểm trở , trong đó có một người xướng rằng: “Các thiện nam tử! Chớ nên sợ sệt, các ông nên phải một lòng xưng danh hiệu Quán Thế Âm Bồ-tát, vị Bồ-tát đó hay đem pháp vô úy thí cho chúng sanh, các ông nếu xưng danh hiệu, thời sẽ được thoát khỏi oán tặc này”.\
+Các người buôn nghe rồi, đều lên tiếng xưng rằng: “Nam-mô Quán Thế Âm Bồ-tát”. Vì xưng danh hiệu Bồ-tát nên liền được thoát khỏi.\
+Vô Tận Ý! Quán Thế Âm Đại Bồ-tát sức oai thần cao lớn như thế.\
+Nếu có chúng sanh nào nhiều lòng dâm dục, thường cung kính niệm Quán Thế Âm Bồ-tát, liền được ly dục.\
+Nếu người nhiều giận hờn, thường cung kính niệm Quán Thế Âm Bô-tát, liền được lìa lòng giận.\
+Nếu người nhiều ngu si,\
+thường cung kính niệm Quán Thế Âm Bồ-tát, liền được lìa ngu si. Vô Tận Ý! Quán Thế Âm Bồ-tát có những sức oai thần lớn, nhiều lợi ích như thế, cho nên chúng sanh thường phải một lòng tưởng nhớ” danh hiệu, thời sẽ được thoát khỏi oán tặc này”.\
+Nếu có người nữ, giả sử muốn cầu con trai, lễ lạy cúng dường Quán Thế Âm Bồ-tát, liền sanh con trai phước đức, trí huệ;\
+giả sử muốn cầu con gái, bèn sanh con gái có tướng xinh đẹp, trước đã trồng cội phước đức, mọi người đều kính mến.\
+Vô Tận Ý! Quán Thế Âm Bồ-tát có sức thần như thế.\
+Nếu có chúng sanh cung kính lễ lạy Quán Thế Âm Bồ-tát, thì phước đức chẳng luống mất.\
+Cho nên chúng sanh đều phải thọ trì danh hiệu Quán Thế Âm Bồ-tát.\
+Vô Tận Ý! Nếu có người thọ trì\
+danh tự của sáu mươi hai ức hằng hà sa Bồ- tát, lại trọn đời cúng dường đồ ăn uống, y phục, giường nằm, thuốc thang. Ý ông nghĩ sao?\
+Công đức của người thiện nam tử, thiện nữ nhơn đó có nhiều chăng? Vô Tận Ý thưa: “Bạch Thế Tôn!\
+Rất nhiều”. Phật nói: “Nếu lại có người thọ trì danh hiệu Quán Thế Âm Bồ-tát, nhẫn đến một thời lễ lạy cúng dường,\
+thì phước của hai người đó bằng nhau không khác, trong trăm nghìn muôn ức kiếp không thể cùng tận. Vô Tận Ý! Thọ trì danh hiệu Quán Âm Bồ-tát\
+được vô lượng vô biên phước đức lợi ích như thế”. Ngài Vô Tận Ý Bồ-tát bạch Phật rằng:\
+“Thế Tôn! Quán Thế Âm Bồ-tát dạo đi trong cõi Ta-bà như thế nào? Nói pháp cho chúng sanh như thế nào? Sức phương tiện việc đó thế nào?”. Phật bảo Vô Tận Ý Bồ-tát: Thiện nam tử!\
+Nếu có chúng sanh trong quốc độ nào đáng dùng thân Phật dạng độ thoát, thời Quán Thế Âm Bồ-tát liền hiện thân Phật mà vì đó nói pháp. Người đáng dùng thân Duyên giác mà được độ thoát liền hiện thân Duyên giác mà vì đó nói pháp.\
+Người đáng dùng thân Thanh văn được độ thoát, liền hiện thàn Thanh văn mà vì đó nói pháp. Người đáng dùng thân Phạm vương được độ thoát,\
+liền hiện thân Phạm vương mà vì đó nói pháp.\
+Người đáng dùng thân Đế Thích được độ thoát, liền hiện thân Đế Thích mà vì đó nói pháp. Người đáng dùng thân Tự Tại Thiên được độ thoát, liền hiện thân Tự Tại Thiên mà vì đó nói pháp.\
+Người đáng dùng thân Đại Tự Tại Thiên được độ thoát, liền hiện thân Đại Tự Tại Thiên mà vì đó nói pháp. Người đáng dùng thân Thiên Đại Tướng quân được độ thoát, liền hiện thân Thiên Đại Tướng quân mà vì đó nói pháp.\
+Người đáng dùng thân Tỳ-sa-môn được độ thoát, liền hiện thân Tỳ-sa-môn mà vì đó nói pháp.\
+Người đáng dùng thân tiểu vương được độ thoát, liền hiện thân tiểu vương mà vì đó nói pháp. Sách Bồ Tát Sách Phật giáo Tượng Quán Thế Âm Người đáng dùng thân trưởng giả được độ thoát, liền hiện thân trưởng giả mà vì đó nói pháp.\
+Người đáng dùng thân cư sĩ được độ thoát, liền hiện thân cư sĩ mà vì đó nói pháp. Người đáng dùng thân tể quan được độ thoát,\
+liền hiện thân tể quan mà vì đó nói pháp. Người đáng dùng thân bà-la-môn được độ thoát, liền hiện thân bà-la-môn\
+mà vì đó nói pháp. Người đáng dùng thân Tỳ-kheo, Tỳ-kheo-ni, ưu-bà-tắc, ưu-bà-di được độ thoát, liền hiện thân Tỳ-kheo,\
+Tỳ-kheo- ni, ưu-bàtắc, ưu-bà-di mà vì đó nói pháp. Người đáng dùng thân phụ nữ của trưởng giả, cư sĩ, tể quan, bà-la-môn được độ thoát, liền hiện thân phụ nữ mà vì đó nói pháp. Người đáng dùng thân đồng nam, đồng nữ được độ thoát, liền hiện thân đồng nam, đồng nữ mà vì đó nói pháp.\
+Người đáng dùng thân trời, rồng, dạ-xoa, càn-thát-bà, a-tu-la, ca-lầu-la, khẩn-na-la, ma-hầu-la-già,\
+nhơn cùng phi nhơn được độ thoát, liền đều hiện ra mà vì đó nói pháp. Người đáng dùng thân Chấp Kim Cang thần được độ thoát, liền hiện thân Chấp Kim Cang thần\
+mà vì đó nói pháp. Vô Tận Ý! Quán Thế Âm Bồ-tát đó thành tựu công đức như thế, dùng các thân hình, dạo đi trong các cõi nước\
+để độ thoát chúng sanh, cho nên các ông phải một lòng cúng dường Quán Thế Âm Bồ-tát. Quán Thế Âm Đại Bồ-tát đó ở trong chỗ nạn gấp sợ sệt\
+hay ban sự vô úy, cho nên cõi Ta-bà này đều gọi Ngài là vị “Thí Vô Úy”. Vô Tận Ý Bồ-tát bạch Phật:\
+“Thế Tôn! Con nay phải cúng dường Quán Thế Âm Bồ-tát”. Liền mở chuỗi ngọc bằng các châu báu nơi cổ, giá trị trăm nghìn lượng vàng, đem trao cho Ngài Quán Thế Âm mà nói rằng: “Xin Ngài nhận chuỗi trân bảo pháp thí này”. Khi ấy Quán Thế Âm Bồ-tát chẳng chịu nhận chuỗi.\
+Ngài Vô Tận Ý lại thưa cùng Quán Thế Âm Bồ-tát rằng: “Xin Ngài vì thương chúng tôi mà nhận chuỗi ngọc này”. Bấy giờ Phật bảo Quán Thế Âm Bồ- tát:\
+“Ông nên thương Vô Tận Ý Bồ-tát này và hàng tứ chúng, cùng trời, rồng, dạ-xoa, càn-thát-bà, a-tu-la, ca-lầu-la, khẩn-na- la, ma-hầu-la-già, nhơn và phi nhơn v.v... mà nhận chuỗi ngọc đó”. Tức thời Quán Thế Âm Bồ-tát thương hàng tứ chúng và trời, rồng, nhơn, và phi nhơn v.v... mà nhận chuỗi ngọc đó chia làm hai phần: Một phần dâng Đức Thích Ca\
+Mâu Ni Phật, một phần dâng tháp của phật Đa Bảo. Vô Tận Ý! Quán Thế Âm Bồ-tát có sức thần tự tại như thế,\
+dạo đi nơi cõi Ta-bà. Lúc đó, Ngài Vô Tận Ý Bồ-tát nói kệ hỏi Phật rằng:\
+Thế Tôn đủ tướng tốt, Con nay lại hỏi kia Phật tử nhơn duyên gì Tên là Quán Thế Âm? Đấng đầy đủ tướng tốt\
+  Kệ đáp Vô Tận Ý:\
+Ông nghe hạnh Quán Âm Khéo ứng các nơi chỗ Thệ rộng sâu như biển Nhiều kiếp chẳng nghĩ bàn Hầu nhiều nghìn Đức Phật Phát\
+Phát nguyện thanh tịnh lớn. Ta vì ông lược nói Sách Bồ Tát Sách Phật giáo Ta vì ông lược nói Nghe tên cùng thấy thân Tâm niệm chẳng luống qua Hay diệt khổ các cõi.\
+Giả sử sanh lòng hại Xô rớt hầm lửa lớn Do sức niệm Quán Âm Hầm lửa biến thành ao. Hoặc trôi dạt biển lớn Các nạn quỷ, cá, rồng\
+Do sức niệm Quán Âm Sóng mòi chẳng chìm được. Hoặc ở chót Tu-di Bị người xô rớt xuống Do sức niệm Quán Âm Như mặt nhựt treo không Hoặc bị người dữ rượt Rớt xuống núi kim cang Do sức niệm Quán Âm Chẳng tổn đến mảy lông. Hoặc gặp oán tặc vây Đều cầm dao làm hại Do sức niệm Quán Âm\
+Đều liền sanh lòng lành. Hoặc bị khổ nạn vua Khi hành hình sắp chết Do sức niệm Quán Âm Dao liền gãy từng đoạn. Hoặc tù cấm, xiềng xích\
+Tay chân bị gông cùm Do sức niệm Quán Âm Tháo rã, được giải thoát Nguyền rủa, các thuốc độc Muốn hại đến thân đó Do sức niệm Quán Âm Tượng Quán Thế Âm\
+Trở hại nơi bổn nhơn. Hoặc gặp la-sát dữ Rồng độc, các loài quỷ Do sức niệm Quán Âm liền đều không dám hại. Hoặc thú dữ vây quanh Nanh vuốt nhọn đáng sợ Do sức niệm Quán Âm Vội vàng bỏ chạy thẳng. Rắn độc cùng bò cạp Hơi độc, khói lửa đốt\
+Do sức niệm Quán Âm Theo tiếng tự bỏ đi. Mây sấm nổ, sét đánh Tuôn giá, xối mưa lớn Do sức niệm Quán Âm Liền được tiêu tan cả.\
+Chúng sanh bị khổ ách Vô lượng khổ bức thân Quán Âm sức trí diệu Hay cứu khổ thế gian Đầy đủ sức thần thông Rộng tu trí phương tiện\
+Các cõi nước mười phương Không cõi nào chẳng hiện. Các loài trong đường dữ: Địa ngục, quỷ, súc sanh Sanh, già, bịnh, chết, khổ Lần đều khiến dứt hết.\
+Chơn quán thanh tịnh quán Trí huệ quán rộng lớn Bi quán và từ quán, Thường nguyện, thường chiêm ngưỡng Sáng thanh tịnh không nhơ\
+Tuệ nhựt phá các tối Hay tiêu tai khói lửa Khắp soi sáng thế gian. Lòng Bi răn như sấm Ý Từ diệu dường mây\
+Xối mưa pháp cam lồ Dứt trừ lửa phiền não Cãi kiện qua chỗ quan Trong quân trận sợ sệt Do sức niệm Quán Âm Cừu\
+Cựu oán đều lui tán. Diệu Âm, Quán Thế Âm Phạm âm, hải triều âm Tiếng hơn thế gian kia, Cho nên thường phải niệm.\
+Niệm niệm chớ sanh nghi Quán Âm bậc Tịnh Thánh Nơi khổ não nạn chết Hay vì làm nương cậy. Đủ tất cả công đức\
+Mắt lành trông chúng sanh Biển phước lớn không lường Cho nên phải đảnh lễ. Bấy giờ Ngài Trì Địa Bồ-tát liền từ chỗ ngồi đứng dậy đến trước bạch Phật rằng: “Thế Tôn! Nếu có chúng sanh nào nghe phẩm “Quán Thế Âm Bồ-tát Đạo Nghiệp Tự Tại,\
+Phổ Môn Thị Hiện sức Thần Thông” này, thì phải biết công đức người đó chẳng ít”. Lúc Phật nói phẩm “Phổ Môn” này,\
+trong chúng có tám muôn bốn nghìn chúng sanh đều phát tâm Vô thượng đẳng đẳng, Vô thượng Chánh đẳng Chánh giác.\
+NAM MÔ ĐẠI BI QUÁN THẾ ÂM BỒ TÁT (ba lần).
+
+# BỔ XUNG
+
+(35:50)\
+1. Nam mô hiệu Viên Thông, danh Tự Tại,\
+Quán Âm Như Lai quảng phát hoằng thệ nguyện.\
+2. Nam mô nhứt niệm tâm vô quái ngại,\
+Quán Âm Như Lai thường cư Nam Hải nguyện.\
+3. Nam mô trụ Ta Bà, U Minh giới,\
+Quán Âm Như Lai tầm thinh cứu khổ nguyện.\
+4. Nam mô hàng tà ma trừ yêu quái,\
+Quán Âm Như Lai năng trừ nguy hiểm nguyện.\
+5. Nam mô thanh tịnh bình, thùy dương liễu\
+Quán Âm Như Lai cam lồ sái tâm nguyện.\
+6. Nam mô đại từ bi, năng hỷ xả,\
+Quán Âm Như Lai thường hành bình đẳng nguyện.\
+7. Nam mô trú dạ tuần vô tổn hoại,\
+Quán Âm Như Lai thệ diệt tam đồ nguyện.\
+8. Nam mô vọng Nam nham, cầu lễ bái,\
+Quán Âm Như Lai già tỏa giải thoát nguyện.\
+9. Nam mô tạo Pháp thuyền, du khổ hải\
+Quán Âm Như Lai độ tận chúng sanh nguyện.\
+10. Nam mô tiền tràng phan, hậu bảo cái\
+Quán Âm Như Lai tiếp dẫn Tây Phương nguyện.\
+11. Nam mô Vô Lượng Thọ Phật cảnh giới\
+Quán Âm Như Lai Di Ðà thọ ký nguyện.\
+12. Nam mô đoan nghiêm thân, vô tỷ trại\
+Quán Âm Như Lai quả tu thập nhị nguyện.\
+Đầu cành dương liễu vương cam lộ\
+Một giọt mười phương rưới cũng đầy\
+Bao nhiêu trần lụy tiêu tan hết\
+Đàn tràng thanh tịnh ở ngay đây.\
+Nam mô Bồ Tát Thanh Lương Địa\
+Trí tuệ bừng lên đóa biện tài\
+Đứng yên trên sóng sạch trần ai\
+Cam lộ chữa lành cơn khổ bệnh\
+Hào quang quét sạch buổi nguy tai\
+Liễu biếc phất bày muôn thế giới\
+Sen hồng nở hé vạn lâu đài\
+Cúi đầu ca ngợi dâng hương thỉnh\
+Xin nguyện từ bi ứng hiện ngay.\
+Nam mô Bồ Tát Quan Thế Âm
+
+# CHƠN NGÔN VIẾT:
+
+Án, đa rị đa rị, đốt đa rị, đốt đốt đa rị sa ba hà. ( 3 lần)
+
+# LỤC TỰ ĐẠI MINH CHƠN NGÔN
+Án ma ni bát di hồng. (108 lần) (C)
+
+# HỒI HƯỚNG
+
+# XƯNG TÁN ĐỨC QUÁN THẾ ÂM
+
+Phổ môn thị hiện Cứu khổ nhân sinh Sách Bồ Tát Thuyền từ lướt sóng Bốn biển điêu linh Trùng dương vọng tiếng hồn kinh Quán Ám ứng hiện chúng sinh thoát nàn. Nam-mô Thánh Quan Tự Tại Bồ- tát Ma-ha-tát. (3 lần).
+
+\# MƯỜI HAI LỜI NGUYỆN CỦA BỒ TÁT QUÁN ÂM\
+Chí tâm đảnh lễ: Khi hành Bồ- tát, danh hiệu tôi Tự Tại Quán Âm, viên thông thanh tịnh căn trân, nơi nào đau khổ tầm thanh cứu liền. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Không nài gian khổ, quyết một lòng cứu độ chúng sanh, luôn luôn thị hiện biển Đông, vớt người chìm đắm khi dông gió nhiều. Nam-mô Quán Thế Ấm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Ta-bà ứng hiện, chốn u minh nhiều chuyện khổ đau, oan gia tương báo hại nhau, nghe tiếng than thở mau mau cứu liền. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Thanh trừ yêu ái, bao nhiêu loài ma quỷ gớm ghê, độ cho chúng hết u mê, dứt trừ nguy hiểm không hề nhiễu nhương. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Tay cầm dương liễu nước cam lồ rưới mát nhân thiên, chúng sanh điên đảo đảo điên, an vui mát mẻ ưu phiền tiêu tan. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Thường hành bình đẳng, lòng từ bi thương xót chúng sanh, hỷ xả tất cả lỗi lầm, không còn phân biệt sơ, thân, mọi loài. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Dứt ba đường dữ, chốn ngục hình ngạ quỷ ? súc sanh , cọp beo, thú dữ vây quanh, Quán Âm thị hiện chúng sanh thoát nàn. Nam-mô Quán Thế Âm Bồ-tát (Lạy 1 lạy) - Chí tâm đảnh lễ: Tội nhân bị trói, bị hành hình rồi lại khảo tra, thành tâm lễ bái thiết tha, Quán Âm phù hộ thoát ra nhẹ nhàng. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Làm thuyền cứu vớt, giúp cho người vượt khúc lênh đênh, bốn bề biển khổ chông chênh, Quán Âm độ hết an nhiên Niết-bàn. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Tây phương tiếp dẫn, vòng hoa thơm, kỹ nhạc, lọng tàn, tràng phang, bảo cái trang hoàng, Quán Âm cứu độ đưa đường về Tây. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Di Đà thọ ký, cảnh phương tuổi thọ khôn lường, chúng sanh muốn sống miên trường, Quán Âm nhớ niệm Tây phương mau về. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) - Chí tâm đảnh lễ: Tu hành tinh tấn, dù thân này tan nát cũng đành, thành tâm nỗ lực thực hành, mười hai câu nguyện độ h đờ đờ Sách Phật giáo Tượng Quán Thế Âm ồ sanh đời đời. Nam-mô Quán Thế Âm Bồ-tát. (Lạy 1 lạy) .
+
+# BÁT NHÃ TÂM KINHMA HA BÁT NHÃ BA LA MẬT ĐA TÂM KINH
+
+Quán Tự Tại Bồ-tát hành thâm Bát- nhã Ba-la-mật-đa thời chiếu kiến ngũ uẩn giai không, độ nhất thiết khổ ách. Xá Lợi Tử! Sắc bất dị không, không bất dị sắc; sắc tức thị không, không tức thị sắc; thọ, tưởng, hành, thức diệc phục như thị. Xá Lợi Tử! Thị chư pháp không tướng, bất sanh bất diệt, bất cấu bất tịnh, bất tăng bất giảm. Thị cố không trung, vô sắc, vô thọ, tưởng, hành, thức; vô nhãn, nhĩ, tỉ, thiệt, thân, ý; vô sắc, thanh, hương, vị, xúc, pháp; vô nhãn giới, nãi chí vô ý thức giới, vô vô minh, diệc vô vô minh tận, nãi chí vô lão tử, diệc vô lão tử tận; vô Khổ, Tập, Diệt, Đạo; vô trí diệc vô đắc. Dĩ vô sở đắc cố, Bồ-đề tát đỏa y Bát-nhã Ba La Mật Đa cố tâm vô quái ngại, vô quái ngại cố, vô hữu khủng bố viễn ly điên đảo mộng tưởng, cứu cánh Niết-bàn. Tam thế chư Phật, y Bát-nhã Ba La mật đa cố đắc A Nậu Đa La tam miệu tam bồ đề. Cố tri Bát nhã Ba-la-mật-đa, thại Đại thần chú, thị Đại minh chú, thị Vô thượng chú, thị Vô đẳng đẳng chú, năng trừ nhứt thiết khổ, chơn thiệt bất hư. Cố thuyết Bát-nhã Ba-la-mật-đa chú tức thuyết chú viết: " Yết đế, yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha ( 3 lần)"\
+# VÃNG SANH TỊNH ĐỘ THẦN CHÚ\
+Nam mô a di đa bà dạ, đa tha dà đa dạ, đa diệt dạ tha. A di rị đô bà tỳ, a di rị đa tất đam bà tỳ, A di rị đa, tỳ ca lan đế. A di rị đa tỳ ca lan đa, dà di nị dà dà na. Chỉ đa ca lệ ta bà ha. (3 lần)\
+# XƯNG TÁN PHẬT A DI ĐÀ\
+Phật A Di Đà thân kim sắc, Tướng tốt chói sáng tự trang nghiêm Năm Tu-di uyển chuyển bạch hào Bốn biển lớn trong ngần mắt biếc Trong hào quang hóa vô số Phật Vô số Bồ-tát hiện ở trong Bốn mươi tám nguyện độ chúng sanh Chín phẩm sen vàng lên giải thoát Quy mạng lễ A Di Đà Phật Ở phương Tây thế giới an lành Con nay xin phát nguyện vãng sanh Cúi xin Đức Từ Bi tiếp độ. Nam mô Tây phương Cực Lạc thế giới Đại Từ Đại Bi A Di Đà Phật (c) Nam mô A Di Đà Phật ( 108 lần) Nam mô Quan Thế Âm Bồ-tát (108 lần) Nam mô Đại Thế Chí Bồ-tát ( 3 lần) Mam mô Địa Tạng Vương Bồ-tát ( 3 lần) Nam mô Thanh Tịnh Đại Hải Chúng Bồ tát ( 3 lần) Sách Bồ Tát Sách Phật giáo Tượng Quán Thế Âm 6. SÁM CẦU AN Con quỳ lạy Phật chứng minh, Hai hàng Phật tử tụng kinh cầu nguyền, Cầu cho tín chủ hiện tiền, Nội gia quyến thuộc bình yên điều hòa, Thọ trường hưởng phước nhàn ca, Phổ Môn kinh tụng trong nhà thảnh thơi. Quán Âm phò hộ vui chơi, Mười hai câu nguyện độ đời nên danh, Thiện nam tín nữ lòng thành, Ăn chay niệm Phật làm lành vái van. Quán Âm xem xét thế gian, Rước người chìm nổi, Mười phương phiêu trầm, Mau mau niệm Phật Quán Âm, Tai qua nạn khỏi định tâm sáng lòa, Đương cơn lửa cháy đốt ta, Niệm danh Bồ-tát hóa ra sen vàng. Gió giông đi biển chìm thuyền, Niệm danh Bồ-tát sóng tan hết liền. Tà ma quỷ báo khùng điên, Niệm danh Bồ-tát mạnh liền khôn ngoan. Vào rừng cọp rắn nghinh ngang, Niệm danh Bồ-tát nó càng chạy xa. Tội tù ngục tối khảo tra, Quán Âm tưởng niệm thả ra nhẹ nhàng. Bị trù, bị ếm mê man, Quán Âm niệm niệm vái van tịnh bình. Quán Âm thọ ký làm tin, Tùy duyên thuyết pháp độ mình hết mê. Nương theo Bồ-tát trở về,\
+TIÊU TAI CÁT TƯỜNG THẦN CHÚ\
+Nẵng mồ tam mãn đa, mẫu đà nẫm. A bát ra để, hạ đa xá ta nẵng nẩm. Đát điệt tha. Án, khê khê, khê hế, khê hế hồng hồng, nhập phạ ra, nhập phạ ra, bát ra nhập phạ ra, bát ra nhập phạ ra, để sắc sá, để sắc sá, sắc trí rị, sắc trí rị, ta phấn tra, ta phấn tra, phiến để ca thất rị duệ, ta phạ ha. ( 3 lần)\
+NGUYỆN AN LÀNH\
+Sách Bồ Tát Sách tụng kinh Nguyện ngày an lành, đêm an lành, Đêm ngày sáu thời thường an lành, Tất cả các thời đều an lành, Xin nguyện Từ Bi thường gia hộ. (3 lần) Nam-mô Tiêu Tai Giáng Cát Tường Bồ-tát. ( 3 lần)\
+HỒI HƯỚNG\
+Cầu an công đức vô biên Xin đem hồi hướng mọi miền gần xa Chúng sanh pháp giới bao la Đều về Cực Lạc Di Đà Tây Thiên. (C) Nguyện tiêu ba chướng não phiền Nguyện mở trí tuệ vô biên sáng ngời, Nguyện trừ tội chướng bao đời Hành theo Bồ-tát đời đời vị tha. (C) Nguyện sanh Tịnh Độ Di Đà Hoa sen chín phẩm là cha mẹ mình\
+PHỤC NGUYỆN\
+Nam-mô Thập phương thường trụ Tam bảo chứng minh, Nam-mô Bổn sư Thích Ca Mâu Ni Phật, Nam-mô Dược Sư Lưu Ly Quang Vương Phật, Nam-mô Đại Từ Đại Bi Tầm Thinh Cứu Khổ Cứu Nạn Quán Thế Âm Bồ-tát chứng minh, hôm nay, đệ tử chúng con một dạ chí thành trì tụng kinh chú, xưng tán hồng danh, cầu nguyện cho Phật tử (họ tên... pháp danh... địa chỉ...), hiện đời phiền não dứt sạch, nghiệp chướng tiêu tan, tật bệnh tiêu trừ, thân tâm thường lạc, gia đình hưng thịnh, quyến thuộc an hòa, pháp giới chúng sanh, trọn thành Phật đạo.\
+TAM TỰ QUY\
+Tự quy y Phật, xin nguyện chúng sanh, thể theo đạo cả, phát tâm vô thượng. (1 lạy) Tự quy y Pháp, xin nguyện chúng sanh, thấu rõ kinh tạng, trí tuệ như biển. (1 lạy) Tự quy y Tăng, xin nguyện chúng sanh, thống lý đại chúng, hết thảy vô ngại. (1 lạy). Cách tụng niệm và ý nghĩa của Kinh Phổ Môn
