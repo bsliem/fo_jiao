@@ -10,7 +10,7 @@ execute:
   error: true  
 ---
 
-# DÂNG HƯƠNG
+# DÂNG HƯƠNG 00:00 (Pháp Hoà)
 
 Nguyện đem lòng thành kính\
 Gởi theo đám mây hương\
@@ -40,14 +40,14 @@ Nam mô Hương cúng Dường Bồ Tát\
 Nam mô Chứng minh Sư Bồ Tát\
 Nam mô Thập phương thường trụ Tam Bảo Tát Đại Chứng Minh
 
-# XƯNG TÁN ĐỨC PHẬT
+# XƯNG TÁN ĐỨC PHẬT 02:55
 
 Đấng pháp vương vô thượng, ba cõi chẳng ai bằng.\
 Thầy dạy khắp trời người, cha lành chung bốn loại.\
 Quy y trọn một niệm, dứt sạch nghiệp ba kỳ.\
 Xưng dương cùng tán thán, ức kiếp không cùng tận.
 
-# QUÁN TƯỞNG
+# QUÁN TƯỞNG 03:38
 
 Phật, chúng sanh tánh thường rỗng lặng\
 Đạo cảm thông không thể nghĩ bàn\
@@ -57,7 +57,7 @@ Trước bảo tọa thân con ảnh hiện\
 Cúi đầu xin thệ nguyện quy y\
 (1 tiếng chuông, 1 xá)
 
-# ĐẢNH LỄ TAM BẢO
+# ĐẢNH LỄ TAM BẢO 04:15
 
 Chí tâm đảnh lễ: Tận hư không biến pháp giới quá, hiện, vị lai Thập phương chư Phật, Tôn Pháp, Hiền Thánh Tăng thường trụ Tam Bảo (1 lạy).\
 Chí tâm đảnh lễ: Ta-bà giáo chủ điều ngự Bổn sư Thích-ca Mâu-ni Phật, Đương lai hạ sinh Di-lặc tôn Phật, Đại trí Văn-thù Sư-lợi Bồ-tát, Đại hạnh Phổ Hiền Bồ-tát, Hộ pháp chư tôn Bồ-tát, Kỳ Viên hội thượng Phật Bồ-tát (1 lạy).\
@@ -67,7 +67,7 @@ Chí tâm đảnh lễ: Tây Phương Cực Lạc thế giới Giáo chủ Đạ
 Đại nguyện Địa Tạng Vương Bồ-tát,\
 Thanh tịnh Đại Hải Chúng Bồ-tát (1 lạy).
 
-# CHÚ ĐẠI BI
+# CHÚ ĐẠI BI 06:15
 
 Nam-Mô Đại Bi hội thượng Phật, Bồ tát (3 lần)\
 Thiên thủ thiên nhãn, vô ngại đại bi tâm, đà la ni.\
