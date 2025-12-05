@@ -1,3 +1,32 @@
+## MỤC LỤC
+
+- [P1 Phật hiện thần thông trên cung trời Đao Lợi](#p1-phật-hiện-thần-thông-trên-cung-trời-đao-lợi)
+  - [Phật hiện thần thông](#phật-hiện-thần-thông)
+  - [Trời, rồng… hội họp](#trời-rồng-hội-họp)
+  - [Đức Phật phát khởi](#đức-phật-phát-khởi)
+  - [Trưởng giả tử phát nguyện](#trưởng-giả-tử-phát-nguyện)
+  - [Bà la môn nữ cứu mẹ](#bà-la-môn-nữ-cứu-mẹ)
+
+- [P7 Lợi ích cả kẻ còn người mất](#p7-lợi-ích-cả-kẻ-còn-người-mất-3535)
+  - [Khuyên tu Thánh đạo](#khuyên-tu-thánh-đạo)
+  - [Trưởng Giả Bạch Hỏi](#trưởng-giả-bạch-hỏi-)
+  - [Kẻ còn người mất đều được lợi](#kẻ-còn-người-mất-đều-được-lợi)
+
+- [P8 Các vua Diêm La khen ngợi](#p8-các-vua-diêm-la-khen-ngợi--4934-v1)
+  - [Diêm La Vương cùng quỷ vương vân tập](#diêm-la-vương-cùng-quỷ-vương-vân-tập)
+  - [Vua Diêm La bạch Phật](#vua-diêm-la-bạch-phật)
+  - [Phật giảng sở nhân](#phật-giảng-sở-nhơn)
+  - [Quỷ Vương bày thiện nguyện](#quỷ-vương-bày-thiện-nguyện)
+  - [Chủ Mạng trình thưa](#chủ-mạng-trình-thưa)
+  - [Khi sinh nở nên làm lành kiêng ác](#khi-sinh-nở-nên-làm-lành-kiêng-ác)
+  - [Lúc chết nên tu phước](#lúc-chết-nên-tu-phước)
+  - [Đức Phật căn dặn](#đức-phật-căn-dặn)
+  - [Đức Phật thọ ký cho Quỷ Mạng](#đức-phật-thọ-ký-cho-quỷ-mạng)
+
+- [P9 Xưng danh hiệu chư Phật](#p9-xưng-danh-hiệu-chư-phật-11127-v1)
+
+- [P11 Địa Thần Hộ Pháp](#p11-địa-thần-hộ-pháp)
+
 # P1 Phật hiện thần thông trên cung trời Đao Lợi
 
 ## Phật hiện thần thông
