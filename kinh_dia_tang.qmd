@@ -221,14 +221,15 @@ Do vì Ngài Địa-Tạng Bồ Tát từ thuở kiếp lâu xa đến nay phát
 Nghe Đức Phật dạy xong, Ngài Phổ Quảng Bồ Tát tin chịu, chắp tay cung kính lễ Phật lui ra.
 
 
-# P7 Lợi ích cả kẻ còn người mất 35:35
+# P7 Lợi ích cả kẻ còn người mất 35:35 v1
 
 Kinh Địa Tạng Bồ Tát Bổn Nguyện Lợi Ích Cả Kẻ Còn Người Mất Phẩm Thứ Bảy\
-\## Khuyên Tu Thánh Đạo\
+#  Khuyên Tu Thánh Đạo\
 Lúc đó Ngài Địa-Tạng đại Bồ Tát bạch cùng đức Phật rằng:\
 'Bạch đức Thế-Tôn! Con xem xét chúng sanh trong cõi Diêm Phù sanh tâm động niệm không chi là chẳng phải tội.\
 Nếu gặp những việc về pháp sự lợi lành phần nhiều thối thất tâm tốt ban đầu.\
-Còn hoặc khi gặp duyên sự bạo ác chẳng lành lại lần lần thêm lớn: Những hạng người trên đó như kẻ mang đá nặng đi trong bùn lầy càng nặng thêm lần, càng khốn đốn thêm lần, chân đạp lún lút sâu.\
+Còn hoặc khi gặp duyên sự bạo ác chẳng lành lại lần lần thêm lớn: Những hạng người trên đó như kẻ mang đá nặng đi trong bùn lầy\ 
+càng nặng thêm lần, càng khốn đốn thêm lần, chân đạp lún lút sâu.\
 Những người đó hoặc gặp hàng thiện tri thức đội giùm đá bớt cho, hoặc là đội giùm hết cả,\
 vì hàng thiện tri thức đó có sức rất khỏe mạnh lại dìu đỡ người ấy khuyên gắng làm cho người ấy mạnh chân lên.\
 Nếu khi ra khỏi bùn lầy đến chỗ đất bằng phẳng rồi, thời cần phải xét nghĩ đến con đường hiểm xấu ấy,\

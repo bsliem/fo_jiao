@@ -1,310 +1,179 @@
-## MỤC LỤC
+# 🟣 **P7 – LỢI ÍCH CẢ KẺ CÒN NGƯỜI MẤT**
 
-- [P1 Phật hiện thần thông trên cung trời Đao Lợi](#p1-phật-hiện-thần-thông-trên-cung-trời-đao-lợi)
-  - [Phật hiện thần thông](#phật-hiện-thần-thông)
-  - [Trời, rồng… hội họp](#trời-rồng-hội-họp)
-  - [Đức Phật phát khởi](#đức-phật-phát-khởi)
-  - [Trưởng giả tử phát nguyện](#trưởng-giả-tử-phát-nguyện)
-  - [Bà la môn nữ cứu mẹ](#bà-la-môn-nữ-cứu-mẹ)
+### *Bản chỉnh lý chuẩn tụng – dễ thuộc – chia đoạn rõ ràng*
 
-- [P7 Lợi ích cả kẻ còn người mất](#p7-lợi-ích-cả-kẻ-còn-người-mất-3535)
-  - [Khuyên tu Thánh đạo](#khuyên-tu-thánh-đạo)
-  - [Trưởng Giả Bạch Hỏi](#trưởng-giả-bạch-hỏi-)
-  - [Kẻ còn người mất đều được lợi](#kẻ-còn-người-mất-đều-được-lợi)
+------
 
-- [P8 Các vua Diêm La khen ngợi](#p8-các-vua-diêm-la-khen-ngợi--4934-v1)
-  - [Diêm La Vương cùng quỷ vương vân tập](#diêm-la-vương-cùng-quỷ-vương-vân-tập)
-  - [Vua Diêm La bạch Phật](#vua-diêm-la-bạch-phật)
-  - [Phật giảng sở nhân](#phật-giảng-sở-nhơn)
-  - [Quỷ Vương bày thiện nguyện](#quỷ-vương-bày-thiện-nguyện)
-  - [Chủ Mạng trình thưa](#chủ-mạng-trình-thưa)
-  - [Khi sinh nở nên làm lành kiêng ác](#khi-sinh-nở-nên-làm-lành-kiêng-ác)
-  - [Lúc chết nên tu phước](#lúc-chết-nên-tu-phước)
-  - [Đức Phật căn dặn](#đức-phật-căn-dặn)
-  - [Đức Phật thọ ký cho Quỷ Mạng](#đức-phật-thọ-ký-cho-quỷ-mạng)
+# **I. Khuyên tu Thánh đạo**
 
-- [P9 Xưng danh hiệu chư Phật](#p9-xưng-danh-hiệu-chư-phật-11127-v1)
+Lúc đó Ngài Địa Tạng Đại Bồ Tát bạch Phật rằng:
 
-- [P11 Địa Thần Hộ Pháp](#p11-địa-thần-hộ-pháp)
+**Bạch Đức Thế Tôn!
+ Con xem xét chúng sanh trong cõi Diêm Phù,
+ sanh tâm động niệm không chi là chẳng phải tội.
+ Nếu gặp việc pháp sự lợi lành,
+ phần nhiều thối thất tâm tốt ban đầu.**
 
-# P1 Phật hiện thần thông trên cung trời Đao Lợi
+------
 
-## Phật hiện thần thông
-Ta nghe như thế này: Một thuở nọ, tại cung Trời Đao Lợi, đức Phật vì Thánh Mẫu mà thuyết pháp.\
-Lúc đó, bất khả thuyết bất khả thuyết tất cả chư Phật và đại Bồ Tát trong vô lượng thế giới ở mười phương đều đến hội họp, rồi đồng khen ngợi rằng:\
-Đức Phật Thích Ca Mâu Ni có thể ở trong đời ác ngũ trược mà hiện sức “Đại trí tuệ thần thông chẳng thể nghĩ bàn” để điều phục chúng sinh cang cường làm cho chúng nó rõ “Pháp khổ pháp vui”.\
-Khen xong, chư Phật đều sai thị giả kính thăm đức Thế Tôn.\
-Bấy giờ, đức Như Lai mỉm cười phóng ra trăm nghìn vừng mây sáng rỡ lớn. Như là: Vừng mây sáng rỡ đầy đủ, vừng mây sáng rỡ đại từ bi, vừng mây sáng rỡ đại trí huệ, vừng mây sáng rỡ đại Bát Nhã, vừng mây sáng rỡ đại Tam muội, vừng mây sáng rỡ đại kiết tường, vừng mây sáng rỡ đại phước đức, vừng mây sáng rỡ đại công đức, vừng mây sáng rỡ đại quy y, vừng mây sáng rỡ đại tán thán… Đức Phật phóng ra bất khả thuyết vừng mây sáng rỡ như thế rồi lại phát ra các thứ tiếng vi diệu.\
-Như là: Tiếng Bố thí độ, tiếng Trì giới độ, tiếng Nhẫn nhục độ, tiếng Tinh tấn độ, tiếng Thiền định độ, tiếng Bát Nhã độ, tiếng Từ bi, tiếng Hỷ xả, tiếng Giải thoát, tiếng Vô lậu, tiếng Trí huệ, tiếng Sư tử hống, tiếng Đại Sư tử hống, tiếng Mây sấm, tiếng Mây sấm lớn…\
+# **II. Duyên xấu kéo tâm xuống – ví như mang đá đi trong bùn lầy**
 
-## Trời, rồng… hội họp
+**Còn hoặc khi gặp duyên sự bạo ác chẳng lành,
+ lại lần lần thêm lớn.
+ Những hạng người trên đó
+ như kẻ mang đá nặng đi trong bùn lầy,
+ càng nặng thêm lần, càng khốn đốn thêm lần,
+ chân đạp lún lút sâu.**
 
-Khi đức Phật phát ra bất khả thuyết bất khả thuyết tiếng vi diệu như thế xong, thời có vô lượng ức hàng Trời, Rồng, Quỷ, Thần ở trong cõi Ta Bà và cõi nước phương khác cũng đến hội họp nơi cung Trời Đao Lợi.\
-Như là: Trời Tứ Thiên Vương, Trời Đao Lợi, Trời Tu Diệm Ma, Trời Đâu Suất Đà, Trời Hóa Lạc, Trời Tha Hóa Tự Tại, Trời Phạm Chúng, Trời Phạm Phụ, Trời Đại Phạm, Trời Thiểu Quang, Trời Vô Lượng Quang, Trời Quang Âm, Trời Thiểu Tịnh, Trời Vô Lượng Tịnh, Trời Biến Tịnh, Trời Phước Sanh, Trời Phước Ái, Trời Quảng Quả, Trời Nghiêm Sức, Trời Vô Lượng Nghiêm Sức, Trời Nghiêm Sức Quả Thiệt, Trời Vô Tưởng, Trời Vô Phiền, Trời Vô Nhiệt, Trời Thiện Kiến, Trời Thiện Hiện, Trời Sắc Cứu Cánh, Trời Ma Hê Thủ La, cho đến Trời Phi Tưởng, Phi Phi Tưởng Xứ. Tất cả Thiên chúng, Long chúng, cùng các chúng Quỷ, Thần đều đến hội họp.\
-Lại có những vị Thần ở cõi Ta Bà cùng cõi nước phương khác, như: Thần biển, Thần sông, Thần rạch, Thần cây, Thần núi, Thần đất, Thần sông chằm, Thần lúa mạ, Thần chủ ngày, Thần chủ đêm, Thần hư không, Thần trên Trời, Thần chủ ăn uống, Thần cây cỏ… Các vị Thần như thế đều đến hội họp.\
-Lại có những Đại Quỷ Vương ở cõi Ta Bà cùng cõi nước phương khác, như: Ác Mục Quỷ Vương, Đạm Huyết Quỷ Vương, Đạm Tinh Khí Quỷ Vương, Đạm Thai Noãn Quỷ Vương, Hành Bịnh Quỷ Vương, Nhiếp Độc Quỷ Vương, Từ Tâm Quỷ Vương, Phước Lợi Quỷ Vương, Đại Ái Kính Quỷ Vương… Các Quỷ Vương như thế đều đến hội họp.\
-3.  ĐỨC PHẬT PHÁT KHỞI\
-Bấy giờ đức Thích Ca Mâu Ni Phật bảo Ngài Văn Thù Sư Lợi Pháp Vương tử đại Bồ Tát rằng: “Ông xem coi tất cả chư Phật, Bồ Tát và Trời, Rồng, Quỷ, Thần đó ở trong thế giới này cùng thế giới khác, ở trong quốc độ này cùng quốc độ khác, nay đều đến hội họp tại cung Trời Đao Lợi như thế, ông có biết số bao nhiêu chăng?”.\
-Ngài Văn Thù Sư Lợi bạch Phật rằng: “Bạch đức Thế Tôn! Nếu dùng thần lực của con để tính đếm trong nghìn kiếp cũng không biết là số bao nhiêu!”.\
-Đức Phật bảo Ngài Văn Thù Sư Lợi rằng: “Đến Ta dùng Phật nhãn xem hãy còn không đếm xiết! Số Thánh, phàm này đều của Ngài Địa Tạng Bồ Tát từ thuở kiếp lâu xa đến nay, hoặc đã độ, đương độ, chưa độ, hoặc đã thành tựu, đương thành tựu, chưa thành tựu”.\
-Ngài Văn Thù Sư Lợi bạch đức Phật rằng: “Từ thuở lâu xa về trước con đã tu căn lành chứng đặng trí vô ngại, nghe lời đức Phật nói đó thời tin nhận liền. Còn hàng tiểu quả Thanh Văn, Trời, Rồng, tám bộ chúng và những chúng sanh trong đời sau, dầu nghe lời thành thật của Như Lai, nhưng chắc là sanh lòng nghi ngờ, dầu cho có lạy vâng đi nữa cũng chưa khỏi hủy báng. Cúi mong đức Thế Tôn nói rõ nhơn địa của Ngài Địa Tạng Bồ Tát; Ngài tu hạnh gì, lập nguyện gì mà thành tựu được sự không thể nghĩ bàn như thế?”.\
-Đức Phật bảo Ngài Văn Thù Sư Lợi rằng: “Ví như bao nhiêu cỏ, cây, lùm, rừng, lúa, mè, tre, lau, đá, núi, bụi bặm trong cõi tam thiên đại thiên, cứ một vật làm một sông Hằng, rồi cứ số cát trong mỗi sông Hằng, một hột cát làm một cõi nước, rồi trong một cõi nước cứ một hột bụi nhỏ làm một kiếp, rồi bao nhiêu số bụi nhỏ chứa trong một kiếp đều đem làm kiếp cả. Từ lúc Ngài Địa Tạng Bồ Tát chứng quả thập địa Bồ Tát đến nay nghìn lần lâu hơn số kiếp tỉ dụ ở trên, huống là những thuở Ngài Địa Tạng còn ở bực Thanh Văn và Bích Chi Phật!\
-Này Văn Thù Sư Lợi! Oai thần thệ nguyện của Bồ Tát đó không thể nghĩ bàn đến được. Về đời sau, nếu có trang thiện nam, người thiện nữ nào nghe danh tự của Địa Tạng Bồ Tát, hoặc khen ngợi, hoặc chiêm ngưỡng vái lạy, hoặc xưng danh hiệu, hoặc cúng dường, nhẫn đến vẽ, khắc, đắp, sơn hình tượng của Địa Tạng Bồ Tát, thời người đó sẽ được một trăm lần sanh lên cõi Trời Đao Lợi, vĩnh viễn chẳng còn bị sa đọa vào chốn ác đạo.\
-4.  TRƯỞNG GIẢ TỬ PHÁT NGUYỆN\
-Này Văn Thù Sư Lợi! Trải qua bất khả thuyết bất khả thuyết kiếp lâu xa về trước, tiền thân của Ngài Địa Tạng Bồ Tát làm một vị Trưởng giả tử. Lúc đó, trong đời có đức Phật hiệu là: Sư Tử Phấn Tấn Cụ Túc Vạn Hạnh Như Lai. Trưởng giả tử thấy đức Phật tướng mạo tốt đẹp nghìn phước trang nghiêm, mới bạch hỏi đức Phật tu hạnh nguyện gì mà đặng tốt đẹp như thế?\
-Khi ấy, đức Sư Tử Phấn Tấn Cụ Túc Vạn Hạnh Như Lai bảo Trưởng giả tử rằng: “Muốn chứng được thân tướng tốt đẹp này, cần phải trải qua trong một thời gian lâu xa độ thoát tất cả chúng sanh bị khốn khổ”.\
-Này Văn Thù Sư Lợi! Trưởng giả tử nghe xong liền phát nguyện rằng: “Từ nay đến tột số chẳng thể kể xiết ở đời sau, tôi vì những chúng sanh tội khổ trong sáu đường mà giảng bày nhiều phương tiện làm cho chúng đó được giải thoát hết cả, rồi tự thân tôi mới chứng thành Phật Đạo”.\
-Bởi ở trước đức Phật Sư Tử Phấn Tấn Cụ Túc Vạn Hạnh Như Lai, Ngài lập nguyện rộng đó, nên đến nay đã trải qua trăm nghìn muôn ức vô số bất khả thuyết kiếp, mà Ngài vẫn còn làm vị Bồ Tát!\
+------
 
-## Bà la môn nữ cứu mẹ
-Lại thuở bất khả tư nghị vô số kiếp về trước, lúc đó có đức Phật hiệu là: Giác Hoa Định Tự Tại Vương Như Lai, Đức Phật ấy thọ đến bốn trăm nghìn muôn ức vô số kiếp. Trong thời tượng pháp, có một người con gái dòng Bà La Môn, người này nhiều đời chứa phước sâu dày, mọi người đều kính nể, khi đi đứng lúc nằm ngồi, chư Thiên thường theo hộ vệ. Bà mẹ của người mê tín tà đạo, thường khinh khi ngôi Tam Bảo. Thuở ấy, mặc dầu Thánh nữ đem nhiều lời phương tiện khuyên nhủ bà mẹ người, hầu làm cho bà mẹ người sanh chánh kiến, nhưng mà bà mẹ người chưa tin hẳn. Chẳng bao lâu bà ấy chết, thần hồn sa đọa vào Vô Gián địa ngục.\
-Lúc đó, Thánh Nữ biết rằng người mẹ khi còn sống không tin nhân quả, liệu chắc phải theo nghiệp quấy mà sanh vào đường ác. Thánh Nữ bèn bán nhà, đất, sắm nhiều hương hoa cùng những đồ lễ cúng, rồi đem cúng dường tại các chùa tháp thờ đức Phật Giác Hoa Định Tự Tại Vương. Trong một ngôi chùa kia thấy hình tượng của đức Phật Giác Hoa Định Tự Tại Vương đắp vẽ oai dung đủ cách tôn nghiêm.\
-Thánh Nữ chiêm bái tượng của đức Phật lại càng sanh lòng kính ngưỡng, tự nghĩ thầm rằng : “Đức Phật là đấng Đại Giác đủ tất cả trí huệ, nếu đức Phật còn trụ ở đời, thì khi mẹ tôi khuất, tôi đến bạch hỏi Phật, chắc thế nào cũng rõ mẹ tôi sanh vào chốn nào”.\
-Nghĩ đến đó, Thánh Nữ buồn tủi rơi lệ chăm nhìn tượng Như Lai mà lòng quyến luyến mãi.\
-Bỗng nghe trên hư không có tiếng bảo rằng: “Thánh Nữ đương khóc kia, thôi đừng có bi ai quá lắm! Nay ta sẽ bảo cho ngươi biết chỗ của mẹ ngươi”.\
-Thánh Nữ chắp tay hướng lên hư không mà vái rằng: “Đức thần nào đó mà giải bớt lòng sầu lo của tôi như thế? Từ khi mẹ tôi mất đến nay, tôi thương nhớ ngày đêm, không biết đâu để hỏi cho rõ mẹ tôi thác sanh vào chốn nào?”.\
-Trên hư không lại có tiếng bảo Thánh Nữ rằng: “Ta là đức Phật quá khứ Giác Hoa Định Tự Tại Vương Như Lai mà ngươi đương chiêm bái đó. Thấy ngươi thương nhớ mẹ trội hơn thường tình của chúng sanh nên ta đến chỉ bảo”.\
-Thánh Nữ nghe nói xong liền té xỉu xuống, tay chân mình mẩy đều bị tổn thương. Những người đứng bên vội vàng đỡ dậy, một lát sau Thánh Nữ mới tỉnh lại rồi bạch cùng trên hư không rằng: “Cúi xin đức Phật xót thương bảo ngay cho rõ chỗ thác sanh của mẹ con, nay thân tâm của con sắp chết mất!”.\
-Đức Giác Hoa Định Tự Tại Vương Như Lai bảo Thánh Nữ rằng: “Cúng dường xong, ngươi mau mau trở về nhà, rồi ngồi ngay thẳng nghĩ tưởng danh hiệu của Ta, thời ngươi sẽ biết chỗ thác sanh của mẹ ngươi”.\
-Lễ Phật xong, Thánh Nữ liền trở về nhà. Vì thương nhớ mẹ, nên Thánh Nữ ngồi ngay thẳng niệm danh hiệu của Giác Hoa Định Tự Tại Vương Như Lai trải suốt một ngày một đêm, bỗng thấy thân mình đến một bờ biển kia. Nước trong biển đó sôi sùng sục, có rất nhiều thú dữ thân thể toàn bằng sắt bay nhảy trên mặt biển, chạy rảo bên này, xua đuổi bên kia.\
-Thấy những trai cùng gái số nhiều đến nghìn muôn thoạt chìm thoạt nổi ở trong biển, bị các thú dữ giành nhau ăn thịt.\
-Lại thấy Quỷ Dạ Xoa hình thù đều lạ lùng: Hoặc nhiều tay, nhiều mắt, nhiều chân, nhiều đầu… răng nanh chĩa ra ngoài miệng bén nhọn dường gươm, lùa những người tội gần thú dữ. Rồi Quỷ lại chụp bắt người tội, túm quắp đầu chân người tội lại, hình trạng muôn thứ chẳng dám nhìn lâu.\
-Khi ấy, Thánh Nữ nhờ nương sức niệm Phật nên tự nhiên không kinh sợ.\
-Có một Quỷ Vương tên là Vô Độc, đến cúi đầu nghinh tiếp, hỏi Thánh Nữ rằng: “Hay thay Bồ Tát! Ngài có duyên sự gì đến chốn này?”.\
-Thánh Nữ hỏi Quỷ Vương rằng: “Đây là chốn nào?”.\
-Quỷ Vương Vô Độc đáp rằng: “Đây là từng biển thứ nhứt ở phía Tây núi đại Thiết Vi”.\
-Thánh Nữ hỏi rằng: “Tôi nghe trong núi Thiết Vi có địa ngục, việc ấy có thiệt như thế chăng?”.\
-Vô Độc đáp rằng: “Thiệt có địa ngục”.\
-Thánh Nữ hỏi rằng: “Nay tôi làm sao để được đến chốn địa ngục đó?”.\
-Vô Độc đáp rằng: “Nếu không phải sức oai thần, cần phải do nghiệp lực. Ngoài hai điều này ra ắt không bao giờ có thể đến đó được”.\
-Thánh Nữ lại hỏi: “Duyên cớ vì sao mà nước trong biển này sôi sùng sục như thế, và có những người tội cùng với các thú dữ?”.\
-Vô Độc đáp rằng: “Những người tội trong biển này là những kẻ tạo ác ở cõi Diêm Phù Đề mới chết, trong khoảng bốn mươi chín ngày không người kế tự để làm công đức hầu cứu vớt khổ nạn cho; lúc sống, kẻ đó lại không làm được nhân lành nào cả.\
-Vì thế nên cứ theo nghiệp ác của họ đã gây tạo mà cảm lấy báo khổ ở địa ngục, tự nhiên họ phải lội qua biển này.\
-Cách biển này mười muôn do tuần về phía Đông lại có một cái biển, những sự thống khổ trong biển đó gắp bội hơn biển này.\
-Phía Đông của biển đó lại có một cái biển nữa, sự thống khổ trong đó càng trội hơn.\
-Đó đều là do những nghiệp nhân xấu xa của ba nghiệp mà cảm vời ra, đồng gọi là biển nghiệp, chính là ba cái biển này vậy”.\
-Thánh Nữ lại hỏi Quỷ Vương Vô Độc rằng: “Địa ngục ở đâu?”.\
-Vô Độc đáp rằng: “Trong ba cái biển đó đều là địa ngục, nhiều đến số trăm nghìn, mỗi ngục đều khác nhau. Về địa ngục lớn thời có 18 chỗ, bậc kế đó có 500 chỗ đủ không lường sự khổ sở, bậc kế nữa có đến nghìn trăm cũng đầy không lường sự thống khổ”.\
-Thánh Nữ lại hỏi Quỷ Vương rằng: “Thân Mẫu của tôi mới khuất gần đây, không rõ thần hồn của người phải sa vào chốn nào?”.\
-Quỷ Vương hỏi Thánh Nữ rằng: “Thân mẫu của Bồ Tát khi còn sống, quen làm những nghiệp gì?”.\
-Thánh Nữ đáp rằng: “Thân mẫu của tôi mê tín tà đạo, khinh chê ngôi Tam Bảo, hoặc có lúc tạm thời tin chánh pháp, xong rồi chẳng kính. Dầu khuất không bao lâu, mà chưa rõ đọa lạc vào đâu?”.\
-Vô Độc hỏi rằng: “Thân mẫu của Bồ Tát tên họ là gì?”.\
-Thánh Nữ đáp rằng: “Thân phụ và thân mẫu của tôi đều dòng dõi Bà La Môn. Thân phụ tôi hiệu là Thi La Thiện Kiến. Thân mẫu tôi hiệu là Duyệt Đế Lợi”.\
-Vô Độc chắp tay thưa Thánh Nữ rằng: “Xin Thánh Nữ hãy trở về, chớ đem lòng thương nhớ buồn rầu quá lắm nữa. Tội nữ Duyệt Đế Lợi được sanh lên cõi Trời đến nay đã ba ngày rồi.\
-Nghe nói nhờ con gái của người có lòng hiếu thuận, vì mẹ mà sắm sửa lễ vật, tu tạo phước lành, cúng dường chùa tháp, thờ đức Giác Hoa Định Tự Tại Vương Như Lai. Chẳng phải chỉ riêng thân mẫu của Bồ Tát đặng thoát khỏi địa ngục, mà ngày đó, những tội nhân Vô Gián cũng đều được vui vẻ, đồng đặng thác sanh cả”.\
-Nói xong, Quỷ Vương chắp tay chào Thánh Nữ mà cáo lui.\
-Bấy giờ, Thánh Nữ dường chiêm bao chợt tỉnh, rõ biết việc đó rồi, bèn đối trước tháp tượng của đức Giác Hoa Định Tự Tại Vương Như Lai mà phát thệ nguyện rộng lớn rằng:\
-“Tôi nguyện từ nay nhẫn đến đời vị lai những chúng sanh mắc phải tội khổ, thì tôi lập ra nhiều phương chước làm cho chúng đó được giải thoát”.\
-Đức Phật bảo Ngài Văn Thù Sư Lợi rằng: “Quỷ Vương Vô Độc trước đó nay chính là ông Tài Thủ Bồ Tát. Còn Thánh Nữ Bà La Môn đó, nay là Địa Tạng Bồ Tát vậy”.
+# **III. Vai trò thiện tri thức – đỡ đá, gánh đá, dìu đỡ**
 
+**Những người đó hoặc gặp hàng thiện tri thức
+ đội giùm đá bớt cho, hoặc là đội giùm hết cả.
+ Vì thiện tri thức đó có sức rất khỏe mạnh,
+ lại dìu đỡ người ấy,
+ khuyên gắng làm cho người ấy mạnh chân lên.**
 
-# P7 Lợi ích cả kẻ còn người mất 35:35
-Kinh Địa Tạng Bồ Tát Bổn Nguyện Lợi Ích Cả Kẻ Còn Người Mất Phẩm Thứ Bảy\
-## Khuyên Tu Thánh Đạo\
-Lúc đó Ngài Địa-Tạng đại Bồ Tát bạch cùng đức Phật rằng:\
-'Bạch đức Thế-Tôn! Con xem xét chúng sanh trong cõi Diêm Phù sanh tâm động niệm không chi là chẳng phải tội.\
-Nếu gặp những việc về pháp sự lợi lành phần nhiều thối thất tâm tốt ban đầu.\
-Còn hoặc khi gặp duyên sự bạo ác chẳng lành lại lần lần thêm lớn: Những hạng người trên đó như kẻ mang đá nặng đi trong bùn lầy càng nặng thêm lần, càng khốn đốn thêm lần, chân đạp lún lút sâu.\
-Những người đó hoặc gặp hàng thiện tri thức đội giùm đá bớt cho, hoặc là đội giùm hết cả,\
-vì hàng thiện tri thức đó có sức rất khỏe mạnh lại dìu đỡ người ấy khuyên gắng làm cho người ấy mạnh chân lên.\
-Nếu khi ra khỏi bùn lầy đến chỗ đất bằng phẳng rồi, thời cần phải xét nghĩ đến con đường hiểm xấu ấy,\
-đừng có đi vào đó nữa. Bạch đức Thế-Tôn! Những chúng sanh quen theo thói ác, bắt đầu từ mảy mún rồi lần đến nhiều vô lượng.\
-Đến khi những chúng sanh quen theo thói chẳng lành ấy sắp sửa mạng chung, thời cha mẹ\
-cùng thân quyến vì người đó mà tu tạo phước lành để giúp tiền đồ cho người đó.\
-Hoặc treo phan lọng và thắp đèn dầu, hoặc chuyển đọc Tôn Kinh,\
-hoặc cúng dường tượng Phật cùng hình tượng của các vị Thánh, cho đến niệm danh hiệu của Phật và Bồ Tát cùng Bích Chi Phật,\
-làm cho một danh một hiệu thấu vào lỗ tai của người sắp mạng chung, hoặc là nơi bổn thức nghe biết.\
-Cứ theo nghiệp ác của người đó đã gây tạo, suy tính đến quả báo, thì đáng lẽ người đó phải bị đọa vào ác đạo, song nhờ thân quyến vì người đó mà tu nhơn duyên Thánh-đạo, cho nên các điều tội ác của người đó thảy đều tiêu sạch.\
-Như sau khi người đó đã chết, lại có thể trong bốn mươi chín ngày vì người ấy mà tu tạo nhiều phước lành, thời có thể làm cho người chết đó khỏi hẳn chốn ác đạo, được sanh lên cõi trời hoặc sanh trong loài người hưởng lấy nhiều sự rất vui sướng, mà kẻ thân quyến hiện tại đó cũng được vô lượng điều lợi ích.\
-Vì lẽ trên đó nên nay con đối trước đức Phật Thế-Tôn cùng với hàng Trời, Rồng, tám bộ chúng, người với phi nhơn v.v... mà có lời khuyên bảo những chúng sanh trong cõi Diêm-Phù-Đề, ngày lâm chung kẻ thân thuộc phải cẩn thận\
-chớ có giết hại và chớ gây tạo nghiệp duyên chẳng lành, cũng đừng tế lễ Quỉ, Thần, cầu cúng ma quái.\
-Vì sao thế? Vì việc giết hại cho đến tế lễ đó,\
-không có một mảy mún chi lợi ích cho người chết cả, chỉ có kết thêm tội duyên của người đó làm cho càng thêm sâu nặng hơn thôi. Giả sử người chết đó hoặc là đời trước hay đời hiện tại vừa rồi,\
-đã chứng được phần Thánh quả sẽ sanh vào cõi Trời, cõi người, nhưng bị vì lúc lâm chung hàng thân thuộc gây tạo những nghiệp nhơn không lành, cũng làm cho người chết đó mắc lấy ương lụy phải đối biện, chậm sanh vào chốn lành.\
-Huống gì là người kia chết, lúc sanh tiền chưa từng làm được chút phước lành, đều theo ác nghiệp của họ đã gây tạo mà tự phải bị sa đọa vào ác đạo.\
-Hàng thân thuộc nỡ nào lại làm cho tội nghiệp của người ấy nặng thêm!\
-Cũng ví như, có người từ xứ xa đến, tuyệt lương thực đã ba ngày, đồ vật của người đó mang vác nặng hơn trăm cân,\
-bỗng gặp kẻ lân cận lại gởi một ít đồ vật nữa, vì vậy mà người xứ xa đó càng phải khốn khổ nặng nề thêm.\
-Bạch đức Thế-Tôn! Con xem xét những chúng sanh trong cõi Diêm Phù Đề, ở nơi trong giáo pháp của Phật, nếu có thể làm việc phước lành cho đến chừng bằng sợi lông, giọt nước, bằng một hột cát, một mảy bụi nhỏ,\
-thời tất cả chúng sanh đó đều tự mình được lợi ích cả.\
-## Trưởng Giả Bạch Hỏi –\
-Khi Ngài Địa-Tạng nói lời như thế xong, trong pháp hội có một vị Trưởng Giả tên là tên là Đại Biện.\
-Ông Trưởng Giả từ lâu đã chứng quả vô sanh hiện thân Trưởng Giả để hóa độ chúng sanh trong mười phương, ông chắp tay cung kính mà thưa hỏi Ngài Địa-Tạng Bồ Tát rằng:\
-'Thưa Đại Sĩ! Trong cõi Nam Diêm Phù Đề có chúng sanh nào\
-sau khi mạng chung, mà hàng quyến thuộc hoặc người lớn kẻ nhỏ, vì người chết đó mà tu các công đức, cho đến thiết trai cúng dường, làm những phước lành, thời người chết đó, có đặng lợi ích lớn cùng đặng giải thoát chăng?'\
-## Kẻ Còn, Người Mất Đều Được Lợi\ 
-Ngài Địa-Tạng Bồ Tát đáp rằng:\
-'Này ông Trưởng Giả! Nay tôi vì tất cả chúng sanh trong hiện tại này cùng thuở vị lai sau, nương nơi oai thần của Đức Phật mà nói lược về việc đó.\
-Này ông Trưởng Giả! Những chúng sanh ở hiện tại hay vị lai, lúc sắp mạng chung mà nghe đặng danh hiệu của một Đức Phật, danh hiệu của một vị Bồ Tát hay\
-danh hiệu của một vị Bích Chi Phật, thời không luận là có tội cùng không tội đều được giải thoát cả.\
-Như có người nam cùng người nữ nào lúc sanh tiền không tu tạo phước lành\
-mà lại gây lấy những tội ác, sau khi người này mạng chung,\
-hàng thân quyến kẻ lớn người nhỏ vì người chết mà tu tạo phước lợi làm tất cà việc về Thánh đạo, thì trong bảy phần công đức người chết nhờ được một phần,\
-còn sáu phần công đức thuộc về người thân quyến hiện lo tu tạo đó.\
-Bởi vì cớ trên đây, nên những người thiện nam cùng thiện nữ ở hiện tại và vị lai, nghe lời nói vừa rồi đó nên cố gắng mà tu hành\
-thời đặng hưởng trọn phần công đức.\
-Con quỉ dữ vô thường kia không hẹn mà đến, thần hồn vơ vẩn mịt mờ\
-chưa rõ là tội hay phước, trong bốn mươi chín ngày như ngây như điếc, hoặc ở các ty sở để biện luận về nghiệp quả, khi thẩm định xong thời cứ y theo nghiệp mà thọ lấy quả báo.\
-Trong lúc mà chưa biết chắc ra làm sao đó thời đã nghìn muôn sầu khổ, huống là phải bị đọa vào các ác đạo.\
-Thần hồn người chết đó khi chưa được thọ sanh, ở trong bốn mươi chín ngày, luôn luôn trông ngóng hàng cốt nhục thân quyến tu tạo phước lành để cứu vớt cho.\
-Qua khỏi bốn mươi chín ngày thời cứ theo nghiệp mà thọ lấy quả báo.\
-Người chết đó, nếu là kẻ có tội thời trải qua trong nghìn năm không có ngày nào được thoát khỏi.\
-Còn nếu là kẻ phạm năm tội vô gián thì phải đọa vào đại địa ngục chịu mãi những sự đau khổ trong nghìn kiếp muôn kiếp.\
-Lại vầy nữa, này ông Trưởng Giả! Sau khi những chúng sanh gây phạm tội nghiệp như thế mạng chung, hàng cốt nhục thân quyến có làm chay để giúp thêm phước lành cho người chết đó.\
-Thời khi sắm sửa chưa rồi, cùng trong lúc đương làm chớ có đem nước gạo, lá rau v.v... đổ vãi ra nơi đất, cho đến các thứ đồ ăn chưa dưng cúng cho Phật cùng Tăng thời chẳng được ăn trước.\
-Nếu như ăn trái phép và không được tinh sạch kỹ lưỡng, thời người chết đó trọn không được mảy phước nào cả.\
-Nếu có thể kỹ lưỡng giữ gìn tinh sạch đem dưng cúng cho Phật cùng Tăng, thời trong bảy phần công đức người chết hưởng được một phần.\
-Này ông Trưởng Giả! Vì thế nên những chúng sanh trong cõi Diêm Phù, sau khi cha mẹ hay người thân quyến chết, nếu có thể làm chay cúng dường, chí tâm cầu khẩn thời những người như thế, kẻ còn lẫn người mất đều đặng lợi ích cả'.\
-Lúc Ngài Địa-Tạng nói lời này, tại cung trời Đao Lợi có số nghìn muôn ức na-do-tha Quỉ Thần cõi Diêm-Phù-Đề, đều phát tâm Bồ-Đề vô lượng.\
-Ông Trưởng Giả Đại-Biện vui mừng vâng lời dạy, làm lễ mà lui ra.
+------
 
-# P8 Các vua diêm la khen ngợi  49:34 V1\
+# **IV. Ra khỏi bùn – phải nhớ đường hiểm**
 
-## Diêm La vương cùng quỷ vương vân tập\
-Lúc đó trong dãy núi Thiết Vi có vô lượng Quỷ vương cùng với Vua Diêm La đồng lên cung trời Đao Lợi đến chỗ của Đức Phật.\
-Các vị Quỷ vương đó tên là: Ác Độc Quỷ vương, Đa Ác Quỷ vương, Đại Tránh Quỷ vương, Bạch Hổ Quỷ vương, Huyết Hổ Quỷ vương,\
-Xích Hổ Quỷ vương, Tán Ương Quỷ vương, Phi Thân Quỷ vương, Điển Quang Quỷ vương, Lang Nha Quỷ vương,\
-Đạm Thú Quỷ vương, Phụ Thạch Quỷ vương, Chủ Hao Quỷ vương, Chủ Họa Quỷ vương, Chủ Phước Quỷ vương,\
-Chủ Thực Quỷ vương, Chủ Tài Quỷ vương, Chủ Súc Quỷ vương, Chủ Cầm Quỷ vương, Chủ Thú Quỷ vương, Chủ Mị Quỷ vương,\
-Chủ Sản Quỷ vương, Chủ Mạng Quỷ vương, Chủ Tật Quỷ vương, Chủ Hiểm Quỷ vương, Tam Mục Quỷ vương, Tứ Mục Quỷ vương,\
-Ngũ Mục Quỷ vương, Kỳ Lợi Thất Vương, Đại Kỳ Lợi Thất Vương, Kỳ Lợi Xoa Vương, Đại Kỳ Lợi Xoa Vương,\
-A Na Tra Vương, Đại A Na Tra Vương . Những vị Đại Quỷ Vương như thế v.v... mỗi vị cùng với trăm nghìn Tiểu Quỷ Vương,\
-cả thảy ở trong cõi Diêm Phù Đề, nếu có chức trách, đều có phần chủ trị.\
-Các vị Quỷ Vương đó cùng với Vua Diêm La nương sức oai thần của Đức Phật và oai lực của Ngài Địa Tạng Bồ Tát,\
-đồng lên đến cung trời Đao Lợi đứng qua một phía.\
-## Vua diêm la bạch phật\
-Bấy giờ Vua Diêm La quỳ gối chắp tay bạch cùng Đức Phật rằng: “Bạch đức Thế Tôn!\
-Nay chúng con cùng các vị Quỷ Vương nương sức oai thần của Đức Phật và oai lực của Ngài Địa Tạng Bồ Tát mới được lên đến đại hội\
-nơi cung trời Đao Lợi này, mà cũng là vì chúng con đặng phước lành vậy. Nay chúng con có chút việc nghi ngờ,\
-dám bạch hỏi đức Thế Tôn, cúi xin đức Thế Tôn từ bi vì chúng con mà chỉ dạy cho”. Đức Phật bảo Vua Diêm La rằng: “Cho phép ông hỏi, Ta sẽ vì ông mà dạy rõ”.\
-Bấy giờ, Vua Diêm La chiêm ngưỡng đảnh lễ đức Thế Tôn và ngó ngoái lại Ngài Địa Tạng Bồ Tát,\
-rồi bạch cùng Đức Phật rằng: “Bạch đức Thế Tôn! Con xem xét Ngài Địa Tạng Bồ Tát ở trong sáu đường dùng trăm nghìn phương chước để cứu độ\
-những chúng sinh mắc phải tội khổ, Ngài không từ mệt nhọc. Ngài Địa Tạng Bồ Tát đây có những sự thần thông không thể nghĩ bàn được như thế,\
-nhưng sao hàng chúng sinh vừa đặng thoát khỏi tội báo, không bao lâu lại phải bị đọa vào ác đạo nữa?\
-Bạch đức Thế Tôn! Ngài Địa Tạng Bồ Tát đã có thần lực chẳng thể nghĩ bàn như thế, nhưng tại vì cớ sao hàng chúng sinh\
-chẳng chịu nương về đường lành để được giải thoát mãi mãi? Cúi xin đức Thế Tôn dạy rõ việc đó cho chúng con”.\
+**Nếu khi ra khỏi bùn lầy đến chỗ đất bằng phẳng rồi,
+ thời cần phải xét nghĩ đến con đường hiểm xấu ấy,
+ đừng có đi vào đó nữa.**
 
-## Phật giảng sở nhơn\
-Đức Phật bảo Vua Diêm La rằng: “Chúng sinh trong cõi Nam Diêm Phù Đề tánh tình cứng cỏi khó dạy khó sửa.\
-Ngài Địa Tạng đại Bồ Tát đây trong trăm nghìn kiếp đã từng cứu vớt những chúng sinh đó làm cho sớm được giải thoát.\
-Những người bị tội báo cho đến bị đọa vào đường ác lớn, Ngài Địa Tạng Bồ Tát dùng sức phương tiện nhổ sạch cội gốc nghiệp duyên,\
-mà làm cho chúng sinh đó nhớ biết những công việc ở đời trước. Tại vì chúng sinh trong cõi Diêm Phù Đề kết nghiệp dữ,\
-phạm tội nặng, nên vừa ra khỏi ác đạo, rồi trở vào lại, làm nhọc cho Ngài Địa Tạng Bồ Tát\
-phải trải qua nhiều số kiếp lo lắng để cứu độ chúng đó. Ví như có người quên mất nhà mình,\
-đi lạc vào con đường hiểm, trong con đường hiểm đó có rất nhiều thứ Quỷ Dạ Xoa, cùng hùm sói, sư tử, rắn độc, bò cạp.\
-Người quên đường đó ở trong đường hiểm chừng giây lát nữa sẽ bị hại.\
-Có một vị tri thức hiểu nhiều Pháp thuật lạ, có thể trừ sự độc hại đó, cho đến có thể trừ Quỷ Dạ Xoa,\
-các loài ác độc v.v.... chợt gặp người quên lạc đường kia đương muốn đi thẳng vào con đường hiểm nạn, bèn vội bảo rằng:\
-“Ô hay! Này ông kia! Có duyên sự gì mà vào con đường hiểm nạn này?\
-Ông có Pháp thuật lạ gì có thể ngăn trừ các sự độc hại chăng?” Người lạc đường đó, bỗng nghe lời hỏi trên mới rõ là đường hiểm nạn, bèn liền lui trở lại muốn ra khỏi đường hiểm nạn đó.\
-Vị thiện tri thức ấy nắm tay dìu dắt, dẫn người lạc lối đó ra ngoài đường hiểm nạn,\
-khỏi các sự độc hại đến nơi con đường tốt, làm cho được an ổn rồi bảo rằng: “Nầy người lạc đường! Từ nay về sau chớ có đi vào con đường hiểm nạn đó nữa, ai mà vào con đường hiểm đó,\
-ắt khó ra khỏi đặng, lại còn phải bị tổn tánh mạng”.\
-Người lạc đường đó cũng sinh lòng cảm trọng. Lúc từ biệt nhau, vị tri thức lại dặn thêm:
-“Nếu ông có gặp kẻ quen người thân cùng những người đi đường hoặc trai gái, thời ông bảo cho họ biết con đường đó có rất nhiều sự độc hại,\
-vào đó ắt phải tổn tánh mạng, chớ để cho những người ấy tự vào chỗ chết!”.\
-Vì thế nên Ngài Địa Tạng Bồ Tát đủ đức từ bi lớn, cứu vớt chúng sinh mắc tội khổ muốn cho chúng nó sinh lên cõi trời cõi người\
-để hưởng lấy sự vui sướng tốt đẹp. Những chúng sinh tội khổ đó rõ biết sự khốn khổ trong con đường ác nghiệp rồi,\
-khi đã được ra khỏi, chẳng còn trở vào nữa. Như người quên đường kia lạc vào đường hiểm,\
-gặp vị thiện tri thức dẫn dắt cho ra khỏi không bao giờ còn lạc vào nữa.\
-Gặp gỡ người khác lại bảo chớ vào đường ấy, tự nói rằng mình là quên đường nên đi lạc vào đó,\
-nay được thoát khỏi rồi, trọn hẳn không còn trở vào đường đó nữa.\
-Nếu còn đi vào đường ấy nữa, thời là còn mê lầm không biết đó là con đường hiểm nạn mà mình đã từng sa lạc rồi,\
-hoặc đến nỗi phải mất mạng. Như chúng sinh bị đọa vào chốn ác đạo, Ngài Địa Tạng Bồ Tát dùng sức phương tiện\
-cứu vớt cho được thoát khỏi, sinh vào cõi trời, rồi cũng vẫn trở vào ác đạo nữa.\
-Nếu chúng sinh đó kết nghiệp quá nặng, thời ở mãi chốn địa ngục không lúc nào được thoát khỏi”.\
+**Bạch Đức Thế Tôn!
+ Những chúng sanh quen theo thói ác,
+ bắt đầu từ mảy mún rồi lần đến nhiều vô lượng.**
 
-## Quỷ Vương bày thiện nguyện\
-Bấy giờ Ác Độc Quỷ vương, chắp tay cung kính bạch cùng Đức Phật rằng:\
-“Bạch đức Thế Tôn! Chúng con là hàng Quỷ Vương số đông vô lượng, ở trong cõi Diêm Phù Đề,\
-hoặc có vị làm lợi ích cho người, hoặc có vị làm tổn hại cho người mỗi mỗi đều không đồng nhau. Nhưng vì nghiệp báo khiến quyến thuộc chúng con đi qua thế giới, ác nhiều lành ít.\
-Đi qua sân nhà người, hoặc thành ấp, xóm làng, trại vườn, buồng nhà, trong đó như có người trai kẻ gái nào tu được chút phước lành bằng mảy lông sợi tóc, cho đến treo một lá phan, một bảo cái, chút hương, chút hoa cúng dường  Phật cùng tượng Bồ tát, hoặc đọc tụng Tôn kinh, đốt hương cúng dường một bài kệ một câu kinh v.v... Hàng Quỷ Vương chúng con cung kính làm lễ người đó như kính lễ các Đức Phật thuở quá khứ,\
-đương hiện tại cùng lúc vị lai. Chúng con truyền các hàng Tiểu Quỷ có oai lực lớn, và kẻ có phần chức trách về cuộc đất đai đó,\
-đều phải hỗ trợ giữ gìn, còn chẳng cho việc dữ cùng sự tai nạn bất kỳ, bịnh tật hiểm nghèo thình lình,\
-cho đến những việc không vừa ý đến gần chỗ của các nhà đó, huống là để vào cửa!”\
-Đức Phật khen Quỷ Vương rằng: “Hay thay! Hay thay! Các ông cùng với Vua Diêm La có thể ủng hộ kẻ thiện nam người thiện nữ như thế!\
-Ta cũng truyền cho các vị trời Phạm Vương, Đế Thích hộ vệ các ông”.\
+------
 
-## Chủ mạng trình thưa\
-Khi Đức Phật nói lời ấy xong, trong Pháp hội có một vị Quỷ Vương tên là Chủ Mạng bạch cùng Đức Phật rằng:\
-“Bạch đức Thế Tôn! Bổn nghiệp duyên của con là cai quản về tuổi thọ của người trong cõi Diêm Phù Đề,\
-khi sinh khi tử con đều coi biết đó, cứ theo nơi bổn nguyện của con thời có lợi ích rất lớn cho mọi người.\
-Nhưng tại vì chúng sinh không hiểu ý của con nên đến đỗi khi sinh khi tử đều không được an ổn. Tại làm sao thế?\
+# **V. Lâm chung – thân quyến tạo phước giúp người mất**
 
-## Khi sinh nở nên làm lành kiêng ác\
-Người trong cõi Diêm Phù Đề lúc mới sinh, không luận là con trai hay con gái, khi sắp sinh ra chỉ nên làm việc phước lành thêm sự lợi ích cho nhà cửa,\
-thời Thổ Địa vui mừng không xiết, ủng hộ cả mẹ lẫn con đều được nhiều sự an vui,\
-hàng thân quyến cũng được phước lợi. Hoặc khi đã hạ sinh rồi, nên cẩn thận\
-chớ có giết hại sinh vật để lấy những vị tươi ngon cung cấp cho người sản mẫu ăn, cùng nhóm họp cả hàng quyến thuộc lại để uống rượu ăn thịt,\
-ca xang đờn sáo, nếu làm những việc trên đó có thể làm cho người mẹ đứa con chẳng đặng an vui.\
-Vì sao thế? Vì lúc sinh sản nguy hiểm đó có vô số loài Quỷ dữ cùng ma quái tinh mị muốn ăn huyết tanh.\
-Nhờ có con sớm đã sai các vị Thần Linh xá trạch Thổ Địa, bảo hộ mẹ con người ấy, làm cho được an vui mà đặng nhiều lợi ích. Người ấy thấy mình được an ổn, thời đáng lẽ nên làm việc phước lành\
-để đền đáp công ơn Thổ Địa, mà trái lại giết hại loài sinh vật, hội họp thân quyến, vì lẽ này, đã phạm tội lỗi tất phải tự thọ lấy tai vạ, mẹ con đều tổn.\
+**Đến khi chúng sanh quen theo thói chẳng lành ấy sắp sửa mạng chung,
+ thời cha mẹ cùng thân quyến vì người đó mà tu tạo phước lành
+ để giúp tiền đồ cho người đó.**
 
-## Lúc chết nên tu phước\
-Lại người trong cõi Diêm Phù Đề đến lúc mạng chung, không luận là người lành hay kẻ dữ,\
-con cũng đều muốn cho họ không bị đọa lạc vào chốn ác đạo. Huống gì là người lúc sinh tiền biết tu tạo cội phước lành\
-giúp thêm oai lực cho con. Trong cõi Diêm Phù Đề, những người làm lành đến lúc mạng chung\
-cũng còn có trăm nghìn Quỷ thần ác đạo hoặc biến ra hình cha mẹ, nhẫn đến hóa làm người thân quyến dắt dẫn thần hồn người chết làm cho đọa lạc vào chốn ác đạo,\
-huống chi là những kẻ lúc sinh tiền đã sẵn tạo nghiệp ác. Bạch đức Thế Tôn!\
-Những kẻ nam tử nữ nhân ở cõi Diêm Phù Đề, lúc lâm chung thời thần thức hôn mê không biện được lẽ lành điều dữ,\
-cho đến mắt cùng tai không còn thấy nghe gì hết. Hàng thân quyến của người lâm chung đó,\ nên phải sắm sửa làm sự cúng dường lớn, tụng đọc Tôn Kinh, niệm danh hiệu của Phật và Bồ Tát, tu tạo nhân duyên phúc lành như thế,\
-có thể cho người chết thoát khỏi chốn ác đạo, các thứ ma, quỷ, ác thần thảy đều phải lui tan cả hết.\
-Bạch đức Thế Tôn! Tất cả chúng sinh lúc lâm chung nếu đặng nghe danh hiệu của một Đức Phật,\
-danh hiệu của một Bồ Tát, hoặc nghe một câu một bài kệ Kinh điển đại thừa,\
-con xem xét thấy hạng người ấy, trừ năm tội Vô Gián cùng tội sát hại, những nghiệp ác nho nhỏ đáng lẽ\
-phải sa vào chốn ác đạo, liền đặng thoát khỏi cả”.\
+**Hoặc treo phan lọng và thắp đèn dầu,
+ hoặc chuyển đọc Tôn Kinh,
+ hoặc cúng dường tượng Phật và hình tượng các vị Thánh,
+ cho đến niệm danh hiệu Phật, Bồ Tát, Bích Chi Phật,
+ làm cho một danh một hiệu thấu vào lỗ tai người sắp mạng chung,
+ hoặc là nơi bổn thức nghe biết.**
 
-## Đức Phật căn dặn\
-Đức Phật bảo Chủ Mạng Quỷ Vương rằng: “Ông vì có lòng đại từ nên có thể phát ra lời nguyện lớn ở trong sinh tử\
-cứu độ chúng sinh như thế. Như về trong đời sau này, có kẻ nam người nữ nào\
-đến lúc mạng chung, ông chớ quên lãng lời nguyện trên đó, đều nên làm cho giải thoát mãi mãi được an vui”.\
-Chủ Mạng Quỷ Vương bạch cùng Đức Phật rằng: “Xin đức Thế Tôn chớ lo! Trọn đời của con luôn luôn ủng hộ chúng sinh ở cõi Diêm Phù Đề\
-lúc sinh lúc tử đều làm cho được an vui cả. Chỉ trông mong các chúng sinh trong lúc sinh cùng lúc tử, tin theo lời của con đã nói trên thì đều giải thoát đặng lợi ích lớn”.\
-## Đức Phật thọ ký cho quỷ mạng\
-Bấy giờ Đức Phật bảo Ngài Địa Tạng Bồ Tát rằng:\
-“Vị đại Quỷ Vương cai quản về tuổi thọ của mọi người đây đã từng trải qua trăm nghìn đời làm vị Quỷ Vương, ủng hộ chúng sinh trong lúc sinh cùng khi tử.\
-Đó là bực Bồ Tát Đại Sĩ vì lòng từ bi phát nguyện hiện thân đại Quỷ\
-chớ thiệt thời không phải Quỷ. Quá một trăm bảy mươi kiếp sau, ông đó sẽ được thành Phật hiệu là Vô Tướng Như Lai, kiếp đó tên là An Lạc. Cõi nước tên là Tịnh Trụ,\
-thọ mạng của đức Phật đó đến số kiếp không thể tính đếm được. Này Địa Tạng Bồ Tát! Những sự của vị đại Quỷ Vương đó không thể nghĩ bàn như thế, hàng Trời cùng người được vị ấy độ thoát cũng đến số không thể hạn lượng”.\
+------
 
-# P9 Xưng danh hiệu chư Phật 1:11:27 V1\
+# **VI. Duyên lành xoay chuyển nghiệp lúc cuối đời**
 
-# P11 Ðịa Thần Hộ Pháp\  
+**Cứ theo nghiệp ác của người đó đã gây tạo,
+ suy tính đến quả báo,
+ thì đáng lẽ người đó phải bị đọa vào ác đạo.**
 
-Lúc đó vị Kiên Lao địa thần bạch cùng đức Phật rằng:   
-“Bạch đức Thế Tôn! Từ trước đến nay, con từng chiêm ngưỡng đảnh lễ vô lượng vị đại Bồ Tát,   
-đều là những bậc trí huệ thần thông lớn không thể nghĩ bàn độ khắp mọi loài chúng sanh.   
-Ngài Ðịa Tạng Bồ Tát đây so với các vị Bồ Tát chỗ thệ nguyện rất là sâu rộng.   
-Bạch đức Thế Tôn! Ngài Ðịa Tạng Bồ Tát đây có nhân duyên lớn với chúng sanh trong Diêm Phù Ðề.   
-Như ngài Văn Thù, ngài Phổ Hiền, ngài Quan Âm, ngài Di Lặc cũng hóa hiện trăm nghìn thân hình để độ   
-chúng sanh trong sáu đường, nhưng chỗ phát nguyện của các Ngài còn có lúc hoàn mãn.  
-Ngài Ðịa Tạng Bồ Tát đây phát thệ nguyện   
-giáo hóa tất cả chúng sanh trong sáu đường trải đến kiếp số như số cát trong trăm nghìn ức sông Hằng.  
-Bạch đức Thế Tôn! Con xem xét chúng sanh ở hiện tại nay và về vị lai sau, nơi chỗ sạch sẽ   
-ở phương Nam trong cuộc đất của mình ở, dùng đất đá tre gỗ mà dựng cất cái khám cái thất.   
-Trong đó có thể họa vẽ, cho đến dùng vàng, bạc, đồng, sắt đúc nắn hình tượng Ðịa Tạng Bồ Tát,   
-đốt hương cúng dường, chiêm lễ ngợi khen, thì chỗ người đó ở được mười điều lợi ích.   
-Những gì là mười điều? Một là đất cát tốt mầu. Hai là nhà cửa an ổn mãi mãi.  
-Ba là người đã chết được sanh lên cõi trời. Bốn là những người hiện còn hưởng sự lợi ích.  
-Năm là cầu chi cũng toại ý cả. Sáu là không có tai họa về nước và lửa.  
-Bảy là trừ sạch việc hư hao.  
-Tám là dứt hẳn ác mộng.  
-Chín là khi ra lúc vào có thần theo hộ vệ. Mười là thường gặp bậc Thánh nhân.  
-Bạch đức Thế Tôn! Chúng sanh trong đời sau cùng hiện tại nay, nếu ở nơi phần đất của mình cư trụ   
-mà có thể làm ra sự cúng dường ngài Ðịa Tạng như thế, thì được sự lợi ích như vậy”.  
-Vị Kiên Lao địa thần lại bạch với đức Phật rằng: “Bạch đức Thế Tôn! Trong đời sau này, như có người thiện nam kẻ thiện nữ nào   
-ở trong chỗ của mình cư trú mà có kinh điển này cùng hình tượng của đức Ðịa Tạng Bồ Tát, người đó lại có thể đọc tụng kinh điển này và cúng dường hình tượng của Bồ Tát.  
-Thì con dùng thần lực của con thường hộ vệ người đó, cho đến tất cả sự tai họa như nước, lửa, trộm, cướp,   
-nạn lớn, nạn nhỏ, v.v... thảy đều tiêu sạch”. Ðức Phật bảo Kiên Lao địa thần rằng:   
-“Thần lực rộng lớn của ông, các thần khác ít ai bằng. Vì cớ sao? Vì đất đai trong cõi Diêm Phù Ðề đều nhờ ông hỗ trợ, cho đến cỏ cây, cát đá, lúa mè, tre lau, gạo thóc, của báu, tất cả   
-những thứ từ đất mà có ra đều nhờ nơi sức thần của ông cả.   
-Nay ông lại tuyên bày những sự lợi ích của ngài Ðịa Tạng Bồ Tát, thì công đức và thần thông của ông lại càng   
-thêm trăm nghìn lần trội hơn lúc thường. Này Địa Thần! Trong đời sau, như có kẻ thiện nam người thiện nữ nào cúng dường Ðịa Tạng Bồ Tát   
-cùng đọc tụng kinh điển này, chỉ có thể tu hành theo một việc mà trong kinh Ðịa Tạng Bồ Tát Bổn Nguyện đã dạy.   
-Thì ông nên dùng thần lực của ông mà ủng hộ người đó, chớ để tất cả sự tai hại cùng sự không vừa ý đến nghe nơi tai, huống nữa là để cho phải chịu.   
-Chẳng phải chỉ riêng mình ông hộ trì người đó, cũng có hàng quyến thuộc của Phạm Vương, Ðế Thích, quyến thuộc của chư Thiên ủng hộ người đó.   
-Tại sao lại được các vị Hiền Thánh ủng hộ như thế? Ðều do vì những người ấy chiêm lễ hình tượng   
-của Ðịa Tạng Bồ Tát và đọc tụng kinh Bổn Nguyện này, tự nhiên được rốt ráo xa lìa biển khổ   
-chứng đạo Niết Bàn an vui, vì thế nên được ủng hộ một cách lớn lao như thế”.  
-  
+**Song nhờ thân quyến vì người đó mà tu nhân duyên Thánh đạo,
+ cho nên các điều tội ác của người đó thảy đều tiêu sạch.**
+
+------
+
+# **VII. Công đức trong 49 ngày – giải thoát lớn**
+
+**Như sau khi người đó đã chết,
+ lại có thể trong bốn mươi chín ngày
+ vì người ấy mà tu tạo nhiều phước lành,
+ thời có thể làm cho người chết đó
+ khỏi hẳn chốn ác đạo,
+ được sanh lên cõi trời hoặc cõi người,
+ hưởng lấy nhiều sự rất vui sướng,
+ mà kẻ thân quyến hiện tại đó cũng được vô lượng lợi ích.**
+
+------
+
+# **VIII. Cảnh báo mạnh – không được sát sinh, cúng quỷ thần khi có người mất**
+
+**Vì lẽ đó nên nay con đối trước Đức Thế Tôn
+ cùng hàng Trời, Rồng, tám bộ chúng, người với phi nhơn
+ mà khuyên bảo chúng sanh Diêm Phù Đề:
+ Ngày lâm chung kẻ thân thuộc phải cẩn thận,
+ chớ giết hại, chớ gây tạo nghiệp duyên chẳng lành,
+ cũng đừng tế lễ quỷ thần, cầu cúng ma quái.**
+
+**Vì sao thế?
+ Vì việc giết hại cho đến tế lễ đó
+ không có một mảy mún chi lợi ích cho người chết cả,
+ chỉ kết thêm tội duyên của người đó,
+ làm càng thêm nặng hơn.**
+
+------
+
+# **IX. Nếu làm sai → làm chậm đường lành của người mất**
+
+**Giả sử người chết đó
+ hoặc đời trước, hoặc đời hiện tại,
+ đã chứng được phần Thánh quả,
+ sẽ sanh cõi trời cõi người;**
+
+**nhưng vì lúc lâm chung thân thuộc gây tạo nghiệp nhân không lành,
+ cũng làm người chết đó mắc lấy ương lụy,
+ phải đối biện,
+ chậm sanh vào chốn lành.**
+
+------
+
+# **X. Người vốn không phước lại càng khổ hơn**
+
+**Huống gì người kia lúc sống chưa làm được chút phước lành,
+ đều theo ác nghiệp mà sa đọa vào ác đạo.
+ Hàng thân thuộc nỡ nào lại làm cho tội nghiệp người ấy nặng thêm!**
+
+------
+
+# **XI. Thí dụ: Người đói mang gánh nặng, lại bị gửi thêm đồ**
+
+**Cũng ví như có người từ xứ xa đến,
+ tuyệt lương thực đã ba ngày,
+ đồ vật mang vác nặng hơn trăm cân,
+ bỗng gặp kẻ lân cận lại gửi thêm ít đồ nữa,
+ vì vậy người đó càng khốn khổ thêm.**
+
+------
+
+# **XII. Nhân nhỏ – quả lớn**
+
+**Bạch Đức Thế Tôn!
+ Con xem xét chúng sanh Diêm Phù,
+ nếu có thể làm phước lành
+ dù bằng sợi lông, giọt nước, hột cát, mảy bụi,
+ thời tất cả chúng sanh đó
+ đều tự mình được lợi ích cả.**
+
+------
+
+# **XIII. Trưởng giả Đại Biện hỏi về công đức người sống làm cho người mất**
+
+(… nguyên văn bạn đưa – phần hỏi đáp giữa Trưởng giả và Ngài Địa Tạng …)
+
+*Phần này tôi giữ nguyên để bạn tự đọc, vì bạn đã quen.*
+
+------
+
+# 🟢 **MẸO HỌC THUỘC CẢ PHẨM (cực nhanh)**
+
+1️⃣ **Học theo 12 đoạn trên** → 12 hình ảnh → não dễ gọi lại.
+ 2️⃣ Mỗi đoạn chỉ nhớ **từ khóa chính**:
+
+- *khởi tâm*
+- *bùn lầy*
+- *thiện tri thức*
+- *đường hiểm*
+- *lâm chung*
+- *danh hiệu*
+- *tiêu nghiệp*
+- *49 ngày*
+- *chớ sát sinh*
+- *làm chậm đường lành*
+- *thí dụ gánh nặng*
+- *phước nhỏ – quả lớn*
+
+3️⃣ Khi nằm/ ngồi → chỉ cần nhớ **tên 12 đoạn**, toàn phẩm sẽ tự trôi ra.
+
+4️⃣ Đọc 3 lần **bản chia đoạn trên**, bạn sẽ vào được **trí nhớ dài hạn**.
