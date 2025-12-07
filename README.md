@@ -1,4 +1,5 @@
-# Mục lục
+<a id="toc"></a>
+### **Mục lục**
 
 - [I. Khuyên tu Thánh đạo](#i-khuyen-tu-thanh-dao)
 - [II. Duyên xấu kéo tâm xuống – ví như mang đá đi trong bùn lầy](#ii-duyen-xau-keo-tam-xuong)
@@ -27,6 +28,7 @@ sanh tâm động niệm không chi là chẳng phải tội.
 Nếu gặp việc pháp sự lợi lành,  
 phần nhiều thối thất tâm tốt ban đầu.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="ii-duyen-xau-keo-tam-xuong"></a>
@@ -39,6 +41,7 @@ như kẻ mang đá nặng đi trong bùn lầy,
 càng nặng thêm lần, càng khốn đốn thêm lần,  
 chân đạp lún lút sâu.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="iii-vai-tro-thien-tri-thuc"></a>
@@ -50,6 +53,7 @@ Vì thiện tri thức đó có sức rất khỏe mạnh,
 lại dìu đỡ người ấy,  
 khuyên gắng làm cho người ấy mạnh chân lên.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="iv-ra-khoi-bun-phai-nho-duong-hiem"></a>
@@ -63,6 +67,7 @@ thời cần phải xét nghĩ đến con đường hiểm xấu ấy,
 Những chúng sanh quen theo thói ác,  
 bắt đầu từ mảy mún rồi lần đến nhiều vô lượng.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="v-lam-chung-than-quyen-tao-phuoc"></a>
@@ -79,6 +84,7 @@ cho đến niệm danh hiệu Phật, Bồ Tát, Bích Chi Phật,
 làm cho một danh một hiệu thấu vào lỗ tai người sắp mạng chung,  
 hoặc là nơi bổn thức nghe biết.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="vi-duyen-lanh-xoay-chuyen-nghiep"></a>
@@ -91,6 +97,7 @@ thì đáng lẽ người đó phải bị đọa vào ác đạo.**
 **Song nhờ thân quyến vì người đó mà tu nhân duyên Thánh đạo,  
 cho nên các điều tội ác của người đó thảy đều tiêu sạch.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="vii-cong-duc-trong-49-ngay"></a>
@@ -105,6 +112,7 @@ khỏi hẳn chốn ác đạo,
 hưởng lấy nhiều sự rất vui sướng,  
 mà kẻ thân quyến hiện tại đó cũng được vô lượng điều lợi ích.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="viii-canh-bao-khong-sat-sinh"></a>
@@ -123,6 +131,7 @@ không có một mảy mún chi lợi ích cho người chết cả,
 chỉ kết thêm tội duyên của người đó,  
 làm càng thêm nặng hơn.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="ix-lam-sai-lam-cham-duong-lanh"></a>
@@ -138,6 +147,7 @@ cũng làm người chết đó mắc lấy ương lụy,
 phải đối biện,  
 chậm sanh vào chốn lành.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="x-nguoi-khong-phuoc-cang-kho"></a>
@@ -147,6 +157,7 @@ chậm sanh vào chốn lành.**
 đều theo ác nghiệp của họ đã gây tạo mà tự phải bị sa đọa vào ác đạo.  
 Hàng thân thuộc nỡ nào lại làm cho tội nghiệp người ấy nặng thêm!**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="xi-thi-du-ganh-nang"></a>
@@ -158,6 +169,7 @@ tuyệt lương thực đã ba ngày,
 bỗng gặp kẻ lân cận lại gửi thêm ít đồ nữa,  
 vì vậy người đó càng khốn khổ thêm.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="xii-nhan-nho-qua-lon"></a>
@@ -169,6 +181,7 @@ nếu có thể làm phước lành
 dù bằng sợi lông, giọt nước, hột cát, mảy bụi,  
 thì tất cả đều tự mình được lợi ích cả.**
 
+[↥ Trở về Mục lục](#toc)
 ---
 
 <a id="xiii-truong-gia-dai-bien-hoi"></a>
@@ -176,5 +189,7 @@ thì tất cả đều tự mình được lợi ích cả.**
 
 *(… phần hỏi đáp như bạn đã có …)*
 
+
+[↥ Trở về Mục lục](#toc)
 ---
 
