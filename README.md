@@ -1,5 +1,5 @@
 <a id="toc"></a>
-### **Mục lục**
+### **Mục lục: P7 Lợi ích kẻ còn người mất**
 
 - [I. Khuyên tu Thánh đạo](#i-khuyen-tu-thanh-dao)
 - [II. Duyên xấu kéo tâm xuống – ví như mang đá đi trong bùn lầy](#ii-duyen-xau-keo-tam-xuong)
