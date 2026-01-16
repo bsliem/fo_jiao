@@ -1,114 +1,196 @@
-## 🖐️ Nguyên tắc chung: 4 ngón – 3 đốt = 12 câu
+🎉 **CHUẨN – BẠN ĐÃ VÀO ĐÚNG “NHÀ LINUX”** 🎉
 
-- **4 ngón** (trỏ – giữa – áp út – út) = **👆1 → 👆4**
-- **3 đốt/ngón** = **3 câu / mỗi 👆**
-- **Ngón cái**: không dùng đếm → **làm “neo chú tâm”** (đặt nhẹ lên ngón đang học)
+Dòng này là **tín hiệu xanh**:
 
-> Mỗi khi chuyển 👆, **đổi ngón** → não tự động “chia chương”, rất dễ nhớ.
+```
+liem20k@Hen-Hos:~$
+```
 
-------
-
-## 👆1 – Ngón TRỎ (97–99): *XÁC LẬP TRUNG TÂM*
-
-**Chủ đề:** *Ai – Ánh sáng – Toàn thể*
-
-**Đốt 1 (97)** – *Bác ra đế* → **世尊**
- 👉 *Ai đang hiện diện?* → **Thế Tôn**
-
-**Đốt 2 (98)** – *Dương kỳ ra* → **放大光明**
- 👉 *Tác dụng chính* → **Phóng đại ánh sáng**
-
-**Đốt 3 (99)** – *Tát ra bà* → **一切、全部**
- 👉 *Phạm vi* → **Tất cả**
-
-🔑 **Câu gói trí nhớ:**
-
-> *Thế Tôn – tỏa sáng – khắp tất cả*
+👉 `~` = `/home/liem20k`
+ 👉 Từ đây trở đi, bạn đang **học Linux/WSL đúng nghĩa**, không còn dính Windows nữa.
 
 ------
 
-## 👆2 – Ngón GIỮA (100–102): *CHẾ NGỰ – NHIẾP TÂM*
+## ✅ BƯỚC 1 – Xác nhận lần cuối (rất tốt để ghi nhớ)
 
-**Chủ đề:** *Dẹp loạn – Không làm loạn – Giữ tâm*
+Gõ:
 
-**Đốt 1 (100)** – *Bộ đa yết ra ha*
- → **降伏一切鬼神、邪氣與業力障礙**
- 👉 *Dẹp hết ngoại loạn*
+```
+pwd
+```
 
-**Đốt 2 (101)** – *Ni yết ra ha*
- → **不能作亂**
- 👉 *Không cho loạn khởi lại*
+Bạn sẽ thấy:
 
-**Đốt 3 (102)** – *Yết ca ra ha ni*
- → **攝持不散**
- 👉 *Giữ tâm không tán*
-
-🔑 **Câu gói:**
-
-> *Dẹp – không cho loạn – giữ tâm yên*
+```
+/home/liem20k
+```
 
 ------
 
-## 👆3 – Ngón ÁP ÚT (103–105): *TRÍ TUỆ – BẤT ĐỘNG*
+## ✅ BƯỚC 2 – Tạo folder học WSL (làm ngay)
 
-**Chủ đề:** *Phá mê – Viên mãn – Không động*
+```
+mkdir hoc_wsl
+ls
+```
 
-**Đốt 1 (103)** – *Bạt ra bí địa da*
- → **破除迷障與無明**
- 👉 *Trí tuệ phá mê*
+Bạn sẽ thấy:
 
-**Đốt 2 (104)** – *Sất đà nể*
- → **成就圓滿**
- 👉 *Công đức hiện tiền*
-
-**Đốt 3 (105)** – *A ca ra*
- → **不動、不搖、不隨境轉**
- 👉 *Không bị cảnh kéo*
-
-🔑 **Câu gói:**
-
-> *Phá mê – viên mãn – bất động*
+```
+hoc_wsl
+```
 
 ------
 
-## 👆4 – Ngón ÚT (106–108): *AN ỔN – BỀN VỮNG*
+## ✅ BƯỚC 3 – Đi vào folder học
 
-**Chủ đề:** *Qua sợ – An lành – Không thoái*
+```
+cd hoc_wsl
+pwd
+```
 
-**Đốt 1 (106)** – *Mật rị trụ*
- → **超越死亡恐懼與災厄**
- 👉 *Vượt sợ hãi*
+Kết quả:
 
-**Đốt 2 (107)** – *Bát rị đác ra da*
- → **吉祥、守護、安穩**
- 👉 *An ổn – hộ trì*
+```
+/home/liem20k/hoc_wsl
+```
 
-**Đốt 3 (108)** – *Nảnh yết rị*
- → **堅固不退**
- 👉 *Lực bền – không lui*
-
-🔑 **Câu gói:**
-
-> *Qua sợ – an ổn – không thoái*
+👉 **Từ đây, mọi thứ bạn học về WSL sẽ nằm gọn trong thư mục này.**
 
 ------
 
-## 🧠 Cách luyện 3 phút / lần (rất hiệu quả)
+## 🧠 Ghi nhớ rất quan trọng (1 câu thôi)
 
-1. **Nhìn tay – không nhìn chữ**
-2. Mỗi **đốt = 1 hơi thở**
-3. Mỗi **ngón = 1 ý trọn vẹn**
-4. Lầm thứ tự? → **quay lại ngón**, không cố nhớ số
+> **Luôn làm việc trong
+
+ôn cho tôi tạo markdown /home/liem20k liem20k@Hen-Hos:~$ mkdir hoc_wsl liem20k@Hen-Hos:~$ ls hoc_wsl liem20k@Hen-Hos:~$ cd hoc_wsl/ liem20k@Hen-Hos:~/hoc_wsl$
+
+Rất tốt 👍
+ Mình **ôn lại cho bạn bằng Markdown**, đúng kiểu **ghi chép học tập**, để bạn có thể **lưu thành file `.md` trong WSL** hoặc copy sang Obsidian / GitHub / Quarto.
 
 ------
 
-## 📌 Bản “xương sống” để nhẩm nhanh (1 dòng)
+## 🐧 Học WSL – Bài 1
 
-> **Thế Tôn sáng khắp** → **dẹp loạn giữ tâm** → **phá mê bất động** → **qua sợ an bền**
+### 📁 Tạo workspace trong `/home/liem20k`
 
-Nếu bạn muốn, mình có thể:
+```
+# Học WSL – Bài 1: Tạo thư mục làm việc
 
-- Biến đoạn này thành **bài kệ 4 câu** (mỗi 👆 một câu)
-- Hoặc làm **bảng 3 cột: đốt tay – âm – nghĩa** để in nhỏ bỏ túi
+## 1. Về thư mục HOME của Linux
+Lệnh:
+```bash
+cd ~
+```
 
-Bạn muốn theo cách nào để **thuộc trong 1–2 ngày**?
+Ý nghĩa:
+
+- `~` là viết tắt của `/home/liem20k`
+- Đây là **nhà của Linux user**
+- Mọi project học tập nên đặt ở đây
+
+Kiểm tra:
+
+```
+pwd
+```
+
+Kết quả mong đợi:
+
+```
+/home/liem20k
+```
+
+------
+
+## 2. Tạo thư mục học WSL
+
+Lệnh:
+
+```
+mkdir hoc_wsl
+```
+
+Giải thích:
+
+- `mkdir` = make directory
+- `hoc_wsl` = thư mục dùng riêng để học Linux / WSL
+
+Kiểm tra:
+
+```
+ls
+```
+
+Kết quả:
+
+```
+hoc_wsl
+```
+
+------
+
+## 3. Đi vào thư mục học
+
+Lệnh:
+
+```
+cd hoc_wsl
+```
+
+Kiểm tra vị trí:
+
+```
+pwd
+```
+
+Kết quả:
+
+```
+/home/liem20k/hoc_wsl
+```
+
+👉 Đây là **workspace học WSL chính thức**.
+
+------
+
+## 4. Ghi nhớ quan trọng
+
+- Không làm việc trong `/mnt/c` (Windows)
+- Luôn `cd ~` trước khi bắt đầu
+- Prompt chỉ để nhìn, **không gõ lại**
+
+Ví dụ prompt:
+
+```
+liem20k@Hen-Hos:~/hoc_wsl$
+```
+
+------
+
+## 5. Trạng thái hiện tại
+
+- ✅ Đã vào HOME
+- ✅ Đã tạo thư mục học
+- ✅ Đã đứng đúng vị trí Linux
+
+```
+---
+
+## 📌 Gợi ý bước tiếp theo (để ghi tiếp Markdown)
+Bạn có thể thêm ngay dưới file này:
+
+- Bài 2: `ls`, `pwd`, `cd`
+- Bài 3: tạo file `.txt`, `.md`
+- Bài 4: Bash script đầu tiên
+- Bài 5: Git trong WSL
+
+---
+
+## 👉 Nếu bạn muốn làm tiếp NGAY
+Mình đề xuất bước kế tiếp rất nhẹ:
+
+### 🔹 Bài 2 – Tạo file Markdown đầu tiên trong WSL
+```bash
+nano hoc_wsl.md
+```
