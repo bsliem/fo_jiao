@@ -1,196 +1,225 @@
-🎉 **CHUẨN – BẠN ĐÃ VÀO ĐÚNG “NHÀ LINUX”** 🎉
+****
 
-Dòng này là **tín hiệu xanh**:
+## 🌊 CHUỖI NHỚ ÂM–VẦN (121–132)
 
-```
-liem20k@Hen-Hos:~$
-```
+### **CỤM 1: BĂNG – HÀNG – BỘ – VƯƠNG**
 
-👉 `~` = `/home/liem20k`
- 👉 Từ đây trở đi, bạn đang **học Linux/WSL đúng nghĩa**, không còn dính Windows nữa.
+*(xử lý lực thô)*
 
-------
+**121. Tỳ đa băng ta na yết rị – 降伏**
+ 👉 **BĂNG → hạ → hàng phục**
 
-## ✅ BƯỚC 1 – Xác nhận lần cuối (rất tốt để ghi nhớ)
+> *“Băng tan → lửa dịu → hàng phục”*
 
-Gõ:
+**122. A sắc tra băng xá đế nẩm – 八部**
+ 👉 **BĂNG → bát bộ**
 
-```
-pwd
-```
+> *“Băng trải khắp → tám bộ hiện”*
 
-Bạn sẽ thấy:
+**123. Na xoa sát đác ra nhã xà – 夜叉王**
+ 👉 **XOA – XÁT → dạ xoa**
 
-```
-/home/liem20k
-```
+> *“Xoa xát mạnh → dạ xoa vương”*
 
-------
+🧠 **Câu nhớ:**
 
-## ✅ BƯỚC 2 – Tạo folder học WSL (làm ngay)
-
-```
-mkdir hoc_wsl
-ls
-```
-
-Bạn sẽ thấy:
-
-```
-hoc_wsl
-```
+> **Băng hạ – Bát bộ – Dạ xoa vương**
 
 ------
 
-## ✅ BƯỚC 3 – Đi vào folder học
+### **CỤM 2: NA – HỘ – CHÚNG – QUỶ**
 
-```
-cd hoc_wsl
-pwd
-```
+*(ổn định & bảo vệ)*
 
-Kết quả:
+**124. Ba ra tát đà na yết rị – 守護**
+ 👉 **NA → nâng → hộ**
 
-```
-/home/liem20k/hoc_wsl
-```
+> *“Na giữ → hộ trì”*
 
-👉 **Từ đây, mọi thứ bạn học về WSL sẽ nằm gọn trong thư mục này.**
+**125. A sắc tra nẩm – 八眾**
+ 👉 **NẨM → đông → chúng**
 
-------
+> *“Nẩm nập → bát chúng”*
 
-## 🧠 Ghi nhớ rất quan trọng (1 câu thôi)
+**126. Ma ha yết ra ha nhã xà – 大鬼王**
+ 👉 **HA → hắc → quỷ lớn**
 
-> **Luôn làm việc trong
+> *“Ha mạnh → đại quỷ vương”*
 
-ôn cho tôi tạo markdown /home/liem20k liem20k@Hen-Hos:~$ mkdir hoc_wsl liem20k@Hen-Hos:~$ ls hoc_wsl liem20k@Hen-Hos:~$ cd hoc_wsl/ liem20k@Hen-Hos:~/hoc_wsl$
+🧠 **Câu nhớ:**
 
-Rất tốt 👍
- Mình **ôn lại cho bạn bằng Markdown**, đúng kiểu **ghi chép học tập**, để bạn có thể **lưu thành file `.md` trong WSL** hoặc copy sang Obsidian / GitHub / Quarto.
+> **Na hộ – Bát chúng – Đại quỷ vương**
 
 ------
 
-## 🐧 Học WSL – Bài 1
+### **CỤM 3: PHỤC – NHIẾP – HỘ – PHÁ**
 
-### 📁 Tạo workspace trong `/home/liem20k`
+*(thu – giữ – dẹp)*
 
-```
-# Học WSL – Bài 1: Tạo thư mục làm việc
+**127. Tỳ đa băng tát na yết rị – 攝伏**
+ 👉 **BĂNG → bó → nhiếp phục**
 
-## 1. Về thư mục HOME của Linux
-Lệnh:
-```bash
-cd ~
-```
+> *“Băng bó → nhiếp phục”*
 
-Ý nghĩa:
+**128. Tát bà xá đô lô – 普攝**
+ 👉 **XÁ → xòe → phổ nhiếp**
 
-- `~` là viết tắt của `/home/liem20k`
-- Đây là **nhà của Linux user**
-- Mọi project học tập nên đặt ở đây
+> *“Xòe tay → phổ nhiếp”*
 
-Kiểm tra:
+**129. Nể bà ra nhã xà – 守護王**
+ 👉 **NỂ → nắm → vua hộ**
 
-```
-pwd
-```
+> *“Nắm giữ → hộ vương”*
 
-Kết quả mong đợi:
+🧠 **Câu nhớ:**
 
-```
-/home/liem20k
-```
+> **Nhiếp phục – Phổ nhiếp – Hộ vương**
 
 ------
 
-## 2. Tạo thư mục học WSL
+### **CỤM 4: PHÁ – CHƯỚNG – QUỶ**
 
-Lệnh:
+*(dọn sạch)*
 
-```
-mkdir hoc_wsl
-```
+**130. Hô lam đột tất phạp – 摧破**
+ 👉 **HÔ → húc → phá**
 
-Giải thích:
+> *“Hô một cái → phá tan”*
 
-- `mkdir` = make directory
-- `hoc_wsl` = thư mục dùng riêng để học Linux / WSL
+**131. Nan giá na xá ni – 障礙**
+ 👉 **NAN → nạn → chướng ngại**
 
-Kiểm tra:
+> *“Nan là nạn → chướng”*
 
-```
-ls
-```
+**132. Bí sa xá – 鬼神**
+ 👉 **BÍ → bóng → quỷ thần**
 
-Kết quả:
+> *“Bí ẩn → quỷ thần”*
 
-```
-hoc_wsl
-```
+🧠 **Câu nhớ:**
 
-------
+> **Phá – Chướng – Quỷ**
 
-## 3. Đi vào thư mục học
+## 🔥🌊 CHUỖI NHỚ ÂM–VẦN (133–142)
 
-Lệnh:
+### **CỤM 1: THẬT – LỬA – NƯỚC – ĐỨNG YÊN**
 
-```
-cd hoc_wsl
-```
+*(nền của mọi lực)*
 
-Kiểm tra vị trí:
+### **133. Tất đác ra – 真實**
 
-```
-pwd
-```
+👉 **TẤT → thật → chân thật**
 
-Kết quả:
+> *“Tất cả gạn lại → còn Chân Thật”*
 
-```
-/home/liem20k/hoc_wsl
-```
-
-👉 Đây là **workspace học WSL chính thức**.
+🧠 **Móc nhớ:** *Tất = thật*
 
 ------
 
-## 4. Ghi nhớ quan trọng
+### **134. A kiết ni – 火**
 
-- Không làm việc trong `/mnt/c` (Windows)
-- Luôn `cd ~` trước khi bắt đầu
-- Prompt chỉ để nhìn, **không gõ lại**
+👉 **KIẾT → kết nhiệt → lửa**
 
-Ví dụ prompt:
+> *“Kết lại → nóng → lửa”*
 
-```
-liem20k@Hen-Hos:~/hoc_wsl$
-```
+🧠 **Móc nhớ:** *Kiết = kết → sinh hỏa*
 
 ------
 
-## 5. Trạng thái hiện tại
+### **135. Ô đà ca ra nhã xà – 水王**
 
-- ✅ Đã vào HOME
-- ✅ Đã tạo thư mục học
-- ✅ Đã đứng đúng vị trí Linux
+👉 **Ô → ôm → nước → vua nước**
 
-```
----
+> *“Ôm mát → thủy vương”*
 
-## 📌 Gợi ý bước tiếp theo (để ghi tiếp Markdown)
-Bạn có thể thêm ngay dưới file này:
+🧠 **Móc nhớ:** *Ô = nước ôm lửa*
 
-- Bài 2: `ls`, `pwd`, `cd`
-- Bài 3: tạo file `.txt`, `.md`
-- Bài 4: Bash script đầu tiên
-- Bài 5: Git trong WSL
+------
 
----
+### **136. A bát ra thị đa câu ra – 不動**
 
-## 👉 Nếu bạn muốn làm tiếp NGAY
-Mình đề xuất bước kế tiếp rất nhẹ:
+👉 **BÁT → đặt → đứng yên**
 
-### 🔹 Bài 2 – Tạo file Markdown đầu tiên trong WSL
-```bash
-nano hoc_wsl.md
-```
+> *“Đặt bát xuống → không động”*
+
+🧠 **Móc nhớ:** *Bát đặt = bất động*
+
+------
+
+🧩 **Câu nhớ cụm 1:**
+
+> **Tất thật – Kiết hỏa – Ô thủy – Bát bất động**
+
+------
+
+## ⚡🌟 CỤM 2: LỰC – SÁNG – UY – TRẮNG
+
+*(lực hiển lộ)*
+
+### **137. Ma ha bác ra chiến trì – 大力**
+
+👉 **BÁC → bật → lực lớn**
+
+> *“Bác mạnh → đại lực”*
+
+🧠 *Bác = lực bật ra*
+
+------
+
+### **138. Ma ha điệp đa – 大光**
+
+👉 **ĐIỆP → lóe → ánh sáng**
+
+> *“Điệp lóe → đại quang”*
+
+🧠 *Điệp = chớp sáng*
+
+------
+
+### **139. Ma ha đế xà – 大威**
+
+👉 **ĐẾ → đè → uy**
+
+> *“Đế xuống → uy hiện”*
+
+🧠 *Đế = uy lực*
+
+------
+
+### **140. Ma ha thuế đa xà bà ra – 大白**
+
+👉 **THUẾ → thuần → trắng**
+
+> *“Thuần nhất → đại bạch”*
+
+🧠 *Thuế = thuần*
+
+------
+
+🧩 **Câu nhớ cụm 2:**
+
+> **Bác lực – Điệp quang – Đế uy – Thuế trắng**
+
+------
+
+## 🛡️✨ CỤM 3: HỘ – TỊNH
+
+*(kết quả)*
+
+### **141. Ma ha bạt ra bàn đà ra – 大護**
+
+👉 **BẠT → bọc → hộ lớn**
+
+> *“Bạt che → đại hộ”*
+
+🧠 *Bạt = che chắn*
+
+------
+
+### **142. Bà tất nể – 清淨**
+
+👉 **TẤT → sạch → thanh tịnh**
+
+> *“Tất lọc hết → tịnh”*
+
+🧠 *Tất = lọc sạch*
