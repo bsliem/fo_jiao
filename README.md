@@ -100,126 +100,90 @@
 
 > **Phá – Chướng – Quỷ**
 
-## 🔥🌊 CHUỖI NHỚ ÂM–VẦN (133–142)
+## 🔥🌊 CHUỖI NHỚ ÂM–VẦN (133–144)
 
-### **CỤM 1: THẬT – LỬA – NƯỚC – ĐỨNG YÊN**
+## 🔹 CỤM 1 (133–135)
 
-*(nền của mọi lực)*
+### **THẬT – LỬA – NƯỚC** *(gốc sinh khởi)*
 
-### **133. Tất đác ra – 真實**
+**133. Tất đác ra – 真實**
+ 👉 **TẤT → thật**
+ 🧠 *“Tất cả lọc lại → còn Chân Thật”*
 
-👉 **TẤT → thật → chân thật**
+**134. A kiết ni – 火**
+ 👉 **KIẾT → kết → nhiệt → lửa**
+ 🧠 *“Kết thì nóng”*
 
-> *“Tất cả gạn lại → còn Chân Thật”*
+**135. Ô đà ca ra nhã xà – 水王**
+ 👉 **Ô → ôm → mát → nước (vua nước)**
+ 🧠 *“Ôm mát dập lửa”*
 
-🧠 **Móc nhớ:** *Tất = thật*
+🔔 **Câu vần cụm 1:**
 
-------
-
-### **134. A kiết ni – 火**
-
-👉 **KIẾT → kết nhiệt → lửa**
-
-> *“Kết lại → nóng → lửa”*
-
-🧠 **Móc nhớ:** *Kiết = kết → sinh hỏa*
+> **Tất là thật – Kiết sinh hỏa – Ô thành thủy**
 
 ------
 
-### **135. Ô đà ca ra nhã xà – 水王**
+## 🔹 CỤM 2 (136–138)
 
-👉 **Ô → ôm → nước → vua nước**
+### **ĐỊNH – LỰC – SÁNG** *(lực từ định hiện ra)*
 
-> *“Ôm mát → thủy vương”*
+**136. A bát ra thị đa câu ra – 不動**
+ 👉 **BÁT → đặt xuống → đứng yên**
+ 🧠 *“Bát đặt rồi → bất động”*
 
-🧠 **Móc nhớ:** *Ô = nước ôm lửa*
+**137. Ma ha bác ra chiến trì – 大力**
+ 👉 **BÁC → bật mạnh → lực lớn**
+ 🧠 *“Bác một cái → có lực”*
 
-------
+**138. Ma ha điệp đa – 大光**
+ 👉 **ĐIỆP → lóe → ánh sáng**
+ 🧠 *“Điệp lóe → quang minh”*
 
-### **136. A bát ra thị đa câu ra – 不動**
+🔔 **Câu vần cụm 2:**
 
-👉 **BÁT → đặt → đứng yên**
-
-> *“Đặt bát xuống → không động”*
-
-🧠 **Móc nhớ:** *Bát đặt = bất động*
-
-------
-
-🧩 **Câu nhớ cụm 1:**
-
-> **Tất thật – Kiết hỏa – Ô thủy – Bát bất động**
+> **Bát bất động – Bác đại lực – Điệp đại quang**
 
 ------
 
-## ⚡🌟 CỤM 2: LỰC – SÁNG – UY – TRẮNG
+## 🔹 CỤM 3 (139–141)
 
-*(lực hiển lộ)*
+### **UY – TRẮNG – HỘ** *(lực thuần & bảo hộ)*
 
-### **137. Ma ha bác ra chiến trì – 大力**
+**139. Ma ha đế xà – 大威**
+ 👉 **ĐẾ → đè xuống → uy**
+ 🧠 *“Đế hiện → uy sinh”*
 
-👉 **BÁC → bật → lực lớn**
+**140. Ma ha thuế đa xà bà ra – 大白**
+ 👉 **THUẾ → thuần → trắng**
+ 🧠 *“Thuần nhất → đại bạch”*
 
-> *“Bác mạnh → đại lực”*
+**141. Ma ha bạt ra bàn đà ra – 大護**
+ 👉 **BẠT → bọc → che → hộ**
+ 🧠 *“Bạt che → đại hộ”*
 
-🧠 *Bác = lực bật ra*
+🔔 **Câu vần cụm 3:**
 
-------
-
-### **138. Ma ha điệp đa – 大光**
-
-👉 **ĐIỆP → lóe → ánh sáng**
-
-> *“Điệp lóe → đại quang”*
-
-🧠 *Điệp = chớp sáng*
+> **Đế sinh uy – Thuế thành trắng – Bạt làm hộ**
 
 ------
 
-### **139. Ma ha đế xà – 大威**
+## 🔹 CỤM 4 (142–144)
 
-👉 **ĐẾ → đè → uy**
+### **TỊNH – THÁNH – TRÍ** *(kết quả tối hậu)*
 
-> *“Đế xuống → uy hiện”*
+**142. Bà tất nể – 清淨**
+ 👉 **TẤT → lọc sạch → tịnh**
+ 🧠 *“Tất lọc hết → thanh tịnh”*
 
-🧠 *Đế = uy lực*
+**143. A rị da đa ra – 聖者**
+ 👉 **A RỊ → cao → thánh**
+ 🧠 *“A rị vượt lên → bậc thánh”*
 
-------
+**144. Tỳ rị câu tri – 智慧**
+ 👉 **TRI → biết → trí tuệ**
+ 🧠 *“Tri viên mãn → trí huệ”*
 
-### **140. Ma ha thuế đa xà bà ra – 大白**
+🔔 **Câu vần cụm 4:**
 
-👉 **THUẾ → thuần → trắng**
-
-> *“Thuần nhất → đại bạch”*
-
-🧠 *Thuế = thuần*
-
-------
-
-🧩 **Câu nhớ cụm 2:**
-
-> **Bác lực – Điệp quang – Đế uy – Thuế trắng**
-
-------
-
-## 🛡️✨ CỤM 3: HỘ – TỊNH
-
-*(kết quả)*
-
-### **141. Ma ha bạt ra bàn đà ra – 大護**
-
-👉 **BẠT → bọc → hộ lớn**
-
-> *“Bạt che → đại hộ”*
-
-🧠 *Bạt = che chắn*
-
-------
-
-### **142. Bà tất nể – 清淨**
-
-👉 **TẤT → sạch → thanh tịnh**
-
-> *“Tất lọc hết → tịnh”*
-
-🧠 *Tất = lọc sạch*
+> **Tất thành tịnh – A rị thành thánh – Tri là trí**
