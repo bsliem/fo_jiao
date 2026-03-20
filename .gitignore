@@ -1,4 +1,31 @@
-.Rproj.user
+# R ####
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+
+# macOS ####
+.DS_Store
+
+# Word / Office temp ####
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+
+# Logs ####
+*.log
+
+# HTML download folders ####
+*_files/
+
+# JS / HTML cache ####
+*.download
+saved_resource.html
+
+# Optional: large binary (nếu không muốn track hết PDF) ####
+# *.pdf
+# *.docx
+
+# Other ####
+Thumbs.db
